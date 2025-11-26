@@ -24,6 +24,22 @@ const sidebars = {
     },
     {
       type: 'category',
+      label: 'Co-occurring Conditions',
+      items: [
+        'co-occurring/autism-cp',
+        'co-occurring/neurological-vs-neurodevelopmental',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Clinical Management',
+      items: [
+        'management/physiatrist-role',
+        'management/gait-patterns',
+      ],
+    },
+    {
+      type: 'category',
       label: 'Adults with CP',
       items: [
         'adults/late-diagnosis',

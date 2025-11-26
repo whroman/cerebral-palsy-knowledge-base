@@ -1,50 +1,94 @@
 ---
 sidebar_position: 1
-title: Introduction
+title: Table of Contents
 ---
 
-# Cerebral Palsy Knowledge Base
+# Cerebral Palsy Knowledge Base - Table of Contents
 
 ## Purpose
+Evidence-based information hub for cerebral palsy assessment, management, and co-occurring conditions. All claims are backed by peer-reviewed sources and clinical guidelines.
 
-This knowledge base provides evidence-based information about cerebral palsy (CP) assessment and management, with a particular focus on adults. All medical claims are supported by citations from peer-reviewed sources, clinical guidelines, and official classification system documentation.
+---
 
-## Important Note on Sources
+## 📚 Core Knowledge Areas
 
-Every medical claim in this knowledge base is backed by legitimate sources including:
-- Peer-reviewed research from PubMed
-- Official classification system documentation (GMFCS, MACS, CFCS)
-- Clinical guidelines from NICE and AACPDM
-- Systematic reviews and meta-analyses
+### 1. Classification Systems
+**Understanding how CP is categorized and assessed**
 
-## Scope
+- **[GMFCS - Gross Motor Function](./classification/gmfcs.md)** - Five-level system for classifying gross motor abilities
+- **[MACS - Manual Ability](./classification/macs.md)** - Classification of hand function and object manipulation
+- **[CFCS - Communication Function](./classification/cfcs.md)** - System for classifying everyday communication effectiveness
 
-This resource covers:
-- Modern classification systems for CP
-- Assessment standards for adults with CP
-- Cognitive and functional assessment tools
-- Resources for adults diagnosed later in life
-- Current research and evidence
+### 2. Assessment Standards
+**Comprehensive evaluation approaches for adults with CP**
 
-## Key Statistics
+- **[Assessment Overview](./assessment/overview.md)** - NICE guidelines and systematic review findings
+- **[Cognitive Assessment](./assessment/cognitive.md)** - Prevalence and evaluation of intellectual function
+- **[Functional Independence](./assessment/functional-independence.md)** - FIM and other independence measures
 
-According to systematic reviews:
-- **Globally, there are more than 17 million individuals diagnosed with CP** [^1]
-- **Approximately 30-50% of people with CP have typical intelligence** [^2]
-- **Pain prevalence in adults with CP is approximately 70%** [^3]
-- **On average, 40% of adults with CP are employed and 30% live independently** [^4]
+### 3. Co-occurring Conditions
+**Understanding related and overlapping conditions**
 
-## For Families
+- **[Autism and CP Co-occurrence](./co-occurring/autism-cp.md)** - 6-9% prevalence, screening importance, assessment adaptations
+- **[Classification Differences](./co-occurring/neurological-vs-neurodevelopmental.md)** - Why CP is neurological while autism is neurodevelopmental
 
-This knowledge base was created to help families understand:
-- Modern assessment standards for adults with CP
-- Classification systems used by healthcare providers
-- Available resources and support services
-- Evidence-based approaches to care
+### 4. Clinical Management
+**Treatment approaches and specialist roles**
+
+- **[Physiatrists as Coordinators](./management/physiatrist-role.md)** - Central role in comprehensive adult CP care
+- **[Gait Patterns and Treatment](./management/gait-patterns.md)** - Understanding and treating asymmetric walking patterns
+
+### 5. Adults with CP
+**Specific considerations for adult populations**
+
+- **[Late Diagnosis](./adults/late-diagnosis.md)** - Adults diagnosed later in life or never properly assessed
+- **[Finding Adult CP Services](./adults/finding-services.md)** - Locating specialized adult CP programs
+
+### 6. Research & Guidelines
+**Current evidence and clinical standards**
+
+- **[Systematic Reviews 2020-2024](./research/recent-reviews.md)** - Latest research on adult CP outcomes
+- **[Clinical Guidelines](./research/guidelines.md)** - NICE, AACPDM, and international standards
+
+---
+
+## 🔍 Quick Reference
+
+### Key Statistics
+- **17 million** people globally have CP [^1]
+- **70%** of adults with CP experience chronic pain [^2]
+- **6-9%** of people with CP also have autism (vs 1-2% general population) [^3]
+- **5-fold increased odds** of autism in people with CP [^3]
+
+### Critical Specialists
+- **Physiatrist** - Comprehensive assessment coordinator
+- **Neurologist** - Medication and seizure management
+- **Neuropsychologist** - Cognitive and autism assessment
+- **PT/OT/SLP** - Therapy services
+
+### Important Classifications
+- **CP**: Neurological condition (ICD-11 Chapter 8)
+- **Autism**: Neurodevelopmental disorder (DSM-5/ICD-11)
+- Despite different classifications, high co-occurrence rate
+
+---
+
+## 📖 How to Use This Knowledge Base
+
+1. **For Initial Understanding**: Start with Classification Systems
+2. **For Adult Assessment Needs**: Review Assessment Standards and Physiatrist Role
+3. **For Co-occurring Conditions**: Check Autism-CP section
+4. **For Finding Services**: See Adults with CP section
+5. **For Research**: Consult Research & Guidelines
+
+---
+
+## ⚠️ Important Notice
+
+All information is backed by legitimate medical sources. No unsourced claims. This resource is for educational purposes - always consult qualified healthcare professionals for medical advice.
 
 ## References
 
-[^1]: [Cognitive Functioning and Assessment in Adults with Cerebral Palsy: A Scoping Review](https://www.tandfonline.com/doi/full/10.1080/17518423.2024.2347991) (2024)
-[^2]: [Cognitive Functioning and Assessment in Adults with Cerebral Palsy: A Scoping Review](https://pubmed.ncbi.nlm.nih.gov/38702978/) (2024)
-[^3]: [Pain in adults with cerebral palsy: A systematic review and meta-analysis](https://pubmed.ncbi.nlm.nih.gov/32061920/) (2020)
-[^4]: [Epidemiology of Cerebral Palsy in Adulthood: A Systematic Review and Meta-analysis](https://pubmed.ncbi.nlm.nih.gov/32059945/) (2020)
+[^1]: [Cognitive Functioning and Assessment in Adults with CP](https://www.tandfonline.com/doi/full/10.1080/17518423.2024.2347991) (2024)
+[^2]: [Pain in adults with cerebral palsy: A systematic review](https://pubmed.ncbi.nlm.nih.gov/32061920/) (2020)
+[^3]: [Association of CP with autism spectrum disorder - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11015243/) (2024)
