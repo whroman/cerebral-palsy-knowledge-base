@@ -11,13 +11,15 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-site.github.io',
+  url: 'https://whroman.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
-  baseUrl: '/',
+  baseUrl: '/cerebral-palsy-knowledge-base/',
 
   // GitHub pages deployment config.
-  organizationName: 'your-org',
-  projectName: 'cerebral-palsy-kb',
+  organizationName: 'whroman',
+  projectName: 'cerebral-palsy-knowledge-base',
+  deploymentBranch: 'gh-pages',
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
