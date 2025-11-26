@@ -42,13 +42,13 @@ Evidence-based information hub for cerebral palsy assessment, management, and co
 **Specific considerations for adult populations**
 
 - **[Late Diagnosis](./adults/late-diagnosis.md)** - Adults diagnosed later in life or never properly assessed
-- **[Finding Adult CP Services](./adults/finding-services.md)** - Locating specialized adult CP programs
+- **Finding Adult CP Services** *(coming soon)* - Locating specialized adult CP programs
 
 ### 6. Research & Guidelines
 **Current evidence and clinical standards**
 
-- **[Systematic Reviews 2020-2024](./research/recent-reviews.md)** - Latest research on adult CP outcomes
-- **[Clinical Guidelines](./research/guidelines.md)** - NICE, AACPDM, and international standards
+- **Systematic Reviews 2020-2024** *(coming soon)* - Latest research on adult CP outcomes
+- **Clinical Guidelines** *(coming soon)* - NICE, AACPDM, and international standards
 
 ---
 

@@ -21,7 +21,7 @@ According to multiple systematic studies:
 
 ### Statistical Associations
 
-**"After adjustment for age, sex, race/ethnicity, family highest education level, family income level and geographical region, the OR among children with cerebral palsy, compared with children without cerebral palsy, was 5.07 (95% CI 3.25 to 7.91) for ASD (p<0.001)"** [^1]
+**"After adjustment for age, sex, race/ethnicity, family highest education level, family income level and geographical region, the OR among children with cerebral palsy, compared with children without cerebral palsy, was 5.07 (95% CI 3.25 to 7.91) for ASD (p&lt;0.001)"** [^1]
 
 This represents a **5-fold increased odds** of having autism among children with CP.
 
