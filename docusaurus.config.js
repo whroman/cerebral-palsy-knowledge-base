@@ -38,7 +38,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl: undefined, // Disable edit button for now
           remarkPlugins: [],
-          showLastUpdateTime: false, // Disabled until first commit
+          showLastUpdateTime: true,
           showLastUpdateAuthor: false,
         },
         blog: false, // Disable blog
