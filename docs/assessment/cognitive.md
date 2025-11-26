@@ -16,7 +16,7 @@ Research shows significant variability in cognitive function among people with c
 
 ## Important Understanding
 
-According to research: **"People with cerebral palsy can have varying degrees of cognitive impairment or none whatsoever. People with cerebral palsy are more likely to have learning disorders but have normal intelligence. Intellectual level among people with cerebral palsy varies from genius to intellectually disabled, as it does in the general population, and experts have stated that it is important not to underestimate the capabilities of a person with cerebral palsy and to give them every opportunity to learn."** [^4]
+A comprehensive review found: **"There is large variability in the type and severity of cognitive impairments among individuals with cerebral palsy, ranging from challenges affecting functioning in just one area to severe and global impairments. Although cognition and motor functioning are associated, there is not a one-to-one relationship."** [^4a] Furthermore, **"36.2% had normal/borderline intellectual development levels, 33% had mild/moderate intellectual disability, and 30.8% had severe intellectual disability,"** demonstrating the full spectrum of cognitive abilities in this population. [^4b]
 
 ## Assessment Challenges in Adults
 
@@ -43,7 +43,8 @@ According to research published in Frontiers in Neurology: **"Systematic Monitor
 [^1]: [Cognitive Functioning and Assessment in Adults with Cerebral Palsy: A Scoping Review](https://www.tandfonline.com/doi/full/10.1080/17518423.2024.2347991)
 [^2]: [Does Cerebral Palsy Affect Intelligence? Understanding Cognitive Effects](https://www.flintrehab.com/does-cerebral-palsy-affect-intelligence/)
 [^3]: [Cerebral Palsy - StatPearls - NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK538147/)
-[^4]: [Cerebral palsy - Wikipedia](https://en.wikipedia.org/wiki/Cerebral_palsy)
+[^4a]: [The Role of Cognitive Functioning in the ICF Framework: A Systematic Review - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12470702/)
+[^4b]: [Intelligence, Functioning, and Related Factors in Children with Cerebral Palsy - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC5439469/)
 [^5]: [Cognitive Functioning and Assessment in Adults with Cerebral Palsy: A Scoping Review - PubMed](https://pubmed.ncbi.nlm.nih.gov/38702978/)
 [^6]: [Assessment of adult patients with cerebral palsy - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7756828/)
 [^7]: [Systematic Monitoring of Cognition for Adults With Cerebral Palsy - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8492925/)
