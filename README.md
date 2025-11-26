@@ -6,7 +6,7 @@ A comprehensive, evidence-based knowledge base about cerebral palsy assessment a
 
 - **100% Citation-Based**: Every medical claim is backed by legitimate sources
 - **Zero AI-Generated Content**: All information comes from peer-reviewed research, clinical guidelines, and official documentation
-- **Focus on Adults**: Specifically addresses assessment needs for adults with CP, including those diagnosed later in life
+- **Focus on Adults**: Specifically addresses assessment needs for adults with cerebral palsy, including those diagnosed later in life
 - **Modern Web Interface**: Built with Docusaurus for easy navigation and excellent UX
 
 ## 📚 Content Includes
@@ -66,7 +66,7 @@ All information is sourced from:
 - **CanChild McMaster University** - GMFCS official documentation
 - **MACS.nu** - Manual Ability Classification System
 - **CFCS.us** - Communication Function Classification System
-- **NICE Guidelines** - UK clinical guidelines for CP
+- **NICE Guidelines** - UK clinical guidelines for cerebral palsy
 - **PubMed** - Peer-reviewed research papers
 - **Systematic reviews and meta-analyses** from 2020-2024
 
@@ -74,8 +74,12 @@ All information is sourced from:
 
 This knowledge base aggregates information from public medical sources. All original sources retain their respective copyrights.
 
-## ⚠️ Disclaimer
+## ⚠️ Important Policies
 
+### Abbreviation Policy
+**This knowledge base does NOT use "CP" as an abbreviation for cerebral palsy.** Due to safety concerns with this abbreviation having dangerous alternate meanings online, we spell out "cerebral palsy" in full throughout. See [ABBREVIATION_POLICY.md](./ABBREVIATION_POLICY.md) for details.
+
+### Medical Disclaimer
 This knowledge base is for educational purposes only. Always consult with qualified healthcare professionals for medical advice and assessment.
 
 ## 🔍 Verification

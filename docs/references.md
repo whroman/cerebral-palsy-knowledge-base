@@ -35,20 +35,20 @@ title: Complete References
 ## Systematic Reviews and Meta-Analyses
 
 ### Cognitive Assessment
-- [Cognitive Functioning and Assessment in Adults with CP: A Scoping Review (2024)](https://pubmed.ncbi.nlm.nih.gov/38702978/)
-- [Full Text - Cognitive Functioning and Assessment in Adults with CP](https://www.tandfonline.com/doi/full/10.1080/17518423.2024.2347991)
+- [Cognitive Functioning and Assessment in Adults with Cerebral Palsy: A Scoping Review (2024)](https://pubmed.ncbi.nlm.nih.gov/38702978/)
+- [Full Text - Cognitive Functioning and Assessment in Adults with Cerebral Palsy](https://www.tandfonline.com/doi/full/10.1080/17518423.2024.2347991)
 
 ### Pain Assessment
 - [Pain in adults with cerebral palsy: A systematic review and meta-analysis (2020)](https://pubmed.ncbi.nlm.nih.gov/32061920/)
 
 ### Health Service Use
-- [Health service use among adults with CP: a mixed-methods systematic review (2021)](https://pubmed.ncbi.nlm.nih.gov/34705276/)
+- [Health service use among adults with cerebral palsy: a mixed-methods systematic review (2021)](https://pubmed.ncbi.nlm.nih.gov/34705276/)
 
 ### Epidemiology
-- [Epidemiology of CP in Adulthood: A Systematic Review and Meta-analysis (2020)](https://pubmed.ncbi.nlm.nih.gov/32059945/)
+- [Epidemiology of Cerebral Palsy in Adulthood: A Systematic Review and Meta-analysis (2020)](https://pubmed.ncbi.nlm.nih.gov/32059945/)
 
 ### Research Overview
-- [Mapping the focus of research with adults with CP: an overview of systematic reviews (2022)](https://pubmed.ncbi.nlm.nih.gov/35114857/)
+- [Mapping the focus of research with adults with cerebral palsy: an overview of systematic reviews (2022)](https://pubmed.ncbi.nlm.nih.gov/35114857/)
 
 ## Assessment Tools
 
@@ -76,5 +76,5 @@ title: Complete References
 
 ### Research Articles
 - [Assessment of adult patients with cerebral palsy - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7756828/)
-- [Systematic Monitoring of Cognition for Adults With CP - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8492925/)
-- [Overview of Four Functional Classification Systems in CP - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC5406689/)
+- [Systematic Monitoring of Cognition for Adults With Cerebral Palsy - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8492925/)
+- [Overview of Four Functional Classification Systems in Cerebral Palsy - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC5406689/)

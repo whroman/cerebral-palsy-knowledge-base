@@ -12,7 +12,7 @@ Many adults with cerebral palsy receive their diagnosis later in life, particula
 ### Key Facts About Late Diagnosis
 
 - **"Individuals who are diagnosed with cerebral palsy later in life usually have very mild cerebral palsy with symptoms so subtle that they've gone unnoticed for years and there was no need to suspect brain damage."** [^1]
-- **"When someone is diagnosed with CP later in life, it is often because they did not receive screening for CP previously, or because their symptoms were not severe enough to be noticeable until later in life."** [^1]
+- **"When someone is diagnosed with cerebral palsy later in life, it is often because they did not receive screening for cerebral palsy previously, or because their symptoms were not severe enough to be noticeable until later in life."** [^1]
 
 ### Important Clarification
 
@@ -24,12 +24,12 @@ Many adults with cerebral palsy receive their diagnosis later in life, particula
 
 Research shows significant delays in diagnosis:
 
-- **"Parents recognize the symptoms of CP at a mean age of 13 months with a mean delay of 23 months between symptom recognition and seeking medical help, and CP is diagnosed by a doctor at a mean age of 5 1/2 years."** [^3]
-- **"Some physicians delay their diagnosis until the brain is fully developed between the ages of 3 and 5, while others have delayed diagnosis until much later, with some children learning that they have CP at the age of 8 or later, typically when symptoms are mild and can be misidentified."** [^3]
+- **"Parents recognize the symptoms of cerebral palsy at a mean age of 13 months with a mean delay of 23 months between symptom recognition and seeking medical help, and cerebral palsy is diagnosed by a doctor at a mean age of 5 1/2 years."** [^3]
+- **"Some physicians delay their diagnosis until the brain is fully developed between the ages of 3 and 5, while others have delayed diagnosis until much later, with some children learning that they have cerebral palsy at the age of 8 or later, typically when symptoms are mild and can be misidentified."** [^3]
 
 ## Missed and Undiagnosed Cases
 
-**"It is possible for a child with CP to go undiagnosed for years, and another concern for parents is that a child can go through life with undiagnosed cerebral palsy or with a misdiagnosis."** [^3]
+**"It is possible for a child with cerebral palsy to go undiagnosed for years, and another concern for parents is that a child can go through life with undiagnosed cerebral palsy or with a misdiagnosis."** [^3]
 
 **"Some people are not diagnosed with cerebral palsy as children, most commonly occurring in children with mild cerebral palsy and symptoms, though in other cases, a child may be misdiagnosed with a disability or condition that is similar to cerebral palsy."** [^3]
 
@@ -43,7 +43,7 @@ Research shows significant delays in diagnosis:
 
 **"Late diagnosis means some infants do not receive early intervention when they would benefit most."** [^6]
 
-**"Children with CP have the best outcomes when interventions are started early in development, which is why it is so essential to get the diagnosis as soon as possible."** [^6]
+**"Children with cerebral palsy have the best outcomes when interventions are started early in development, which is why it is so essential to get the diagnosis as soon as possible."** [^6]
 
 ## References
 

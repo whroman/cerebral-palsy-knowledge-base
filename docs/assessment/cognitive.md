@@ -3,30 +3,30 @@ sidebar_position: 2
 title: Cognitive Assessment
 ---
 
-# Cognitive and Intellectual Assessment in Adults with CP
+# Cognitive and Intellectual Assessment in Adults with Cerebral Palsy
 
 ## Prevalence of Cognitive Involvement
 
 Research shows significant variability in cognitive function among people with cerebral palsy:
 
-- **"Globally, there are more than 17 million individuals diagnosed with CP, and one-fourth of CP patients will never be able to walk and 50% of them with severe intellectual disability will become adults."** [^1]
-- **"About half of all people with CP have no disruptions in their cognitive abilities. That means it doesn't affect their intelligence at all."** [^2]
+- **"Globally, there are more than 17 million individuals diagnosed with cerebral palsy, and one-fourth of cerebral palsy patients will never be able to walk and 50% of them with severe intellectual disability will become adults."** [^1]
+- **"About half of all people with cerebral palsy have no disruptions in their cognitive abilities. That means it doesn't affect their intelligence at all."** [^2]
 - **"However, about 30 to 50 percent of children with Cerebral Palsy have some level of cognitive impairment. Children with severe Cerebral Palsy have a greater likelihood of having cognitive impairments."** [^2]
 - **"Up to 50% of individuals with cerebral palsy also experience intellectual impairments."** [^3]
 
 ## Important Understanding
 
-According to research: **"People with CP can have varying degrees of cognitive impairment or none whatsoever. People with CP are more likely to have learning disorders but have normal intelligence. Intellectual level among people with CP varies from genius to intellectually disabled, as it does in the general population, and experts have stated that it is important not to underestimate the capabilities of a person with CP and to give them every opportunity to learn."** [^4]
+According to research: **"People with cerebral palsy can have varying degrees of cognitive impairment or none whatsoever. People with cerebral palsy are more likely to have learning disorders but have normal intelligence. Intellectual level among people with cerebral palsy varies from genius to intellectually disabled, as it does in the general population, and experts have stated that it is important not to underestimate the capabilities of a person with cerebral palsy and to give them every opportunity to learn."** [^4]
 
 ## Assessment Challenges in Adults
 
-A 2024 scoping review found: **"The included studies show great variability in reported intelligence and cognitive functioning in adults with CP, and cognitive deficits have been reported in all cognitive domains."** [^5]
+A 2024 scoping review found: **"The included studies show great variability in reported intelligence and cognitive functioning in adults with cerebral palsy, and cognitive deficits have been reported in all cognitive domains."** [^5]
 
-**"For individuals with CP, cognitive impairments may become more pronounced as the demands of life increase. For individuals with CP, there is no one-to-one correlation between cognition and functioning in other areas, and therefore, cognition must be individually assessed to determine what targeted interventions are needed."** [^5]
+**"For individuals with cerebral palsy, cognitive impairments may become more pronounced as the demands of life increase. For individuals with cerebral palsy, there is no one-to-one correlation between cognition and functioning in other areas, and therefore, cognition must be individually assessed to determine what targeted interventions are needed."** [^5]
 
 ## Study Findings in Adults
 
-A study of adult CP patients found: **"A total of 70 adult CP patients (37 males, 33 females; mean age 29.4±10.2 years; range, 19 to 68 years) who were admitted to clinic"** were evaluated, and **"Half of our patients had poor mental state."** [^6]
+A study of adult cerebral palsy patients found: **"A total of 70 adult cerebral palsy patients (37 males, 33 females; mean age 29.4±10.2 years; range, 19 to 68 years) who were admitted to clinic"** were evaluated, and **"Half of our patients had poor mental state."** [^6]
 
 Another finding: **"Intellectual disability was diagnosed in 22.0%, similar to other studies where participants had a cognitive assessment, but lower than in studies where intellectual disability is registered not by psychologists, but by other professions"** [^5]
 
@@ -36,7 +36,7 @@ Another finding: **"Intellectual disability was diagnosed in 22.0%, similar to o
 
 ## Need for Systematic Monitoring
 
-According to research published in Frontiers in Neurology: **"Systematic Monitoring of Cognition for Adults With Cerebral Palsy—The Rationale Behind the Development of the CPCog-Adult Follow-Up Protocol"** emphasizes the importance of regular cognitive assessment in adults with CP. [^7]
+According to research published in Frontiers in Neurology: **"Systematic Monitoring of Cognition for Adults With Cerebral Palsy—The Rationale Behind the Development of the CPCog-Adult Follow-Up Protocol"** emphasizes the importance of regular cognitive assessment in adults with cerebral palsy. [^7]
 
 ## References
 

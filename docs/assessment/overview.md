@@ -41,15 +41,15 @@ According to NICE guideline NG119: [^1]
 
 ### Pain Assessment
 
-A 2020 systematic review found: **"A meta-analysis revealed a high pain prevalence of 70% in adults with CP, suggesting that adults with CP should be routinely screened for pain."** [^3]
+A 2020 systematic review found: **"A meta-analysis revealed a high pain prevalence of 70% in adults with cerebral palsy, suggesting that adults with cerebral palsy should be routinely screened for pain."** [^3]
 
 ### Health Service Use
 
-A 2021 mixed-methods systematic review examined: **"Health service use among adults with cerebral palsy, aiming to determine the proportion of adults with CP using health services and their frequency of use, as well as exploring experiences and perceptions of health services."** [^4]
+A 2021 mixed-methods systematic review examined: **"Health service use among adults with cerebral palsy, aiming to determine the proportion of adults with cerebral palsy using health services and their frequency of use, as well as exploring experiences and perceptions of health services."** [^4]
 
 ### Epidemiology of Adult Outcomes
 
-A 2020 systematic review found: **"On average, adults with CP experience fatigue, a majority experience pain and are ambulant, with 40% employed and 30% living independently."** [^5]
+A 2020 systematic review found: **"On average, adults with cerebral palsy experience fatigue, a majority experience pain and are ambulant, with 40% employed and 30% living independently."** [^5]
 
 ## References
 

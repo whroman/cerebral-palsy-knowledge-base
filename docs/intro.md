@@ -13,14 +13,14 @@ Evidence-based information hub for cerebral palsy assessment, management, and co
 ## 📚 Core Knowledge Areas
 
 ### 1. Classification Systems
-**Understanding how CP is categorized and assessed**
+**Understanding how cerebral palsy is categorized and assessed**
 
 - **[GMFCS - Gross Motor Function](./classification/gmfcs.md)** - Five-level system for classifying gross motor abilities
 - **[MACS - Manual Ability](./classification/macs.md)** - Classification of hand function and object manipulation
 - **[CFCS - Communication Function](./classification/cfcs.md)** - System for classifying everyday communication effectiveness
 
 ### 2. Assessment Standards
-**Comprehensive evaluation approaches for adults with CP**
+**Comprehensive evaluation approaches for adults with cerebral palsy**
 
 - **[Assessment Overview](./assessment/overview.md)** - NICE guidelines and systematic review findings
 - **[Cognitive Assessment](./assessment/cognitive.md)** - Prevalence and evaluation of intellectual function
@@ -29,25 +29,25 @@ Evidence-based information hub for cerebral palsy assessment, management, and co
 ### 3. Co-occurring Conditions
 **Understanding related and overlapping conditions**
 
-- **[Autism and CP Co-occurrence](./co-occurring/autism-cp.md)** - 6-9% prevalence, screening importance, assessment adaptations
-- **[Classification Differences](./co-occurring/neurological-vs-neurodevelopmental.md)** - Why CP is neurological while autism is neurodevelopmental
+- **[Autism and Cerebral Palsy Co-occurrence](./co-occurring/autism-cp.md)** - 6-9% prevalence, screening importance, assessment adaptations
+- **[Classification Differences](./co-occurring/neurological-vs-neurodevelopmental.md)** - Why cerebral palsy is neurological while autism is neurodevelopmental
 
 ### 4. Clinical Management
 **Treatment approaches and specialist roles**
 
-- **[Physiatrists as Coordinators](./management/physiatrist-role.md)** - Central role in comprehensive adult CP care
+- **[Physiatrists as Coordinators](./management/physiatrist-role.md)** - Central role in comprehensive adult cerebral palsy care
 - **[Gait Patterns and Treatment](./management/gait-patterns.md)** - Understanding and treating asymmetric walking patterns
 
-### 5. Adults with CP
+### 5. Adults with Cerebral Palsy
 **Specific considerations for adult populations**
 
 - **[Late Diagnosis](./adults/late-diagnosis.md)** - Adults diagnosed later in life or never properly assessed
-- **Finding Adult CP Services** *(coming soon)* - Locating specialized adult CP programs
+- **Finding Adult Cerebral Palsy Services** *(coming soon)* - Locating specialized adult cerebral palsy programs
 
 ### 6. Research & Guidelines
 **Current evidence and clinical standards**
 
-- **Systematic Reviews 2020-2024** *(coming soon)* - Latest research on adult CP outcomes
+- **Systematic Reviews 2020-2024** *(coming soon)* - Latest research on adult cerebral palsy outcomes
 - **Clinical Guidelines** *(coming soon)* - NICE, AACPDM, and international standards
 
 ---
@@ -55,10 +55,10 @@ Evidence-based information hub for cerebral palsy assessment, management, and co
 ## 🔍 Quick Reference
 
 ### Key Statistics
-- **17 million** people globally have CP [^1]
-- **70%** of adults with CP experience chronic pain [^2]
-- **6-9%** of people with CP also have autism (vs 1-2% general population) [^3]
-- **5-fold increased odds** of autism in people with CP [^3]
+- **17 million** people globally have cerebral palsy [^1]
+- **70%** of adults with cerebral palsy experience chronic pain [^2]
+- **6-9%** of people with cerebral palsy also have autism (vs 1-2% general population) [^3]
+- **5-fold increased odds** of autism in people with cerebral palsy [^3]
 
 ### Critical Specialists
 - **Physiatrist** - Comprehensive assessment coordinator
@@ -67,7 +67,7 @@ Evidence-based information hub for cerebral palsy assessment, management, and co
 - **PT/OT/SLP** - Therapy services
 
 ### Important Classifications
-- **CP**: Neurological condition (ICD-11 Chapter 8)
+- **Cerebral Palsy**: Neurological condition (ICD-11 Chapter 8)
 - **Autism**: Neurodevelopmental disorder (DSM-5/ICD-11)
 - Despite different classifications, high co-occurrence rate
 
@@ -77,8 +77,8 @@ Evidence-based information hub for cerebral palsy assessment, management, and co
 
 1. **For Initial Understanding**: Start with Classification Systems
 2. **For Adult Assessment Needs**: Review Assessment Standards and Physiatrist Role
-3. **For Co-occurring Conditions**: Check Autism-CP section
-4. **For Finding Services**: See Adults with CP section
+3. **For Co-occurring Conditions**: Check Autism-Cerebral Palsy section
+4. **For Finding Services**: See Adults with Cerebral Palsy section
 5. **For Research**: Consult Research & Guidelines
 
 ---
@@ -89,6 +89,6 @@ All information is backed by legitimate medical sources. No unsourced claims. Th
 
 ## References
 
-[^1]: [Cognitive Functioning and Assessment in Adults with CP](https://www.tandfonline.com/doi/full/10.1080/17518423.2024.2347991) (2024)
+[^1]: [Cognitive Functioning and Assessment in Adults with Cerebral Palsy](https://www.tandfonline.com/doi/full/10.1080/17518423.2024.2347991) (2024)
 [^2]: [Pain in adults with cerebral palsy: A systematic review](https://pubmed.ncbi.nlm.nih.gov/32061920/) (2020)
-[^3]: [Association of CP with autism spectrum disorder - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11015243/) (2024)
+[^3]: [Association of cerebral palsy with autism spectrum disorder - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11015243/) (2024)

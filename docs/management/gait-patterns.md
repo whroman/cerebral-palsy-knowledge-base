@@ -5,7 +5,7 @@ title: Gait Patterns and Treatment
 
 # Gait Patterns and Treatment in Cerebral Palsy
 
-## Common Gait Patterns in CP
+## Common Gait Patterns in Cerebral Palsy
 
 ### Toe Walking Pattern
 
@@ -27,7 +27,7 @@ In typical development, **"children usually demonstrate ankle dorsiflexion at he
 
 ### Mixed Etiology
 
-The gait patterns seen in CP result from both:
+The gait patterns seen in cerebral palsy result from both:
 - **Neurological factors**: Altered signals from motor control centers in the brain
 - **Physical adaptations**: Muscle and tendon changes that develop over time
 
@@ -50,7 +50,7 @@ Assessment typically includes:
 
 ### Gait Training Interventions
 
-**"Daily intensive gait training may influence the elastic properties of ankle joint muscles and facilitate toe lift and heel strike in children with CP, and may be beneficial in preventing contractures and maintaining gait ability"** [^2]
+**"Daily intensive gait training may influence the elastic properties of ankle joint muscles and facilitate toe lift and heel strike in children with cerebral palsy, and may be beneficial in preventing contractures and maintaining gait ability"** [^2]
 
 **"Toe lift in the swing phase and heel impact increased significantly following training during both treadmill and over-ground walking"** [^2]
 
@@ -128,7 +128,7 @@ Critical considerations:
 
 ### Research Findings
 
-Despite CP being a childhood-onset condition, research shows:
+Despite cerebral palsy being a childhood-onset condition, research shows:
 - Gait training remains effective in adulthood
 - Muscle properties can be influenced even in mature adults
 - Functional improvements are possible with appropriate intervention
@@ -147,7 +147,7 @@ Effective gait treatment typically combines:
 
 ## Key Message for Adults
 
-Adults with CP who have developed compensatory gait patterns over decades can still benefit from intervention. The goals may shift from "normalizing" gait to:
+Adults with cerebral palsy who have developed compensatory gait patterns over decades can still benefit from intervention. The goals may shift from "normalizing" gait to:
 - Reducing pain
 - Improving efficiency
 - Preventing further deterioration
@@ -157,7 +157,7 @@ Adults with CP who have developed compensatory gait patterns over decades can st
 ## References
 
 [^1]: [Toe Walking - ScienceDirect Topics](https://www.sciencedirect.com/topics/medicine-and-dentistry/toe-walking)
-[^2]: [Gait training reduces ankle stiffness in CP - PubMed](https://pubmed.ncbi.nlm.nih.gov/25318785/)
+[^2]: [Gait training reduces ankle stiffness in cerebral palsy - PubMed](https://pubmed.ncbi.nlm.nih.gov/25318785/)
 [^3]: [Toe Walking Clinical Presentation - Medscape](https://emedicine.medscape.com/article/1235248-clinical)
 [^4]: [Toe Walking Treatment & Management - Medscape](https://emedicine.medscape.com/article/1235248-treatment)
 [^5]: [Physical Therapy's Role in Toe Walking - Foothills Rehab](https://foothillsrehab.com/blog/blog-physical-therapys-role-in-toe-walking/)

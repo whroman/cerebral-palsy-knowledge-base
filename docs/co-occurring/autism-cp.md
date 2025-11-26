@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: Autism and CP Co-occurrence
+title: Autism and Cerebral Palsy Co-occurrence
 ---
 
 # Autism Spectrum Disorder and Cerebral Palsy Co-occurrence
@@ -16,14 +16,14 @@ Research consistently demonstrates that autism spectrum disorder (ASD) occurs at
 According to multiple systematic studies:
 
 - **"Children with cerebral palsy had a significantly higher prevalence of ASD (6.09%) compared to children without cerebral palsy (1.15%)"** [^1]
-- **"Among children with CP, 107 had an associated diagnosis of ASD - i.e., 8.7% of the study population (95% confidence interval 7.2-10.5). Variations between geographical areas ranged from 4.0% to 16.7%"** [^2]
+- **"Among children with cerebral palsy, 107 had an associated diagnosis of ASD - i.e., 8.7% of the study population (95% confidence interval 7.2-10.5). Variations between geographical areas ranged from 4.0% to 16.7%"** [^2]
 - **"The US Autism and Developmental Disabilities Monitoring Network 2008 reported that co-occurring ASD frequency was 6.9% among 8-year-old children with cerebral palsy"** [^3]
 
 ### Statistical Associations
 
 **"After adjustment for age, sex, race/ethnicity, family highest education level, family income level and geographical region, the OR among children with cerebral palsy, compared with children without cerebral palsy, was 5.07 (95% CI 3.25 to 7.91) for ASD (p&lt;0.001)"** [^1]
 
-This represents a **5-fold increased odds** of having autism among children with CP.
+This represents a **5-fold increased odds** of having autism among children with cerebral palsy.
 
 ## Under-diagnosis Problem
 
@@ -35,9 +35,9 @@ This suggests significant under-diagnosis of autism in children with cerebral pa
 
 ## Associated Factors
 
-### Characteristics of CP-ASD Co-occurrence
+### Characteristics of Cerebral Palsy-ASD Co-occurrence
 
-According to research, factors associated with ASD in CP include:
+According to research, factors associated with ASD in cerebral palsy include:
 - Male sex predominance
 - Co-occurring epilepsy
 - Intellectual disability
@@ -80,7 +80,7 @@ According to research, comprehensive assessment should include: [^7]
 
 **"Cerebral palsy, ASD and ADHD are usually diagnosed in different clinical specialties, with different intervention approaches. Therefore, this study provides evidence of their co-occurrence risk and informs better interdisciplinary clinic care"** [^1]
 
-**"Children and young adults with co-occurring CP and ASD have higher prevalence of clinical and functional impairments compared with counterparts with CP without co-occurring ASD"** [^8]
+**"Children and young adults with co-occurring cerebral palsy and ASD have higher prevalence of clinical and functional impairments compared with counterparts with cerebral palsy without co-occurring ASD"** [^8]
 
 ## Shared Risk Factors
 
@@ -94,17 +94,17 @@ According to research, comprehensive assessment should include: [^7]
 
 ### Emerging Technologies
 
-**"Small studies have shown that motor repertoires observable within a GMA video can predict increased probability of cognitive disability. This points to the possibility for the GMA to predict outcomes beyond CP and identify those children who might also benefit from early intervention for other conditions"** [^10]
+**"Small studies have shown that motor repertoires observable within a GMA video can predict increased probability of cognitive disability. This points to the possibility for the GMA to predict outcomes beyond cerebral palsy and identify those children who might also benefit from early intervention for other conditions"** [^10]
 
 ## References
 
 [^1]: [Association of cerebral palsy with autism spectrum disorder - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11015243/)
 [^2]: [Prevalence and characteristics of autism in children with cerebral palsy](https://onlinelibrary.wiley.com/doi/10.1111/dmcn.13436)
-[^3]: [Prevalence of CP, co-occurring autism spectrum disorders - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4351771/)
-[^4]: [Autism spectrum disorder screening in children with CP - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7595991/)
+[^3]: [Prevalence of cerebral palsy, co-occurring autism spectrum disorders - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4351771/)
+[^4]: [Autism spectrum disorder screening in children with cerebral palsy - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7595991/)
 [^5]: [Autism and cerebral palsy: converging phenotypes](https://www.nature.com/articles/s41390-024-03575-9)
 [^6]: [Does Cerebral Palsy Cause Autism? - Discovery ABA](https://www.discoveryaba.com/aba-therapy/does-cerebral-palsy-cause-autism-20ef6)
 [^7]: [Cerebral Palsy and Autism - NY Birth Injury](https://nybirthinjury.com/birth-injuries/cerebral-palsy/autism/)
-[^8]: [Co-occurrence of Autism and CP - Full Article](https://www.tandfonline.com/doi/full/10.1080/17518423.2021.2011456)
-[^9]: [Cerebral Palsy and Autism - CP Guidance](https://cerebralpalsyguidance.com/cerebral-palsy/associated-disorders/autism/)
-[^10]: [Towards universal early screening for CP - The Lancet](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(25)00311-6/fulltext)
+[^8]: [Co-occurrence of Autism and Cerebral Palsy - Full Article](https://www.tandfonline.com/doi/full/10.1080/17518423.2021.2011456)
+[^9]: [Cerebral Palsy and Autism - Cerebral Palsy Guidance](https://cerebralpalsyguidance.com/cerebral-palsy/associated-disorders/autism/)
+[^10]: [Towards universal early screening for cerebral palsy - The Lancet](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(25)00311-6/fulltext)

@@ -3,13 +3,13 @@ sidebar_position: 1
 title: Physiatrists as Coordinators
 ---
 
-# The Central Role of Physiatrists in Adult CP Care
+# The Central Role of Physiatrists in Adult Cerebral Palsy Care
 
 ## What is a Physiatrist?
 
 A physiatrist is a physician specializing in Physical Medicine and Rehabilitation (PM&R). For adults with cerebral palsy, they serve as the central coordinator of comprehensive care across multiple specialties.
 
-## Core Functions in CP Care
+## Core Functions in Cerebral Palsy Care
 
 ### Comprehensive Assessment and Coordination
 
@@ -96,7 +96,7 @@ Physiatrists coordinate care across multiple domains:
 
 ### Unique Value for Late Assessment
 
-For adults with CP who missed childhood interventions, physiatrists offer:
+For adults with cerebral palsy who missed childhood interventions, physiatrists offer:
 - Comprehensive baseline assessment
 - Identification of treatable conditions
 - Access to previously unknown resources
@@ -131,7 +131,7 @@ For adults with CP who missed childhood interventions, physiatrists offer:
 2. **Functional Focus**: Emphasis on maximizing independence and quality of life
 3. **Coordination Expertise**: Trained to manage complex, multi-system conditions
 4. **Rehabilitation Mindset**: Focus on improvement and adaptation, not just maintenance
-5. **Lifespan Approach**: Understanding of how CP affects adults differently than children
+5. **Lifespan Approach**: Understanding of how cerebral palsy affects adults differently than children
 
 ## References
 

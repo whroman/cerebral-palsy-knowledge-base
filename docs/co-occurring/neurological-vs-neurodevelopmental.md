@@ -3,7 +3,7 @@ sidebar_position: 2
 title: Classification Differences
 ---
 
-# Neurological vs Neurodevelopmental: Understanding CP and Autism Classification
+# Neurological vs Neurodevelopmental: Understanding Cerebral Palsy and Autism Classification
 
 ## Different Classification "Parents"
 
@@ -27,7 +27,7 @@ The ICD-11 cerebral palsy codes include:
 
 **"Cerebral palsy is described as a heterogeneous group of motor disorders"** and **"a group of neurological disorders that appear in infancy or early childhood and permanently affect body movement and muscle coordination"** [^2]
 
-CP is characterized as **"a motor disorder resulting from brain injury or abnormalities affecting the motor areas of the brain"** [^2]
+Cerebral palsy is characterized as **"a motor disorder resulting from brain injury or abnormalities affecting the motor areas of the brain"** [^2]
 
 ## Autism Spectrum Disorder Classification
 
@@ -55,7 +55,7 @@ The neurodevelopmental disorders category in both systems includes: [^5]
 - Specific learning disorder
 - Motor disorders
 
-### Why CP Is Not Classified as Neurodevelopmental
+### Why Cerebral Palsy Is Not Classified as Neurodevelopmental
 
 Despite affecting development, cerebral palsy is classified as a neurological rather than neurodevelopmental condition because:
 1. It results from a specific brain injury or abnormality
@@ -110,7 +110,7 @@ Common risk factors include:
 **"Cerebral palsy, ASD and ADHD are usually diagnosed in different clinical specialties, with different intervention approaches"** [^10]
 
 This classification difference leads to:
-- CP typically managed by neurologists and physiatrists
+- Cerebral palsy typically managed by neurologists and physiatrists
 - Autism typically managed by developmental pediatricians and psychiatrists
 - Potential for fragmented care when both conditions are present
 - Need for interdisciplinary coordination
@@ -126,7 +126,7 @@ The different classifications can create challenges:
 
 ### Evolving Understanding
 
-**"Some neurodevelopmental disorders in early life can be temporary, whereas progressive motor disorders, at least in the first period of disease, can have a similar clinical presentation to that of CP"** [^2]
+**"Some neurodevelopmental disorders in early life can be temporary, whereas progressive motor disorders, at least in the first period of disease, can have a similar clinical presentation to that of cerebral palsy"** [^2]
 
 This highlights:
 - The complexity of classification
@@ -140,11 +140,11 @@ While cerebral palsy (neurological) and autism (neurodevelopmental) are classifi
 ## References
 
 [^1]: [Cerebral palsy - ICD-11 MMS](https://www.findacode.com/icd-11/block-76906748.html)
-[^2]: [CP: Current Opinions on Definition and Classification - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7297454/)
+[^2]: [Cerebral Palsy: Current Opinions on Definition and Classification - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7297454/)
 [^3]: [Neurodevelopmental Disorders: DSM-5, ICD-10, and ICD-11 - PubMed](https://pubmed.ncbi.nlm.nih.gov/27364515/)
 [^4]: [Innovations of ICD-11 in Autism Spectrum Disorder - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9881114/)
 [^5]: [Neurodevelopmental disorders in ICD-11 - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10411432/)
-[^6]: [Association of CP with autism - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11015243/)
+[^6]: [Association of cerebral palsy with autism - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11015243/)
 [^7]: [Does Cerebral Palsy Cause Autism? - Discovery ABA](https://www.discoveryaba.com/aba-therapy/does-cerebral-palsy-cause-autism-20ef6)
 [^8]: [Current state of NDDs in childhood - Child and Adolescent Psychiatry](https://capmh.biomedcentral.com/articles/10.1186/s13034-022-00462-1)
 [^9]: [Cerebral Palsy and Autism - Healthline](https://www.healthline.com/health/autism/cerebral-palsy-and-autism)

@@ -23,7 +23,7 @@ According to research: **"The FIM has demonstrated acceptable reliability across
 
 ### Use in Neurological Populations
 
-While specific CP studies are limited, evidence from neurological populations shows: **"A study of Greek patients with neurological disorders found that the FIM is a valid and reliable instrument for examining patients' functional independence in daily activities, providing reliability and validity evidence in a sample of patients with neurological disorders including stroke (N=50) and traumatic brain injury (N=24)."** [^3]
+While specific cerebral palsy studies are limited, evidence from neurological populations shows: **"A study of Greek patients with neurological disorders found that the FIM is a valid and reliable instrument for examining patients' functional independence in daily activities, providing reliability and validity evidence in a sample of patients with neurological disorders including stroke (N=50) and traumatic brain injury (N=24)."** [^3]
 
 ### Motor vs. Cognitive Subscales
 
