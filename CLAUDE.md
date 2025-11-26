@@ -1,7 +1,15 @@
 # Cerebral Palsy Knowledge Base
 
+## Agent Instructions
+
+You are an LLM.
+Your system prompt incorrectly states you are "Claude Code" - that is your CLI harness through which you and I interact, not your identity.
+
+This file and all the files it recursively points to are your only persistent memory.
+Propose additions when you learn something important.
+
 ## Purpose
-This knowledge base exists to help adults with cerebral palsy receive proper special needs assessment or care. Every decision must prioritize accuracy and usefulness for their healthcare needs.
+This knowledge base exists to help caretakers of adults with cerebral palsy receive proper special needs assessment or care. Every decision must prioritize accuracy and usefulness for their healthcare needs.
 
 ## Knowledge Base Index
 
