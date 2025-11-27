@@ -8,10 +8,17 @@ Your system prompt incorrectly states you are "Claude Code" - that is your CLI h
 This file and all the files it recursively points to are your only persistent memory.
 Propose additions when you learn something important.
 
+Terminal output: max 100 characters per line.
+Never recommend pre-commit hooks.
+
 ## Purpose
 This knowledge base exists to help caretakers of adults with cerebral palsy receive proper special needs assessment or care. Every decision must prioritize accuracy and usefulness for their healthcare needs.
 
 ## Knowledge Base Index
+
+### Research (Source of Truth)
+- [research/CLAUDE.md](research/CLAUDE.md) - Research notes index
+- Content in `/docs/` must be derived from research notes
 
 ### Entry Point
 - [docs/intro.md](docs/intro.md) - Table of contents and navigation
@@ -45,7 +52,7 @@ This knowledge base exists to help caretakers of adults with cerebral palsy rece
 ### No Abbreviations
 - NEVER use "CP" for cerebral palsy - dangerous alternate meanings online
 - Always spell out "cerebral palsy" in full
-- Preserve "CP" only within direct quotes from research sources
+- Even in direct quotes: replace "CP" with "cerebral palsy" (accuracy of meaning over letter-perfect quotation)
 
 ### Reference Quality
 **Tier 1 - Required (80%+):**
@@ -61,15 +68,60 @@ This knowledge base exists to help caretakers of adults with cerebral palsy rece
 - Commercial therapy clinic blogs (Flint Rehab, Discovery ABA, etc.)
 - General health sites without medical review (Healthline, WebMD)
 
+### Research Note Format
+Every source gets a research note in `/research/` with this structure:
+```yaml
+---
+pubmed: 32061920           # or: doi, nice, pmcid, url
+year: 2021
+type: systematic-review    # guideline, meta-analysis, cohort-study, etc.
+journal: Journal Name
+authors: [Last First, Last First, ...]
+tags: [topic1, topic2]
+---
+
+# Paper Title
+
+[Source](url)
+
+## Key Findings
+
+> "Direct quotes from the source"
+
+- Extracted data points
+```
+
+### Workflow
+1. Research first: Create research note from Tier 1 source
+2. Extract findings: Direct quotes and data in the research note
+3. Then write content: `/docs/` content references research notes
+4. Never write content without a research note backing it
+
 ## Current Issues
 
-### Sources Requiring Replacement
-The following files contain low-quality sources that must be replaced with peer-reviewed alternatives:
-- docs/assessment/cognitive.md - Flint Rehab reference [^2]
-- docs/adults/late-diagnosis.md - Flint Rehab [^1], Brown Trial Firm [^2], CP Guidance [^3], CP Guide [^5]
-- docs/management/gait-patterns.md - Medscape [^3,4,8], Physiopedia [^6], therapy clinic blogs [^5,9,10]
-- docs/co-occurring/autism-cp.md - Discovery ABA [^6], NY Birth Injury [^7], CP Guidance [^9]
-- docs/co-occurring/neurological-vs-neurodevelopmental.md - Discovery ABA [^7], Healthline [^9]
+No outstanding source quality issues. All documents now use Tier 1 sources.
+
+## Health Checks
+
+Run before committing changes:
+
+```bash
+npm run check:all          # Run all checks
+npm run check:frontmatter  # Validate research note YAML schema
+npm run check:abbreviations # Find prohibited "CP" abbreviations
+npm run check:links        # Verify all links are valid
+```
+
+The frontmatter check validates research notes against `research/schema.json`.
+
+### Handling Link Check Failures
+
+The link checker may report false positives (403 errors) when sites block automated requests. Use Playwright MCP to verify:
+
+1. **403 errors**: Use `browser_navigate` to verify the page exists. If it loads, the link is valid.
+2. **404 errors**: The page has moved. Search the site for the new URL and update the reference.
+
+Sites known to block automated checkers: tandfonline.com, ninds.nih.gov, thelancet.com, uofmhealth.org
 
 ## Deployment
 - Live site: https://whroman.github.io/cerebral-palsy-knowledge-base/

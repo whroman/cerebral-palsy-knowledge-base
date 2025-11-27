@@ -11,13 +11,13 @@ The official CFCS website is available at [http://cfcs.us](http://cfcs.us), whic
 
 ## Overview
 
-According to the developers: **"The Communication Function Classification System (CFCS) was created and validated for children with cerebral palsy (CP) that can be used by a wide variety of individuals who are interested in CP."** [^1]
+According to the developers: **"The Communication Function Classification System (CFCS) was created and validated for children with cerebral palsy that can be used by a wide variety of individuals who are interested in cerebral palsy."** [^1]
 
 **"The CFCS is a tool used to classify the everyday communication of an individual with cerebral palsy into one of five levels according to effectiveness of communication."** [^2]
 
 ## Development and Validation
 
-According to the original research publication: **"An 11-member development team created comprehensive descriptions of the CFCS levels, and four nominal groups comprising 27 participants critiqued these levels. Within a Delphi survey, 112 participants commented on the clarity and usefulness of the CFCS. Interrater reliability was completed by 61 professionals and 68 parents/relatives who classified 69 children with CP aged 2 to 18 years."** [^1]
+According to the original research publication: **"An 11-member development team created comprehensive descriptions of the CFCS levels, and four nominal groups comprising 27 participants critiqued these levels. Within a Delphi survey, 112 participants commented on the clarity and usefulness of the CFCS. Interrater reliability was completed by 61 professionals and 68 parents/relatives who classified 69 children with cerebral palsy aged 2 to 18 years."** [^1]
 
 **"The CFCS demonstrates content validity and shows very good test-retest reliability, good professional interrater reliability, and moderate parent-professional interrater reliability."** [^1]
 
@@ -30,11 +30,11 @@ According to the original research publication: **"An 11-member development team
 ## The Five CFCS Levels
 
 According to the published research: [^1]
-- **Level I**: Child with CP is an effective sender and receiver with unfamiliar and familiar partners
-- **Level II**: Child with CP is an effective but slower paced sender and/or receiver with unfamiliar and familiar partners
-- **Level III**: Child with CP is an effective sender and receiver with familiar partners
-- **Level IV**: Child with CP is sometimes an effective sender and receiver with familiar partners
-- **Level V**: Child with CP is seldom an effective sender and receiver even with familiar partners
+- **Level I**: Child with cerebral palsy is an effective sender and receiver with unfamiliar and familiar partners
+- **Level II**: Child with cerebral palsy is an effective but slower paced sender and/or receiver with unfamiliar and familiar partners
+- **Level III**: Child with cerebral palsy is an effective sender and receiver with familiar partners
+- **Level IV**: Child with cerebral palsy is sometimes an effective sender and receiver with familiar partners
+- **Level V**: Child with cerebral palsy is seldom an effective sender and receiver even with familiar partners
 
 ## Communication Methods
 
@@ -44,7 +44,7 @@ According to the published research: [^1]
 
 ## Integration with Other Classification Systems
 
-According to research: **"Combining the CFCS with the Gross Motor Function Classification System and the Manual Ability Classification System contributes to a functional performance view of daily life for individuals with CP, in accordance with the World Health Organization's International Classification of Functioning, Disability and Health."** [^1]
+According to research: **"Combining the CFCS with the Gross Motor Function Classification System and the Manual Ability Classification System contributes to a functional performance view of daily life for individuals with cerebral palsy, in accordance with the World Health Organization's International Classification of Functioning, Disability and Health."** [^1]
 
 **"The CFCS is analogous and complementary to the Gross Motor Function Classification System (GMFCS-ER), the Manual Ability Classification System (MACS), and the Eating and Drinking Ability Classification System (EDACS)."** [^3]
 

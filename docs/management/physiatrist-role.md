@@ -136,7 +136,7 @@ For adults with cerebral palsy who missed childhood interventions, physiatrists 
 ## References
 
 [^1]: [Personalized care for adults with cerebral palsy - UT Southwestern](https://utswmed.org/medblog/adult-cerebral-palsy-care/)
-[^2]: [Cerebral Palsy and Functional Decline - CP Research Network](https://cprn.org/cerebral-palsy-functional-decline/)
+[^2]: [Cerebral Palsy and Functional Decline - Cerebral Palsy Research Network](https://cprn.org/cerebral-palsy-functional-decline/)
 [^3]: [Adult Cerebral Palsy Care - University of Michigan](https://www.uofmhealth.org/conditions-treatments/rehabilitation/adult-cerebral-palsy-care)
 [^4]: [Adult Cerebral Palsy Care - Cleveland Clinic](https://my.clevelandclinic.org/podcasts/neuro-pathways/adult-cerebral-palsy-care)
 [^5]: [Cerebral Palsy Program - UCLA Health](https://www.uclahealth.org/medical-services/orthopedics-and-sports-medicine/cerebral-palsy)

@@ -8,8 +8,7 @@ title: Complete References
 ## Classification Systems
 
 ### GMFCS
-- [Gross Motor Function Classification System (GMFCS – E&R) - CanChild](https://canchild.ca/en/resources/42-gross-motor-function-classification-system-expanded-revised-gmfcs-e-r)
-- [GMFCS Resources - CanChild](https://canchild.ca/resources/42-gmfcs-e-r/)
+- [Gross Motor Function Classification System (GMFCS – E&R) - CanChild](https://canchild.ca/resources/42-gmfcs-e-r/)
 
 ### MACS
 - [MACS - Manual Ability Classification System Official Website](https://www.macs.nu/)

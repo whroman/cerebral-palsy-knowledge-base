@@ -69,11 +69,9 @@ Despite affecting development, cerebral palsy is classified as a neurological ra
 
 **"Most children with cerebral palsy have an abnormal brain MRI scan, including white matter damage, basal ganglia or deep grey matter damage, congenital malformation and focal infarcts"** [^6]
 
-**"Whereas cerebral palsy primarily affects the part of the brain that corresponds with motor functioning, autism affects social interactions, language, and behavior"** [^7]
+Cerebral palsy primarily affects motor areas of the brain, while autism involves differences in social brain networks, language processing areas, and behavior regulation centers.
 
 ### Autism Spectrum Disorder
-
-**"Most cases are congenital, with causes including genetic abnormalities and brain malformations. Some cases are acquired, resulting from early brain damage or infections"** [^7]
 
 Autism involves differences in:
 - Social brain networks
@@ -85,7 +83,7 @@ Autism involves differences in:
 
 ### High Co-occurrence Despite Different Classifications
 
-**"Among children with NDDs, 21.7% had two or more; comorbid NDDs were most common in children with ASD (79.6%), cerebral palsy (74.2%), ID (56.9%) and epilepsy (55.1%)"** [^8]
+**"Among children with NDDs, 21.7% had two or more; comorbid NDDs were most common in children with ASD (79.6%), cerebral palsy (74.2%), ID (56.9%) and epilepsy (55.1%)"** [^7]
 
 This suggests that despite being classified differently:
 - These conditions share overlapping risk factors
@@ -94,20 +92,22 @@ This suggests that despite being classified differently:
 
 ### Shared Risk Factors
 
-**"Cerebral palsy and autism share some risk factors, but one does not directly cause the other. They may co-occur due to overlapping risk factors affecting early brain development"** [^9]
+The significant association between cerebral palsy and autism is not surprising, as both conditions result from early brain development disturbances. Common risk factors include: [^6]
 
-Common risk factors include:
-- Preterm birth
-- Fetal growth restriction
-- Intrauterine infection
-- Brain malformations
-- Perinatal complications [^6]
+- **Prematurity**: The most prevalent risk factor for cerebral palsy, also associated with heightened ASD risk
+- **Maternal infection during pregnancy**: Connected to both conditions
+- **Perinatal hypoxia**: Linked to cerebral palsy and heightened ASD vulnerability
+- **Low Apgar scores at birth**: Associated with increased risk of both conditions
+- **Fetal growth restriction**
+- **Brain malformations**
+
+While cerebral palsy and autism share these risk factors, one does not directly cause the other. They may co-occur due to overlapping factors affecting early brain development. [^6]
 
 ## Clinical Implications of Classification Differences
 
 ### Treatment Approaches
 
-**"Cerebral palsy, ASD and ADHD are usually diagnosed in different clinical specialties, with different intervention approaches"** [^10]
+**"Cerebral palsy, ASD and ADHD are usually diagnosed in different clinical specialties, with different intervention approaches"** [^6]
 
 This classification difference leads to:
 - Cerebral palsy typically managed by neurologists and physiatrists
@@ -144,8 +144,5 @@ While cerebral palsy (neurological) and autism (neurodevelopmental) are classifi
 [^3]: [Neurodevelopmental Disorders: DSM-5, ICD-10, and ICD-11 - PubMed](https://pubmed.ncbi.nlm.nih.gov/27364515/)
 [^4]: [Innovations of ICD-11 in Autism Spectrum Disorder - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9881114/)
 [^5]: [Neurodevelopmental disorders in ICD-11 - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10411432/)
-[^6]: [Association of cerebral palsy with autism - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11015243/)
-[^7]: [Does Cerebral Palsy Cause Autism? - Discovery ABA](https://www.discoveryaba.com/aba-therapy/does-cerebral-palsy-cause-autism-20ef6)
-[^8]: [Current state of NDDs in childhood - Child and Adolescent Psychiatry](https://capmh.biomedcentral.com/articles/10.1186/s13034-022-00462-1)
-[^9]: [Cerebral Palsy and Autism - Healthline](https://www.healthline.com/health/autism/cerebral-palsy-and-autism)
-[^10]: [Association of cerebral palsy with autism - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11015243/)
+[^6]: [Association of cerebral palsy with autism spectrum disorder - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11015243/)
+[^7]: [Current state of NDDs in childhood - Child and Adolescent Psychiatry](https://capmh.biomedcentral.com/articles/10.1186/s13034-022-00462-1)

@@ -1,0 +1,67 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Research Note Frontmatter",
+  "type": "object",
+  "required": ["year", "type", "authors", "tags"],
+  "properties": {
+    "pubmed": {
+      "type": "integer",
+      "description": "PubMed ID"
+    },
+    "pmcid": {
+      "type": "string",
+      "description": "PubMed Central ID (e.g., PMC1234567)"
+    },
+    "doi": {
+      "type": "string",
+      "description": "Digital Object Identifier"
+    },
+    "nice": {
+      "type": "string",
+      "description": "NICE guideline ID (e.g., NG119)"
+    },
+    "url": {
+      "type": "string",
+      "format": "uri",
+      "description": "URL for sources without standard identifiers"
+    },
+    "year": {
+      "type": "integer",
+      "minimum": 1900,
+      "maximum": 2100,
+      "description": "Publication year"
+    },
+    "type": {
+      "type": "string",
+      "enum": ["systematic-review", "meta-analysis", "guideline", "cohort-study", "cross-sectional", "case-study", "review", "official-documentation"],
+      "description": "Type of source"
+    },
+    "journal": {
+      "type": "string",
+      "description": "Journal or organization name"
+    },
+    "authors": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 1,
+      "description": "List of authors"
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 1,
+      "description": "Topic tags"
+    }
+  },
+  "anyOf": [
+    {"required": ["pubmed"]},
+    {"required": ["pmcid"]},
+    {"required": ["doi"]},
+    {"required": ["nice"]},
+    {"required": ["url"]}
+  ]
+}

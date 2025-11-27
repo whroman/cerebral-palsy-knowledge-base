@@ -7,49 +7,51 @@ title: Late Diagnosis and Assessment
 
 ## Understanding Late Diagnosis
 
-Many adults with cerebral palsy receive their diagnosis later in life, particularly those with milder symptoms.
+Cerebral palsy is caused by brain injury occurring before, during, or shortly after birth. It cannot develop later in life. However, many individuals receive their diagnosis later in childhood or even adulthood, particularly those with milder symptoms.
 
-### Key Facts About Late Diagnosis
+### Historical Diagnosis Timing
 
-- **"Individuals who are diagnosed with cerebral palsy later in life usually have very mild cerebral palsy with symptoms so subtle that they've gone unnoticed for years and there was no need to suspect brain damage."** [^1]
-- **"When someone is diagnosed with cerebral palsy later in life, it is often because they did not receive screening for cerebral palsy previously, or because their symptoms were not severe enough to be noticeable until later in life."** [^1]
+**"Historically, the diagnosis of cerebral palsy was made between the ages of 12 to 24 months."** [^1]
 
-### Important Clarification
+With advances in diagnostic tools, earlier diagnosis is now possible: **"Cerebral palsy can now be diagnosed before 6 months corrected age."** [^1]
 
-**"If you're diagnosed with cerebral palsy later in life, it does not mean that you've suddenly developed it. Rather, it means that symptoms of your brain damage have become more pronounced and apparent as you've gotten older."** [^1]
+### Current Diagnosis Statistics
 
-**"You cannot get Cerebral Palsy later in life - it is caused by injuries that occur at or near the time of birth and it is a permanent, non-progressive condition."** [^2]
+Despite advances, significant delays persist:
 
-## Diagnosis Timeline Statistics
+- **"Only 21% of Australian infants receive a cerebral palsy diagnosis by six months of age, while 52% are diagnosed after one year."** [^2]
+- **"In low-resource settings like Bangladesh, the average diagnosis age reaches five years."** [^2]
 
-Research shows significant delays in diagnosis:
+Research from Nepal found: **"Parents recognized the symptoms of cerebral palsy at mean age of 13 months"** with **"a mean delay of 23 months between symptom recognition and seeking medical help"** resulting in **"the mean age of diagnosis was 5½ years."** [^3]
 
-- **"Parents recognize the symptoms of cerebral palsy at a mean age of 13 months with a mean delay of 23 months between symptom recognition and seeking medical help, and cerebral palsy is diagnosed by a doctor at a mean age of 5 1/2 years."** [^3]
-- **"Some physicians delay their diagnosis until the brain is fully developed between the ages of 3 and 5, while others have delayed diagnosis until much later, with some children learning that they have cerebral palsy at the age of 8 or later, typically when symptoms are mild and can be misidentified."** [^3]
+## Barriers to Early Diagnosis
 
-## Missed and Undiagnosed Cases
+Multiple factors contribute to delayed diagnosis: [^2]
 
-**"It is possible for a child with cerebral palsy to go undiagnosed for years, and another concern for parents is that a child can go through life with undiagnosed cerebral palsy or with a misdiagnosis."** [^3]
+1. Absence of definitive biomarkers for cerebral palsy
+2. Difficulty applying the cerebral palsy definition to infants
+3. Concern about false positives
+4. Neurological signs often don't emerge until after six months
 
-**"Some people are not diagnosed with cerebral palsy as children, most commonly occurring in children with mild cerebral palsy and symptoms, though in other cases, a child may be misdiagnosed with a disability or condition that is similar to cerebral palsy."** [^3]
-
-## Current Diagnostic Challenges
+## Importance of Early Diagnosis
 
 **"Most children with cerebral palsy are diagnosed during the first two years of life, but if the child has mild symptoms, it may be difficult to make a diagnosis until later in childhood."** [^4]
 
-**"For those with milder symptoms, a diagnosis may not be rendered until the brain is fully developed at three to five years of age, with the average age of diagnosis for a child with spastic diplegia being 18 months."** [^5]
+**"Late diagnosis means some infants do not receive early intervention when they would benefit most."** [^5]
 
-## Impact of Late Diagnosis
+The benefits of early identification are significant: **"Prompt referral to diagnostic-specific early intervention optimizes infant motor and cognitive plasticity, prevents secondary complications, and enhances caregiver well-being."** [^1]
 
-**"Late diagnosis means some infants do not receive early intervention when they would benefit most."** [^6]
+## Prognosis
 
-**"Children with cerebral palsy have the best outcomes when interventions are started early in development, which is why it is so essential to get the diagnosis as soon as possible."** [^6]
+In high-income countries, research indicates: [^1]
+- 2 in 3 individuals with cerebral palsy will achieve walking ability
+- 3 in 4 will develop speech
+- 1 in 2 will have normal intelligence
 
 ## References
 
-[^1]: [Can You Get Cerebral Palsy Later In Life? - Flint Rehab](https://www.flintrehab.com/can-you-get-cerebral-palsy-later-in-life/)
-[^2]: [Can You Get Cerebral Palsy Later in Life? - Brown Trial Firm](https://browntrialfirm.com/blog/cerebral-palsy/can-you-get-cerebral-palsy-later-in-life/)
-[^3]: [Cerebral Palsy Misdiagnosis - Cerebral Palsy Guidance](https://cerebralpalsyguidance.com/cerebral-palsy/misdiagnosis/)
+[^1]: [Early, Accurate Diagnosis and Early Intervention in Cerebral Palsy - JAMA Pediatrics](https://pubmed.ncbi.nlm.nih.gov/28715518/)
+[^2]: [Early Diagnosis and Classification of Cerebral Palsy: Historical Perspective and Barriers - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC6832653/)
+[^3]: [Symptom Recognition and Diagnosis of Cerebral Palsy in Nepal - PubMed](https://pubmed.ncbi.nlm.nih.gov/28299509/)
 [^4]: [Cerebral Palsy - National Institute of Neurological Disorders and Stroke](https://www.ninds.nih.gov/health-information/disorders/cerebral-palsy)
-[^5]: [Cerebral Palsy Diagnosis - Cerebral Palsy Guide](https://www.cerebralpalsyguide.com/cerebral-palsy/diagnosis/)
-[^6]: [Age of Diagnosis, Fidelity and Acceptability of an Early Diagnosis Clinic - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8391606/)
+[^5]: [Age of Diagnosis, Fidelity and Acceptability of an Early Diagnosis Clinic - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8391606/)

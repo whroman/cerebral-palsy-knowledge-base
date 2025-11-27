@@ -80,7 +80,7 @@ const config = {
             items: [
               {
                 label: 'GMFCS - CanChild',
-                href: 'https://canchild.ca/en/resources/42-gross-motor-function-classification-system-expanded-revised-gmfcs-e-r',
+                href: 'https://canchild.ca/resources/42-gmfcs-e-r/',
               },
               {
                 label: 'MACS Official',

@@ -1,0 +1,10 @@
+{
+  "plugins": [
+    "remark-frontmatter",
+    ["remark-lint-frontmatter-schema", {
+      "schemas": {
+        "./research/schema.json": ["./research/*.md", "!./research/CLAUDE.md"]
+      }
+    }]
+  ]
+}

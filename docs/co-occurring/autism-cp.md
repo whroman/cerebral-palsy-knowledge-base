@@ -21,7 +21,7 @@ According to multiple systematic studies:
 
 ### Statistical Associations
 
-**"After adjustment for age, sex, race/ethnicity, family highest education level, family income level and geographical region, the OR among children with cerebral palsy, compared with children without cerebral palsy, was 5.07 (95% CI 3.25 to 7.91) for ASD (p&lt;0.001)"** [^1]
+**"After adjustment for age, sex, race/ethnicity, family highest education level, family income level and geographical region, the OR among children with cerebral palsy, compared with children without cerebral palsy, was 5.07 (95% CI 3.25 to 7.91) for ASD (p\<0.001)"** [^1]
 
 This represents a **5-fold increased odds** of having autism among children with cerebral palsy.
 
@@ -53,26 +53,17 @@ According to research, factors associated with ASD in cerebral palsy include:
 
 **"The administration manual for the Autism Diagnostic Observation Schedule, Second Edition (ADOS-2), widely considered the gold standard diagnostic assessment for ASD, states that it is not designed for use with children who have significant motor impairments"** [^5]
 
-### Recommended Approach
-
-**"Standard assessment tools may not always effectively differentiate the overlapping features, especially in young children or those with severe motor impairments. This challenge underscores the importance of specialized, multidisciplinary evaluations"** [^6]
-
 ## Multidisciplinary Assessment Requirements
 
 ### Team Composition
 
-According to research, comprehensive assessment should include: [^7]
-- Developmental pediatrician
-- Neurologist
-- Psychologist
-- Speech and language pathologist
-- Occupational or physical therapist
+According to research, comprehensive evaluation requires **"a multidisciplinary approach with a team of professionals comprising of a pediatrician or pediatric neurologist, occupational therapist, a physiotherapist, child psychologist, and a social worker."** [^6]
 
-**"These professionals work together to understand the child's full profile, including cognitive ability, communication skills, sensory processing, social engagement, and behavior"** [^7]
+**"Collaboration among healthcare professionals, including neurologists, orthopedic surgeons, therapists, psychologists, and educators, is essential for comprehensive cerebral palsy assessments. A multidisciplinary approach ensures that assessments encompass all relevant domains, including motor function, communication, cognition, and psychosocial well-being."** [^7]
 
 ### Assessment Considerations
 
-**"For children with cerebral palsy, standard autism screening tools may need to be adapted to account for physical limitations. A child who cannot point or walk, for example, may not be able to complete certain test items in the usual way"** [^7]
+For children with motor impairments, standard autism screening tools may need adaptation. Assessment should account for physical limitations that may prevent completion of certain test items in the usual way.
 
 ## Clinical Implications
 
@@ -86,25 +77,23 @@ According to research, comprehensive assessment should include: [^7]
 
 ### Neurological Basis
 
-**"Cerebral palsy and autism share some risk factors, but one does not directly cause the other. They may co-occur due to overlapping risk factors affecting early brain development"** [^9]
+The significant association between cerebral palsy and ASD is not surprising, as both conditions result from early brain development disturbances. Research identifies several shared risk factors: [^1]
 
-**"In another study published by the Department of Pediatrics, Glenrose Rehabilitation Hospital, in Alberta, Canada, the results indicate that 'specific genetic variants' found in some children can impact factors that contribute to the development of both disorders"** [^9]
+- **Prematurity**: The most prevalent risk factor for cerebral palsy, also associated with heightened ASD risk
+- **Maternal infection during pregnancy**: Connected to both cerebral palsy and elevated ASD risk
+- **Maternal obesity**: Significantly increases risk for both conditions
+- **Perinatal hypoxia**: Linked to cerebral palsy and heightened ASD vulnerability
+- **Low Apgar scores at birth**: Associated with increased risk of both conditions
 
-## Future Directions
-
-### Emerging Technologies
-
-**"Small studies have shown that motor repertoires observable within a GMA video can predict increased probability of cognitive disability. This points to the possibility for the GMA to predict outcomes beyond cerebral palsy and identify those children who might also benefit from early intervention for other conditions"** [^10]
+Cerebral palsy represents **"an early-life sign for children at risk"** of developing ASD or ADHD, supporting the need for interdisciplinary screening and care. [^1]
 
 ## References
 
 [^1]: [Association of cerebral palsy with autism spectrum disorder - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11015243/)
-[^2]: [Prevalence and characteristics of autism in children with cerebral palsy](https://onlinelibrary.wiley.com/doi/10.1111/dmcn.13436)
+[^2]: [Prevalence and characteristics of autism in children with cerebral palsy - PubMed](https://pubmed.ncbi.nlm.nih.gov/28439889/)
 [^3]: [Prevalence of cerebral palsy, co-occurring autism spectrum disorders - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4351771/)
 [^4]: [Autism spectrum disorder screening in children with cerebral palsy - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7595991/)
-[^5]: [Autism and cerebral palsy: converging phenotypes](https://www.nature.com/articles/s41390-024-03575-9)
-[^6]: [Does Cerebral Palsy Cause Autism? - Discovery ABA](https://www.discoveryaba.com/aba-therapy/does-cerebral-palsy-cause-autism-20ef6)
-[^7]: [Cerebral Palsy and Autism - NY Birth Injury](https://nybirthinjury.com/birth-injuries/cerebral-palsy/autism/)
-[^8]: [Co-occurrence of Autism and Cerebral Palsy - Full Article](https://www.tandfonline.com/doi/full/10.1080/17518423.2021.2011456)
-[^9]: [Cerebral Palsy and Autism - Cerebral Palsy Guidance](https://cerebralpalsyguidance.com/cerebral-palsy/associated-disorders/autism/)
-[^10]: [Towards universal early screening for cerebral palsy - The Lancet](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(25)00311-6/fulltext)
+[^5]: [Autism and cerebral palsy: converging phenotypes - Nature](https://www.nature.com/articles/s41390-024-03575-9)
+[^6]: [Evaluation of a child with cerebral palsy - PubMed](https://pubmed.ncbi.nlm.nih.gov/15280612/)
+[^7]: [Assessment Scales in Cerebral Palsy - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10685081/)
+[^8]: [Co-occurrence of Autism and Cerebral Palsy - Taylor & Francis](https://www.tandfonline.com/doi/full/10.1080/17518423.2021.2011456)

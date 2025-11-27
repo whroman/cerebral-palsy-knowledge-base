@@ -10,13 +10,20 @@ title: Cognitive Assessment
 Research shows significant variability in cognitive function among people with cerebral palsy:
 
 - **"Globally, there are more than 17 million individuals diagnosed with cerebral palsy, and one-fourth of cerebral palsy patients will never be able to walk and 50% of them with severe intellectual disability will become adults."** [^1]
-- **"About half of all people with cerebral palsy have no disruptions in their cognitive abilities. That means it doesn't affect their intelligence at all."** [^2]
-- **"However, about 30 to 50 percent of children with Cerebral Palsy have some level of cognitive impairment. Children with severe Cerebral Palsy have a greater likelihood of having cognitive impairments."** [^2]
-- **"Up to 50% of individuals with cerebral palsy also experience intellectual impairments."** [^3]
+- **"Up to 50% of individuals with cerebral palsy also experience intellectual impairments."** [^2]
+
+## Distribution of Cognitive Abilities
+
+A study of cognitive functioning found: **"36.2% had normal/borderline intellectual development levels, 33% had mild/moderate intellectual disability, and 30.8% had severe intellectual disability,"** demonstrating the full spectrum of cognitive abilities in this population. [^3]
 
 ## Important Understanding
 
-A comprehensive review found: **"There is large variability in the type and severity of cognitive impairments among individuals with cerebral palsy, ranging from challenges affecting functioning in just one area to severe and global impairments. Although cognition and motor functioning are associated, there is not a one-to-one relationship."** [^4a] Furthermore, **"36.2% had normal/borderline intellectual development levels, 33% had mild/moderate intellectual disability, and 30.8% had severe intellectual disability,"** demonstrating the full spectrum of cognitive abilities in this population. [^4b]
+A comprehensive review found: **"There is large variability in the type and severity of cognitive impairments among individuals with cerebral palsy, ranging from challenges affecting functioning in just one area to severe and global impairments. Although cognition and motor functioning are associated, there is not a one-to-one relationship."** [^4]
+
+This means:
+- About half of individuals with cerebral palsy have no significant cognitive impairment
+- Motor severity does not predict cognitive ability
+- Each person requires individual cognitive assessment
 
 ## Assessment Challenges in Adults
 
@@ -40,11 +47,10 @@ According to research published in Frontiers in Neurology: **"Systematic Monitor
 
 ## References
 
-[^1]: [Cognitive Functioning and Assessment in Adults with Cerebral Palsy: A Scoping Review](https://www.tandfonline.com/doi/full/10.1080/17518423.2024.2347991)
-[^2]: [Does Cerebral Palsy Affect Intelligence? Understanding Cognitive Effects](https://www.flintrehab.com/does-cerebral-palsy-affect-intelligence/)
-[^3]: [Cerebral Palsy - StatPearls - NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK538147/)
-[^4a]: [The Role of Cognitive Functioning in the ICF Framework: A Systematic Review - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12470702/)
-[^4b]: [Intelligence, Functioning, and Related Factors in Children with Cerebral Palsy - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC5439469/)
+[^1]: [Cognitive Functioning and Assessment in Adults with Cerebral Palsy: A Scoping Review - Taylor & Francis](https://www.tandfonline.com/doi/full/10.1080/17518423.2024.2347991)
+[^2]: [Cerebral Palsy - StatPearls - NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK538147/)
+[^3]: [Intelligence, Functioning, and Related Factors in Children with Cerebral Palsy - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC5439469/)
+[^4]: [The Role of Cognitive Functioning in the ICF Framework: A Systematic Review - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12470702/)
 [^5]: [Cognitive Functioning and Assessment in Adults with Cerebral Palsy: A Scoping Review - PubMed](https://pubmed.ncbi.nlm.nih.gov/38702978/)
 [^6]: [Assessment of adult patients with cerebral palsy - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7756828/)
 [^7]: [Systematic Monitoring of Cognition for Adults With Cerebral Palsy - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8492925/)

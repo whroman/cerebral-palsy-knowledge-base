@@ -7,7 +7,7 @@ title: GMFCS - Gross Motor Function Classification System
 
 ## Official Source
 
-The GMFCS - E&R is developed and maintained by [CanChild at McMaster University](https://canchild.ca/en/resources/42-gross-motor-function-classification-system-expanded-revised-gmfcs-e-r).
+The GMFCS - E&R is developed and maintained by [CanChild at McMaster University](https://canchild.ca/resources/42-gmfcs-e-r/).
 
 ## Overview
 
@@ -63,7 +63,7 @@ According to CanChild, the GMFCS - E&R has multiple applications: [^1]
 
 ## Important Limitations
 
-**"The Gross Motor Function Classification System (GMFCS) is a classification tool used to describe levels of gross motor functioning of children with cerebral palsy (CP). Here we explain why the GMFCS should not be used outside the domain of CP."** [^1]
+**"The Gross Motor Function Classification System (GMFCS) is a classification tool used to describe levels of gross motor functioning of children with cerebral palsy. Here we explain why the GMFCS should not be used outside the domain of cerebral palsy."** [^1]
 
 ## Availability
 
@@ -73,4 +73,4 @@ For commercial use: **"If wishing to license the GMFCS - E&R and it's variations
 
 ## References
 
-[^1]: [Gross Motor Function Classification System (GMFCS – E&R) - CanChild](https://canchild.ca/en/resources/42-gross-motor-function-classification-system-expanded-revised-gmfcs-e-r)
+[^1]: [Gross Motor Function Classification System (GMFCS – E&R) - CanChild](https://canchild.ca/resources/42-gmfcs-e-r/)
