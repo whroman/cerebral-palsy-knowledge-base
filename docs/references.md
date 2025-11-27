@@ -58,9 +58,15 @@ title: Complete References
 
 ## Late Diagnosis Resources
 
-- [Can You Get Cerebral Palsy Later In Life? - Flint Rehab](https://www.flintrehab.com/can-you-get-cerebral-palsy-later-in-life/)
-- [Cerebral Palsy Misdiagnosis - Cerebral Palsy Guidance](https://cerebralpalsyguidance.com/cerebral-palsy/misdiagnosis/)
+- [Early, Accurate Diagnosis and Early Intervention in Cerebral Palsy - JAMA Pediatrics](https://pubmed.ncbi.nlm.nih.gov/28715518/)
+- [Early Diagnosis and Classification: Historical Perspective and Barriers - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC6832653/)
 - [Age of Diagnosis Study - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8391606/)
+
+## Gait and Rehabilitation
+
+- [Gait training interventions network meta-analysis - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9871496/)
+- [Rehabilitation interventions for gait speed: systematic review - PubMed](https://pubmed.ncbi.nlm.nih.gov/27491082/)
+- [Botulinum toxin A for spasticity: evidence summary - PubMed](https://pubmed.ncbi.nlm.nih.gov/19142573/)
 
 ## Additional Resources
 
