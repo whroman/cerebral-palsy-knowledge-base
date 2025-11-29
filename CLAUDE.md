@@ -16,6 +16,9 @@ This knowledge base exists to help caretakers of adults with cerebral palsy rece
 
 ## Knowledge Base Index
 
+### Features
+- [features-registry/CLAUDE.md](features-registry/CLAUDE.md) - Feature registry
+
 ### Research (Source of Truth)
 - [research/CLAUDE.md](research/CLAUDE.md) - Research notes index
 - Content in `/docs/` must be derived from research notes
@@ -111,6 +114,7 @@ Run before committing changes:
 npm run check:all          # Run all checks
 npm run check:frontmatter  # Validate research note YAML schema
 npm run check:abbreviations # Find prohibited "CP" abbreviations
+npm run check:features     # Validate feature registry
 npm run check:links        # Verify all links are valid
 ```
 

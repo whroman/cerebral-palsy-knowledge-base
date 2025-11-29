@@ -14,8 +14,11 @@ const glob = require('glob');
 const DOCS_DIR = path.join(__dirname, '..', 'docs');
 const RESEARCH_DIR = path.join(__dirname, '..', 'research');
 
-// Match links like [anything](/research/something) or ((/research/something))
+// Match markdown links like [anything](/research/something)
 const RESEARCH_LINK_PATTERN = /\[([^\]]*)\]\(\/research\/([^)]+)\)/g;
+
+// Match Cite components like <Cite slug="nice-ng119" /> or <Cite slug='pubmed-123' />
+const CITE_COMPONENT_PATTERN = /<Cite\s+slug=["']([^"']+)["']\s*\/?>/g;
 
 let errors = [];
 let checkedCount = 0;
@@ -32,14 +35,13 @@ for (const docFile of docFiles) {
   const filePath = path.join(DOCS_DIR, docFile);
   const content = fs.readFileSync(filePath, 'utf-8');
 
+  // Check markdown links
   let match;
   while ((match = RESEARCH_LINK_PATTERN.exec(content)) !== null) {
     checkedCount++;
     const linkText = match[1];
     const researchId = match[2];
 
-    // Check if research note exists
-    // Could be linked by id (e.g., brunton-2020) or by filename (e.g., pubmed-32061920)
     const matchingFile = researchFiles.find(f =>
       f === researchId ||
       f.includes(researchId)
@@ -50,6 +52,22 @@ for (const docFile of docFiles) {
         file: docFile,
         link: researchId,
         text: linkText
+      });
+    }
+  }
+
+  // Check Cite components
+  while ((match = CITE_COMPONENT_PATTERN.exec(content)) !== null) {
+    checkedCount++;
+    const slug = match[1];
+
+    const matchingFile = researchFiles.find(f => f === slug);
+
+    if (!matchingFile) {
+      errors.push({
+        file: docFile,
+        link: slug,
+        text: `<Cite slug="${slug}">`
       });
     }
   }

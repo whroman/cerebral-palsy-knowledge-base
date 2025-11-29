@@ -55,11 +55,9 @@
         "scoping-review",
         "rct",
         "cohort-study",
-        "registry-data",
-        "case-control",
-        "cross-sectional"
+        "registry-data"
       ],
-      "description": "Type of source (only evidence-based types allowed)"
+      "description": "Type of source (top/mid tier only - lower tier prohibited)"
     },
     "journal": {
       "type": "string",

@@ -4,8 +4,9 @@
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
-    "start": "docusaurus start",
-    "build": "docusaurus build",
+    "generate:references": "node scripts/generate-references.js",
+    "start": "npm run generate:references && docusaurus start",
+    "build": "npm run generate:references && docusaurus build",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",
@@ -18,12 +19,14 @@
     "check:citations": "node scripts/check-citations.js",
     "check:orphans": "node scripts/check-orphans.js",
     "check:source-types": "node scripts/check-source-types.js",
-    "check:all": "npm run check:frontmatter && npm run check:abbreviations && npm run check:source-types && npm run check:citations && npm run check:orphans && npm run check:links"
+    "check:features": "node scripts/check-features.js",
+    "check:all": "npm run check:frontmatter && npm run check:abbreviations && npm run check:source-types && npm run check:citations && npm run check:orphans && npm run check:features && npm run check:links"
   },
   "dependencies": {
     "@docusaurus/core": "3.5.2",
     "@docusaurus/preset-classic": "3.5.2",
     "@mdx-js/react": "^3.0.0",
+    "@radix-ui/react-dialog": "^1.1.15",
     "clsx": "^2.0.0",
     "prism-react-renderer": "^2.3.0",
     "react": "^18.0.0",

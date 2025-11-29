@@ -1,0 +1,352 @@
+{
+  "pubmed-34705276": {
+    "id": "manikandan-2022",
+    "slug": "pubmed-34705276",
+    "title": "Health Service Use in Adults with Cerebral Palsy",
+    "year": 2022,
+    "type": "systematic-review",
+    "typeLabel": "Systematic Review",
+    "typeEmoji": "📊",
+    "tier": "top",
+    "journal": "Developmental Medicine & Child Neurology",
+    "authors": [
+      "Manikandan M",
+      "Kerr C",
+      "Lavelle G",
+      "Walsh M",
+      "Walsh A",
+      "Ryan JM"
+    ],
+    "authorShort": "Manikandan",
+    "tags": [
+      "adults",
+      "health-services",
+      "access",
+      "systematic-review"
+    ],
+    "pubmed": 34705276,
+    "pmcid": null,
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/34705276/"
+  },
+  "pubmed-32061920": {
+    "id": "vanderslot-2020",
+    "slug": "pubmed-32061920",
+    "title": "Pain in adults with cerebral palsy",
+    "year": 2020,
+    "type": "systematic-review",
+    "typeLabel": "Systematic Review",
+    "typeEmoji": "📊",
+    "tier": "top",
+    "journal": "Annals of Physical and Rehabilitation Medicine",
+    "authors": [
+      "Van der Slot WMA",
+      "Benner JL",
+      "Brunton L",
+      "Engel JM",
+      "Gallien P",
+      "Hilberink SR",
+      "Månum G",
+      "Morgan P",
+      "Opheim A",
+      "Riquelme I",
+      "Rodby-Bousquet E",
+      "Şimşek TT",
+      "Thorpe DE",
+      "van den Berg-Emons RJG",
+      "Vogtle LK",
+      "Papageorgiou G",
+      "Roebroeck ME"
+    ],
+    "authorShort": "Van der Slot",
+    "tags": [
+      "pain",
+      "adults",
+      "prevalence"
+    ],
+    "pubmed": 32061920,
+    "pmcid": null,
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/32061920/"
+  },
+  "pubmed-32059945": {
+    "id": "vangorp-2020",
+    "slug": "pubmed-32059945",
+    "title": "Epidemiology of Cerebral Palsy in Adulthood",
+    "year": 2020,
+    "type": "systematic-review",
+    "typeLabel": "Systematic Review",
+    "typeEmoji": "📊",
+    "tier": "top",
+    "journal": "Archives of Physical Medicine and Rehabilitation",
+    "authors": [
+      "van Gorp M",
+      "Hilberink SR",
+      "Noten S",
+      "Benner JL",
+      "Stam HJ",
+      "van der Slot WMA",
+      "Roebroeck ME"
+    ],
+    "authorShort": "van Gorp",
+    "tags": [
+      "adults",
+      "epidemiology",
+      "outcomes",
+      "fatigue",
+      "pain",
+      "employment"
+    ],
+    "pubmed": 32059945,
+    "pmcid": null,
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/32059945/"
+  },
+  "pubmed-28715518": {
+    "id": "novak-2017",
+    "slug": "pubmed-28715518",
+    "title": "Early Diagnosis and Intervention",
+    "year": 2017,
+    "type": "systematic-review",
+    "typeLabel": "Systematic Review",
+    "typeEmoji": "📊",
+    "tier": "top",
+    "journal": "JAMA Pediatrics",
+    "authors": [
+      "Novak I",
+      "Morgan C",
+      "Adde L",
+      "Blackman J",
+      "Boyd RN",
+      "Brunstrom-Hernandez J",
+      "Cioni G",
+      "Hagberg-Brönmark C",
+      "Hensch TK",
+      "Himmelmann K",
+      "McIntyre S",
+      "Noritz G",
+      "Novak J",
+      "Paneth N",
+      "Romeo DM",
+      "Scherzer AL",
+      "Scrutton D",
+      "Spiegel D",
+      "van der Linden M",
+      "Viehweger E",
+      "Wolf SL",
+      "Badawi N"
+    ],
+    "authorShort": "Novak",
+    "tags": [
+      "diagnosis",
+      "early-intervention",
+      "prognosis"
+    ],
+    "pubmed": 28715518,
+    "pmcid": null,
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/28715518/"
+  },
+  "pubmed-27491082": {
+    "id": "moreau-2016",
+    "slug": "pubmed-27491082",
+    "title": "Gait Speed Rehabilitation Interventions",
+    "year": 2016,
+    "type": "meta-analysis",
+    "typeLabel": "Meta-analysis",
+    "typeEmoji": "📈",
+    "tier": "top",
+    "journal": "Physical Therapy",
+    "authors": [
+      "Moreau NG",
+      "Bodkin AW",
+      "Bjornson K",
+      "Hobbs A",
+      "Soileau M",
+      "Lahasky K"
+    ],
+    "authorShort": "Moreau",
+    "tags": [
+      "gait",
+      "rehabilitation",
+      "walking-speed"
+    ],
+    "pubmed": 27491082,
+    "pmcid": null,
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/27491082/"
+  },
+  "pubmed-19142573": {
+    "id": "lukban-2009",
+    "slug": "pubmed-19142573",
+    "title": "Botulinum Toxin A for Spasticity",
+    "year": 2009,
+    "type": "systematic-review",
+    "typeLabel": "Systematic Review",
+    "typeEmoji": "📊",
+    "tier": "top",
+    "journal": "Journal of Neural Transmission",
+    "authors": [
+      "Lukban MB",
+      "Rosales RL",
+      "Dressler D"
+    ],
+    "authorShort": "Lukban",
+    "tags": [
+      "botulinum-toxin",
+      "spasticity",
+      "treatment"
+    ],
+    "pubmed": 19142573,
+    "pmcid": null,
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/19142573/"
+  },
+  "pubmed-15280612": {
+    "id": "aneja-2004",
+    "slug": "pubmed-15280612",
+    "title": "Evaluation of a child with cerebral palsy",
+    "year": 2004,
+    "type": "scoping-review",
+    "typeLabel": "Scoping Review",
+    "typeEmoji": "🔍",
+    "tier": "top",
+    "journal": "Indian Journal of Pediatrics",
+    "authors": [
+      "Aneja S"
+    ],
+    "authorShort": "Aneja",
+    "tags": [
+      "assessment",
+      "multidisciplinary",
+      "evaluation"
+    ],
+    "pubmed": 15280612,
+    "pmcid": null,
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/15280612/"
+  },
+  "pmc-9871496": {
+    "id": "qian-2023",
+    "slug": "pmc-9871496",
+    "title": "Gait Training Network Meta-analysis",
+    "year": 2023,
+    "type": "meta-analysis",
+    "typeLabel": "Meta-analysis",
+    "typeEmoji": "📈",
+    "tier": "top",
+    "journal": "Frontiers in Neurology",
+    "authors": [
+      "Qian G",
+      "Cai X",
+      "Xu K",
+      "Tian H",
+      "Meng Q",
+      "Ossowski Z",
+      "Liang J"
+    ],
+    "authorShort": "Qian",
+    "tags": [
+      "gait",
+      "treatment",
+      "treadmill",
+      "rehabilitation"
+    ],
+    "pubmed": null,
+    "pmcid": "PMC9871496",
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9871496/"
+  },
+  "pmc-6832653": {
+    "id": "tevelde-2019",
+    "slug": "pmc-6832653",
+    "title": "Early Diagnosis Barriers and History",
+    "year": 2019,
+    "type": "scoping-review",
+    "typeLabel": "Scoping Review",
+    "typeEmoji": "🔍",
+    "tier": "top",
+    "journal": "Journal of Clinical Medicine",
+    "authors": [
+      "te Velde A",
+      "Morgan C",
+      "Novak I",
+      "Tantsis E",
+      "Badawi N"
+    ],
+    "authorShort": "te Velde",
+    "tags": [
+      "diagnosis",
+      "early-detection",
+      "barriers",
+      "history"
+    ],
+    "pubmed": null,
+    "pmcid": "PMC6832653",
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6832653/"
+  },
+  "pmc-10685081": {
+    "id": "javvaji-2023",
+    "slug": "pmc-10685081",
+    "title": "Assessment Scales in Cerebral Palsy",
+    "year": 2023,
+    "type": "scoping-review",
+    "typeLabel": "Scoping Review",
+    "typeEmoji": "🔍",
+    "tier": "top",
+    "journal": "Cureus",
+    "authors": [
+      "Javvaji CK",
+      "Vagha JD",
+      "Meshram RJ",
+      "Taksande A"
+    ],
+    "authorShort": "Javvaji",
+    "tags": [
+      "assessment",
+      "scales",
+      "multidisciplinary"
+    ],
+    "pubmed": null,
+    "pmcid": "PMC10685081",
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10685081/"
+  },
+  "nice-ng119": {
+    "id": "nice-2019",
+    "slug": "nice-ng119",
+    "title": "NICE Guideline - Cerebral Palsy in Adults",
+    "year": 2019,
+    "type": "guideline",
+    "typeLabel": "Clinical Guideline",
+    "typeEmoji": "📋",
+    "tier": "top",
+    "journal": "National Institute for Health and Care Excellence",
+    "authors": [
+      "NICE Guideline Committee"
+    ],
+    "authorShort": "NICE",
+    "tags": [
+      "adults",
+      "assessment",
+      "guidelines",
+      "multidisciplinary"
+    ],
+    "pubmed": null,
+    "pmcid": null,
+    "doi": null,
+    "nice": "NG119",
+    "sourceUrl": "https://www.nice.org.uk/guidance/ng119"
+  }
+}

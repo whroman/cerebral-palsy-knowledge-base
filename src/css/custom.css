@@ -172,3 +172,14 @@ table td {
 .markdown a[href^="/research/"]:hover {
   text-decoration: underline;
 }
+
+/* ==========================================================================
+   Citation Overlay - Hide ToC when dialog is open
+   Radix Dialog adds [data-scroll-locked] to body when modal is open
+   ========================================================================== */
+
+/* Hide ToC when citation overlay is open to prevent z-index conflicts */
+/* Radix Dialog adds [data-scroll-locked] to body when modal is open */
+body[data-scroll-locked] .theme-doc-toc-desktop {
+  display: none !important;
+}

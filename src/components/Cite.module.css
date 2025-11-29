@@ -1,0 +1,51 @@
+/* Inline citation button */
+.citation {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  background: none;
+  border: none;
+  padding: 0;
+  margin: 0 0.125rem;
+  font-family: inherit;
+  font-size: inherit;
+  font-style: italic;
+  color: var(--ifm-color-primary-dark);
+  cursor: pointer;
+  transition: color 0.15s ease;
+}
+
+.citation:hover {
+  color: var(--ifm-color-primary-darker);
+  text-decoration: underline;
+}
+
+/* Tier dots */
+.dot {
+  font-size: 0.625rem;
+  line-height: 1;
+  margin-left: 0.125rem;
+}
+
+.citation.top .dot {
+  color: #28a745;
+}
+
+.citation.mid .dot {
+  color: #ffc107;
+}
+
+/* Dark mode */
+[data-theme='dark'] .citation.top .dot {
+  color: #4caf50;
+}
+
+[data-theme='dark'] .citation.mid .dot {
+  color: #ffca28;
+}
+
+/* Error state */
+.error {
+  color: #dc3545;
+  font-style: italic;
+}
