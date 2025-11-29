@@ -21,28 +21,33 @@ This knowledge base exists to help caretakers of adults with cerebral palsy rece
 - Content in `/docs/` must be derived from research notes
 
 ### Entry Point
-- [docs/intro.md](docs/intro.md) - Table of contents and navigation
+- [docs/intro.md](docs/intro.md) - Overview with hierarchical drill-down
+
+### Classification
+- [docs/classification/index.md](docs/classification/index.md) - Overview: GMFCS, MACS, CFCS
+- [docs/classification/gmfcs.md](docs/classification/gmfcs.md) - Gross Motor Function
+- [docs/classification/macs.md](docs/classification/macs.md) - Manual Ability
+- [docs/classification/cfcs.md](docs/classification/cfcs.md) - Communication Function
 
 ### Assessment
-- [docs/assessment/overview.md](docs/assessment/overview.md) - NICE guidelines for adult assessment
-- [docs/assessment/cognitive.md](docs/assessment/cognitive.md) - Cognitive and intellectual assessment
-- [docs/assessment/functional-independence.md](docs/assessment/functional-independence.md) - FIM assessment tool
-
-### Classification Systems
-- [docs/classification/gmfcs.md](docs/classification/gmfcs.md) - Gross Motor Function Classification System
-- [docs/classification/macs.md](docs/classification/macs.md) - Manual Ability Classification System
-- [docs/classification/cfcs.md](docs/classification/cfcs.md) - Communication Function Classification System
+- [docs/assessment/index.md](docs/assessment/index.md) - Overview: why and how to assess
+- [docs/assessment/overview.md](docs/assessment/overview.md) - NICE guidelines
+- [docs/assessment/cognitive.md](docs/assessment/cognitive.md) - Cognitive evaluation
+- [docs/assessment/functional-independence.md](docs/assessment/functional-independence.md) - FIM
 
 ### Co-occurring Conditions
-- [docs/co-occurring/autism-cp.md](docs/co-occurring/autism-cp.md) - Autism co-occurrence (6-9% prevalence, 5x general population)
-- [docs/co-occurring/neurological-vs-neurodevelopmental.md](docs/co-occurring/neurological-vs-neurodevelopmental.md) - Classification differences between cerebral palsy and autism
+- [docs/co-occurring/index.md](docs/co-occurring/index.md) - Overview: conditions that co-occur
+- [docs/co-occurring/autism-cp.md](docs/co-occurring/autism-cp.md) - Autism (6-9%, 5x general population)
+- [docs/co-occurring/neurological-vs-neurodevelopmental.md](docs/co-occurring/neurological-vs-neurodevelopmental.md) - Classification differences
 
 ### Management
-- [docs/management/physiatrist-role.md](docs/management/physiatrist-role.md) - Physiatrists as comprehensive care coordinators
-- [docs/management/gait-patterns.md](docs/management/gait-patterns.md) - Gait patterns and treatment approaches
+- [docs/management/index.md](docs/management/index.md) - Overview: coordination and treatment
+- [docs/management/physiatrist-role.md](docs/management/physiatrist-role.md) - Physiatrist as coordinator
+- [docs/management/gait-patterns.md](docs/management/gait-patterns.md) - Gait patterns
 
 ### Adults
-- [docs/adults/late-diagnosis.md](docs/adults/late-diagnosis.md) - Late diagnosis and assessment in adults
+- [docs/adults/index.md](docs/adults/index.md) - Overview: adult-specific issues
+- [docs/adults/late-diagnosis.md](docs/adults/late-diagnosis.md) - Late diagnosis
 
 ## Critical Rules
 

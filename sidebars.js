@@ -6,7 +6,8 @@ const sidebars = {
     'intro',
     {
       type: 'category',
-      label: 'Classification Systems',
+      label: 'Classification',
+      link: { type: 'doc', id: 'classification/index' },
       items: [
         'classification/gmfcs',
         'classification/macs',
@@ -15,7 +16,8 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: 'Assessment Standards',
+      label: 'Assessment',
+      link: { type: 'doc', id: 'assessment/index' },
       items: [
         'assessment/overview',
         'assessment/cognitive',
@@ -25,6 +27,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'Co-occurring Conditions',
+      link: { type: 'doc', id: 'co-occurring/index' },
       items: [
         'co-occurring/autism-cp',
         'co-occurring/neurological-vs-neurodevelopmental',
@@ -32,7 +35,8 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: 'Clinical Management',
+      label: 'Management',
+      link: { type: 'doc', id: 'management/index' },
       items: [
         'management/physiatrist-role',
         'management/gait-patterns',
@@ -40,7 +44,8 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: 'Adults with Cerebral Palsy',
+      label: 'Adults',
+      link: { type: 'doc', id: 'adults/index' },
       items: [
         'adults/late-diagnosis',
       ],
