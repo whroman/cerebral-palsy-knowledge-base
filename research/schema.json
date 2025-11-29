@@ -2,14 +2,29 @@
   "$schema": "http://json-schema.org/draft-07/schema#",
   "title": "Research Note Frontmatter",
   "type": "object",
-  "required": ["year", "type", "authors", "tags"],
+  "required": ["id", "slug", "title", "year", "type", "authors", "author_short", "tags"],
   "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z]+-[0-9]{4}[a-z]?$",
+      "description": "Citation key (e.g., brunton-2020, smith-2021a)"
+    },
+    "slug": {
+      "type": "string",
+      "pattern": "^(pubmed|pmc)-[0-9]+$",
+      "description": "URL slug matching filename (e.g., pubmed-32061920)"
+    },
+    "title": {
+      "type": "string",
+      "description": "Short title for the research note"
+    },
     "pubmed": {
       "type": "integer",
       "description": "PubMed ID"
     },
     "pmcid": {
       "type": "string",
+      "pattern": "^PMC[0-9]+$",
       "description": "PubMed Central ID (e.g., PMC1234567)"
     },
     "doi": {
@@ -33,8 +48,18 @@
     },
     "type": {
       "type": "string",
-      "enum": ["systematic-review", "meta-analysis", "guideline", "cohort-study", "cross-sectional", "case-study", "review", "official-documentation"],
-      "description": "Type of source"
+      "enum": [
+        "systematic-review",
+        "meta-analysis",
+        "guideline",
+        "scoping-review",
+        "rct",
+        "cohort-study",
+        "registry-data",
+        "case-control",
+        "cross-sectional"
+      ],
+      "description": "Type of source (only evidence-based types allowed)"
     },
     "journal": {
       "type": "string",
@@ -46,7 +71,11 @@
         "type": "string"
       },
       "minItems": 1,
-      "description": "List of authors"
+      "description": "List of authors (Last First format)"
+    },
+    "author_short": {
+      "type": "string",
+      "description": "Short author for inline citation (e.g., Brunton)"
     },
     "tags": {
       "type": "array",

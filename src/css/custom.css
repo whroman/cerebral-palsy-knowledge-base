@@ -113,3 +113,62 @@ table td {
 .markdown a[href^="#ref-"]:hover {
   text-decoration: underline;
 }
+
+/* ==========================================================================
+   Research Note Evidence Tier Colors
+   Color derived from frontmatter `type` field at build time.
+   ========================================================================== */
+
+:root {
+  --tier-top: #d4edda;      /* Green - systematic reviews, meta-analyses, guidelines */
+  --tier-mid: #fff3cd;      /* Yellow - RCTs, cohorts, registry data */
+  --tier-lower: #f8d7da;    /* Red - case-control, cross-sectional */
+  --tier-top-border: #28a745;
+  --tier-mid-border: #ffc107;
+  --tier-lower-border: #dc3545;
+}
+
+[data-theme='dark'] {
+  --tier-top: #1e4620;
+  --tier-mid: #4a3c00;
+  --tier-lower: #4a1a1a;
+  --tier-top-border: #4caf50;
+  --tier-mid-border: #ffca28;
+  --tier-lower-border: #ef5350;
+}
+
+/* Research note header badge */
+.research-note-header {
+  padding: 0.75rem 1rem;
+  border-radius: 4px;
+  margin-bottom: 1.5rem;
+  border-left: 4px solid;
+}
+
+/* Top tier: systematic-review, meta-analysis, guideline, scoping-review */
+.research-note-header[data-tier="top"] {
+  background-color: var(--tier-top);
+  border-left-color: var(--tier-top-border);
+}
+
+/* Mid tier: rct, cohort-study, registry-data */
+.research-note-header[data-tier="mid"] {
+  background-color: var(--tier-mid);
+  border-left-color: var(--tier-mid-border);
+}
+
+/* Lower tier: case-control, cross-sectional */
+.research-note-header[data-tier="lower"] {
+  background-color: var(--tier-lower);
+  border-left-color: var(--tier-lower-border);
+}
+
+/* Research note citation link styling in docs */
+.markdown a[href^="/research/"] {
+  font-style: italic;
+  color: var(--ifm-color-primary-dark);
+}
+
+.markdown a[href^="/research/"]:hover {
+  text-decoration: underline;
+}

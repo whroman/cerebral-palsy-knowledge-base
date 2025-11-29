@@ -15,7 +15,10 @@
     "check:frontmatter": "remark 'research/!(CLAUDE).md' --frail",
     "check:links": "markdown-link-check docs/**/*.md research/*.md",
     "check:abbreviations": "! grep -r --include='*.md' -n '\\bCP\\b' docs/ research/ | grep -v '^[^:]*:[^:]*:.*>.*CP' || echo 'No invalid CP abbreviations found'",
-    "check:all": "npm run check:frontmatter && npm run check:links && npm run check:abbreviations"
+    "check:citations": "node scripts/check-citations.js",
+    "check:orphans": "node scripts/check-orphans.js",
+    "check:source-types": "node scripts/check-source-types.js",
+    "check:all": "npm run check:frontmatter && npm run check:abbreviations && npm run check:source-types && npm run check:citations && npm run check:orphans && npm run check:links"
   },
   "dependencies": {
     "@docusaurus/core": "3.5.2",
@@ -29,6 +32,8 @@
   "devDependencies": {
     "@docusaurus/module-type-aliases": "3.5.2",
     "@docusaurus/types": "3.5.2",
+    "glob": "^13.0.0",
+    "gray-matter": "^4.0.3",
     "markdown-link-check": "^3.14.2",
     "remark-cli": "^12.0.1",
     "remark-frontmatter": "^5.0.0",

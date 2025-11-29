@@ -51,13 +51,29 @@ const config = {
     ],
   ],
 
+  plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'research',
+        path: 'research',
+        routeBasePath: 'research',
+        sidebarPath: false, // No sidebar for research notes
+        editUrl: undefined,
+        showLastUpdateTime: true,
+        // Exclude CLAUDE.md from being rendered as a page
+        exclude: ['CLAUDE.md'],
+      },
+    ],
+  ],
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'CP Knowledge Base',
+        title: 'Cerebral Palsy Knowledge Base',
         items: [
           {
             type: 'docSidebar',
@@ -66,8 +82,8 @@ const config = {
             label: 'Documentation',
           },
           {
-            href: '#',
-            label: 'References',
+            to: '/research/pubmed-32061920',
+            label: 'Research Notes',
             position: 'right',
           },
         ],
