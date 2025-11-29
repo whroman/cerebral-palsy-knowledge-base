@@ -15,9 +15,9 @@ import Cite from '@site/src/components/Cite';
 
 ### Heel Strike Deficits
 
-**"Foot drop and toe walking are frequent concerns in children with cerebral palsy, with increased stiffness of the ankle joint muscles contributing to these problems"** [^2]
+**"Foot drop and toe walking are frequent concerns in children with cerebral palsy, with increased stiffness of the ankle joint muscles contributing to these problems"** <Cite slug="pubmed-25318785" />
 
-In typical development, **"children usually demonstrate ankle dorsiflexion at heel strike by the age of five years"** [^2]
+In typical development, **"children usually demonstrate ankle dorsiflexion at heel strike by the age of five years"** <Cite slug="pubmed-25318785" />
 
 ## Understanding the Neurological-Physical Connection
 
@@ -27,7 +27,7 @@ The gait patterns seen in cerebral palsy result from both:
 - **Neurological factors**: Altered signals from motor control centers in the brain
 - **Physical adaptations**: Muscle and tendon changes that develop over time
 
-Accurate differentiation between cerebral palsy and idiopathic toe walking requires systematic assessment using **"evidence-based tests and measures in accordance with the International Classification of Functioning, Disability and Health model."** [^3]
+Accurate differentiation between cerebral palsy and idiopathic toe walking requires systematic assessment using **"evidence-based tests and measures in accordance with the International Classification of Functioning, Disability and Health model."** <Cite slug="pubmed-31842091" />
 
 ## Evidence-Based Treatment Approaches
 
@@ -42,7 +42,7 @@ Key findings:
 
 ### Treadmill Training Interventions
 
-**"Daily intensive gait training may influence the elastic properties of ankle joint muscles and facilitate toe lift and heel strike in children with cerebral palsy, and may be beneficial in preventing contractures and maintaining gait ability"** [^2]
+**"Daily intensive gait training may influence the elastic properties of ankle joint muscles and facilitate toe lift and heel strike in children with cerebral palsy, and may be beneficial in preventing contractures and maintaining gait ability"** <Cite slug="pubmed-25318785" />
 
 A network meta-analysis of 20 RCTs (516 patients) found partial body weight-supported treadmill training (BWSTT) to be most effective for improving gait velocity, with a SUCRA ranking of 91.7%. <Cite slug="pmc-9871496" />
 
@@ -62,11 +62,11 @@ This emphasizes that task-specific training is more effective than general stren
 
 ### Serial Casting
 
-**"Serial casting is a nonoperative technique for stretching the Achilles tendon, where the child is placed in a below-the-knee cast while the knee is flexed and foot is dorsiflexed"** [^6]
+**"Serial casting is a nonoperative technique for stretching the Achilles tendon, where the child is placed in a below-the-knee cast while the knee is flexed and foot is dorsiflexed"** <Cite slug="pmc-6458004" />
 
 ### Orthotic Devices
 
-**"An ankle-foot orthosis (AFO) or serial casting promotes progressive stretching of naturally shortening tissues"** [^6]
+**"An ankle-foot orthosis (AFO) or serial casting promotes progressive stretching of naturally shortening tissues"** <Cite slug="pmc-6458004" />
 
 Benefits of AFOs:
 - Maintain stretch throughout the day
@@ -119,6 +119,3 @@ Adults with cerebral palsy who have developed compensatory gait patterns over de
 ## References
 
 [^1]: [Toe Walking - ScienceDirect Topics](https://www.sciencedirect.com/topics/medicine-and-dentistry/toe-walking)
-[^2]: [Gait training reduces ankle stiffness in cerebral palsy - PubMed](https://pubmed.ncbi.nlm.nih.gov/25318785/)
-[^3]: [Differentiating Between Idiopathic Toe Walking and Cerebral Palsy: A Systematic Review - PubMed](https://pubmed.ncbi.nlm.nih.gov/31842091/)
-[^6]: [Interventions for idiopathic toe walking - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC6458004/)

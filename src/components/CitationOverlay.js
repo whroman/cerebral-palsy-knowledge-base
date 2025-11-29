@@ -29,14 +29,14 @@ export default function CitationOverlay({ portalContainer }) {
                 </button>
               </Dialog.Close>
 
+              {/* Title */}
+              <Dialog.Title className={styles.title}>{ref.title}</Dialog.Title>
+
               {/* Tier Badge */}
               <div className={`${styles.tierBadge} ${styles[ref.tier]}`}>
                 <span className={styles.tierDot}>●</span>
                 {tierLabels[ref.tier]}
               </div>
-
-              {/* Title */}
-              <Dialog.Title className={styles.title}>{ref.title}</Dialog.Title>
 
               {/* Attributes */}
               <div className={styles.attributes}>

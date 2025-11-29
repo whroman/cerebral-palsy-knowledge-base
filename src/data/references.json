@@ -105,6 +105,36 @@
     "nice": null,
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/32059945/"
   },
+  "pubmed-31842091": {
+    "id": "alvarez-2019",
+    "slug": "pubmed-31842091",
+    "title": "Differentiating Idiopathic Toe Walking from Cerebral Palsy",
+    "year": 2019,
+    "type": "systematic-review",
+    "typeLabel": "Systematic Review",
+    "typeEmoji": "📊",
+    "tier": "top",
+    "journal": "Pediatric Physical Therapy",
+    "authors": [
+      "Alvarez C",
+      "De Vera M",
+      "Beauchamp R",
+      "Ward V",
+      "Black A"
+    ],
+    "authorShort": "Alvarez",
+    "tags": [
+      "gait",
+      "toe-walking",
+      "diagnosis",
+      "differential-diagnosis"
+    ],
+    "pubmed": 31842091,
+    "pmcid": null,
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/31842091/"
+  },
   "pubmed-28715518": {
     "id": "novak-2017",
     "slug": "pubmed-28715518",
@@ -180,6 +210,35 @@
     "doi": null,
     "nice": null,
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/27491082/"
+  },
+  "pubmed-25318785": {
+    "id": "willerslev-olsen-2014",
+    "slug": "pubmed-25318785",
+    "title": "Gait Training and Ankle Stiffness in Cerebral Palsy",
+    "year": 2014,
+    "type": "systematic-review",
+    "typeLabel": "Systematic Review",
+    "typeEmoji": "📊",
+    "tier": "top",
+    "journal": "Developmental Medicine & Child Neurology",
+    "authors": [
+      "Willerslev-Olsen M",
+      "Lorentzen J",
+      "Nielsen JB"
+    ],
+    "authorShort": "Willerslev-Olsen",
+    "tags": [
+      "gait",
+      "ankle",
+      "stiffness",
+      "treadmill",
+      "treatment"
+    ],
+    "pubmed": 25318785,
+    "pmcid": null,
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/25318785/"
   },
   "pubmed-19142573": {
     "id": "lukban-2009",
@@ -294,6 +353,37 @@
     "doi": null,
     "nice": null,
     "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6832653/"
+  },
+  "pmc-6458004": {
+    "id": "caserta-2019",
+    "slug": "pmc-6458004",
+    "title": "Interventions for Idiopathic Toe Walking",
+    "year": 2019,
+    "type": "systematic-review",
+    "typeLabel": "Systematic Review",
+    "typeEmoji": "📊",
+    "tier": "top",
+    "journal": "Cochrane Database of Systematic Reviews",
+    "authors": [
+      "Caserta AJ",
+      "Pacey V",
+      "Fahey MC",
+      "Gray K",
+      "Engelbert RH",
+      "Williams CM"
+    ],
+    "authorShort": "Caserta",
+    "tags": [
+      "toe-walking",
+      "treatment",
+      "serial-casting",
+      "orthoses"
+    ],
+    "pubmed": null,
+    "pmcid": "PMC6458004",
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6458004/"
   },
   "pmc-10685081": {
     "id": "javvaji-2023",

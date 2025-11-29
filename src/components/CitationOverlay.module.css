@@ -19,7 +19,7 @@
   background: #ffffff;
   box-shadow: -4px 0 20px rgba(0, 0, 0, 0.15);
   overflow-y: auto;
-  padding: 1.5rem;
+  padding: 2rem 1.5rem 1.5rem;
   z-index: 9999;
 }
 
@@ -27,22 +27,34 @@
   background: #1b1b1d;
 }
 
+/* Header area with close button */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 1rem;
+}
+
 /* Close Button */
 .closeButton {
   position: absolute;
-  top: 1rem;
-  right: 1rem;
-  background: none;
-  border: none;
-  font-size: 1.5rem;
+  top: 0.75rem;
+  right: 0.75rem;
+  background: var(--ifm-color-emphasis-100);
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: 6px;
+  font-size: 1.25rem;
   cursor: pointer;
-  color: var(--ifm-color-emphasis-600);
-  padding: 0.25rem 0.5rem;
+  color: var(--ifm-color-emphasis-700);
+  padding: 0.25rem 0.625rem;
   line-height: 1;
+  transition: all 0.15s ease;
 }
 
 .closeButton:hover {
+  background: var(--ifm-color-emphasis-200);
   color: var(--ifm-color-emphasis-900);
+  border-color: var(--ifm-color-emphasis-400);
 }
 
 /* Tier Badge */
@@ -96,10 +108,11 @@
 
 /* Title */
 .title {
-  font-size: 1.25rem;
-  font-weight: 600;
-  margin: 0 0 1.5rem 0;
-  line-height: 1.4;
+  font-size: 1.375rem;
+  font-weight: 700;
+  margin: 0 0 1.75rem 0;
+  padding-right: 2rem;
+  line-height: 1.35;
   color: var(--ifm-heading-color);
 }
 
@@ -107,27 +120,28 @@
 .attributes {
   display: flex;
   flex-direction: column;
-  gap: 1rem;
-  margin-bottom: 1.5rem;
+  gap: 1.25rem;
+  margin-bottom: 2rem;
 }
 
 .attribute {
   display: flex;
   flex-direction: column;
-  gap: 0.25rem;
+  gap: 0.375rem;
 }
 
 .label {
-  font-size: 0.75rem;
-  font-weight: 600;
+  font-size: 0.6875rem;
+  font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 0.05em;
-  color: var(--ifm-color-emphasis-600);
+  letter-spacing: 0.08em;
+  color: var(--ifm-color-primary);
 }
 
 .value {
   font-size: 0.9375rem;
   color: var(--ifm-font-color-base);
+  line-height: 1.5;
 }
 
 /* Actions */
