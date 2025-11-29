@@ -25,6 +25,8 @@ This knowledge base exists to help caretakers of adults with cerebral palsy rece
 
 ### Entry Point
 - [docs/intro.md](docs/intro.md) - Overview with hierarchical drill-down
+- [docs/symptom-guide.md](docs/symptom-guide.md) - Find pages by symptom
+- [docs/glossary.md](docs/glossary.md) - Medical term definitions
 
 ### Classification
 - [docs/classification/index.md](docs/classification/index.md) - Overview: GMFCS, MACS, CFCS
@@ -42,15 +44,23 @@ This knowledge base exists to help caretakers of adults with cerebral palsy rece
 - [docs/co-occurring/index.md](docs/co-occurring/index.md) - Overview: conditions that co-occur
 - [docs/co-occurring/autism-cp.md](docs/co-occurring/autism-cp.md) - Autism (6-9%, 5x general population)
 - [docs/co-occurring/neurological-vs-neurodevelopmental.md](docs/co-occurring/neurological-vs-neurodevelopmental.md) - Classification differences
+- [docs/co-occurring/secondary-conditions.md](docs/co-occurring/secondary-conditions.md) - Epilepsy, scoliosis, and other conditions
 
 ### Management
 - [docs/management/index.md](docs/management/index.md) - Overview: coordination and treatment
 - [docs/management/physiatrist-role.md](docs/management/physiatrist-role.md) - Physiatrist as coordinator
+- [docs/management/pain.md](docs/management/pain.md) - Pain management (70% prevalence)
+- [docs/management/spasticity.md](docs/management/spasticity.md) - Spasticity treatment options
+- [docs/management/equipment.md](docs/management/equipment.md) - Wheelchairs, orthotics, AAC
 - [docs/management/gait-patterns.md](docs/management/gait-patterns.md) - Gait patterns
 
 ### Adults
 - [docs/adults/index.md](docs/adults/index.md) - Overview: adult-specific issues
 - [docs/adults/late-diagnosis.md](docs/adults/late-diagnosis.md) - Late diagnosis
+- [docs/adults/mental-health.md](docs/adults/mental-health.md) - Depression and anxiety (2x rates)
+- [docs/adults/finding-services.md](docs/adults/finding-services.md) - Building a care team
+- [docs/adults/transition.md](docs/adults/transition.md) - Pediatric to adult care
+- [docs/adults/caregiver.md](docs/adults/caregiver.md) - Caregiver support and burnout
 
 ## Critical Rules
 

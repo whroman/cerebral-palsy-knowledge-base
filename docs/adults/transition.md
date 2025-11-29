@@ -143,3 +143,12 @@ If this is you:
 - Meet adult providers before fully leaving pediatric care
 - Family involvement and self-advocacy improve outcomes
 - If you never transitioned properly, it's not too late to establish adult care
+
+---
+
+## Related Pages
+
+- **[Finding Adult Services](./finding-services.md)** - How to find and evaluate adult providers
+- **[Late Diagnosis](./late-diagnosis.md)** - Adults who missed proper transition
+- **[Physiatrist Role](../management/physiatrist-role.md)** - Physiatrists as adult care coordinators
+- **[Caregiver Resources](./caregiver.md)** - Support for families during transition

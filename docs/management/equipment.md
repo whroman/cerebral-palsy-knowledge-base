@@ -153,3 +153,12 @@ Equipment needs change with age:
 - Needs change with aging—plan for reassessment
 - Good equipment improves independence and quality of life
 - Poor fit or wrong equipment can cause harm
+
+---
+
+## Related Pages
+
+- **[Gait Patterns](./gait-patterns.md)** - AFOs and equipment for walking
+- **[Spasticity Management](./spasticity.md)** - Orthotics help manage spasticity
+- **[Pain Management](./pain.md)** - Proper equipment reduces pain
+- **[Finding Adult Services](../adults/finding-services.md)** - Finding specialists for equipment

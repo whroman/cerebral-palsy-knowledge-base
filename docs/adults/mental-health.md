@@ -114,3 +114,12 @@ Antidepressants and anti-anxiety medications can be effective but require:
 - Mental health symptoms may be mistaken for behavioral issues or attributed to cerebral palsy
 - Screening should be routine, not just when problems are obvious
 - Treatment is effective but may need adaptation for communication and access needs
+
+---
+
+## Related Pages
+
+- **[Pain Management](../management/pain.md)** - Pain is a major contributor to depression
+- **[Caregiver Resources](./caregiver.md)** - Caregiver mental health affects the whole family
+- **[Finding Adult Services](./finding-services.md)** - How to find mental health providers
+- **[Secondary Conditions](../co-occurring/secondary-conditions.md)** - Depression as a secondary condition

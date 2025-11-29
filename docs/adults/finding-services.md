@@ -130,3 +130,11 @@ Be cautious of providers who:
 - Ask directly about provider experience with adult cerebral palsy
 - Be prepared to coordinate your own care if no specialized clinic exists
 - Multidisciplinary access is essential—avoid fragmented care
+
+---
+
+## Related Pages
+
+- **[Transition to Adult Care](./transition.md)** - Moving from pediatric to adult services
+- **[Physiatrist Role](../management/physiatrist-role.md)** - Why physiatrists are key coordinators
+- **[Late Diagnosis](./late-diagnosis.md)** - Adults diagnosed later in life

@@ -30,19 +30,19 @@ How adults with cerebral palsy should be evaluated. Many adults were never compr
 → NICE guidelines · Cognitive evaluation · Functional independence measures
 
 ### [Co-occurring Conditions](./co-occurring/)
-Conditions that frequently appear alongside cerebral palsy. Autism occurs in 6-9% of people with cerebral palsy (5x the general population). Understanding co-occurrence prevents misdiagnosis and ensures complete care.
+Conditions that frequently appear alongside cerebral palsy. Autism occurs in 6-9% of people with cerebral palsy (5x the general population). Nearly half have scoliosis and over a quarter have epilepsy. Understanding co-occurrence prevents misdiagnosis and ensures complete care.
 
-→ Autism co-occurrence · Neurological vs neurodevelopmental classification
+→ Autism co-occurrence · Secondary conditions · Classification differences
 
 ### [Management](./management/)
-Treatment approaches and specialist roles. Physiatrists serve as comprehensive care coordinators for adults with cerebral palsy. Understanding who does what prevents fragmented care.
+Treatment approaches and specialist roles. Physiatrists serve as comprehensive care coordinators for adults with cerebral palsy. Pain affects 70% of adults and requires active management. Spasticity treatment ranges from oral medications to surgical options.
 
-→ Physiatrist role · Gait patterns and treatment
+→ Physiatrist role · Pain management · Spasticity · Equipment · Gait patterns
 
 ### [Adults](./adults/)
-Issues specific to adults with cerebral palsy, including late diagnosis and aging. Many adults were diagnosed in childhood but never received adult-appropriate assessment or services.
+Issues specific to adults with cerebral palsy, including late diagnosis, mental health, and aging. Depression and anxiety occur at twice the rate of the general population. Many adults were diagnosed in childhood but never received adult-appropriate assessment or services.
 
-→ Late diagnosis · Finding adult services
+→ Late diagnosis · Mental health · Finding services · Transition · Caregiver support
 
 ---
 
@@ -52,8 +52,10 @@ Issues specific to adults with cerebral palsy, including late diagnosis and agin
 |-----------|--------|
 | 17 million people globally have cerebral palsy | <Cite slug="doi-10-1080-17518423-2024-2347991" /> |
 | 70% of adults experience chronic pain | <Cite slug="pubmed-32061920" /> |
-| 6-9% also have autism (vs 1-2% general population) | <Cite slug="pmc-11015243" /> |
-| 5-fold increased odds of autism | <Cite slug="pmc-11015243" /> |
+| 46% have scoliosis | <Cite slug="pubmed-36807150" /> |
+| 28% have epilepsy | <Cite slug="pubmed-36807150" /> |
+| 21% have depression or anxiety (2x general population) | <Cite slug="pubmed-31382276" /> |
+| 6-9% also have autism (5x general population) | <Cite slug="pmc-11015243" /> |
 
 ---
 
@@ -64,5 +66,7 @@ Issues specific to adults with cerebral palsy, including late diagnosis and agin
 | **Physiatrist** | Comprehensive assessment coordinator |
 | **Neurologist** | Medication, seizure management |
 | **Neuropsychologist** | Cognitive and autism assessment |
+| **Orthotist** | Custom braces and orthotics |
 | **PT/OT/SLP** | Therapy services |
+| **Care coordinator** | Navigate services, transitions |
 

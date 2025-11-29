@@ -94,3 +94,11 @@ Recommended approach:
 - Nonpharmacologic approaches are preferred first-line treatment
 - Routine screening is essential—pain is often underrecognized
 - Untreated pain leads to depression, reduced function, and social isolation
+
+---
+
+## Related Pages
+
+- **[Spasticity Management](./spasticity.md)** - Reducing spasticity often reduces pain
+- **[Mental Health](../adults/mental-health.md)** - Pain strongly correlates with depression
+- **[Equipment & Devices](./equipment.md)** - Proper positioning reduces pain

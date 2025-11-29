@@ -182,3 +182,12 @@ Options to explore:
 - Physical self-care prevents injury
 - Financial resources exist—explore all options
 - Knowing your limits protects everyone
+
+---
+
+## Related Pages
+
+- **[Mental Health](./mental-health.md)** - Mental health support for the whole family
+- **[Finding Adult Services](./finding-services.md)** - Building a care team to share the load
+- **[Equipment & Devices](../management/equipment.md)** - Equipment that reduces caregiver strain
+- **[Transition to Adult Care](./transition.md)** - Planning for the future

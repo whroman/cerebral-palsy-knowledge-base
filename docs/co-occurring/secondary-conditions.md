@@ -188,3 +188,12 @@ Given elevated risks, adults with cerebral palsy should receive regular screenin
 - Proactive screening can catch problems early
 - Many secondary conditions are preventable or treatable
 - A coordinated care team is essential for monitoring multiple systems
+
+---
+
+## Related Pages
+
+- **[Mental Health](../adults/mental-health.md)** - Depression and anxiety as secondary conditions
+- **[Pain Management](../management/pain.md)** - Pain from musculoskeletal conditions
+- **[Assessment Overview](../assessment/overview.md)** - NICE guidelines for comprehensive assessment
+- **[Autism and Cerebral Palsy](./autism-cp.md)** - Common neurodevelopmental co-occurrence

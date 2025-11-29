@@ -115,3 +115,12 @@ For severe cases or established deformities:
 - Intrathecal baclofen provides significant reduction for severe cases but requires surgical implantation
 - A physiatrist should coordinate spasticity management as part of overall care
 - Regular reassessment needed—spasticity patterns change with aging
+
+---
+
+## Related Pages
+
+- **[Pain Management](./pain.md)** - Spasticity is a major cause of chronic pain
+- **[Equipment & Devices](./equipment.md)** - Orthotics help manage spasticity effects
+- **[Gait Patterns](./gait-patterns.md)** - Spasticity affects walking patterns
+- **[Physiatrist Role](./physiatrist-role.md)** - Physiatrists coordinate spasticity care
