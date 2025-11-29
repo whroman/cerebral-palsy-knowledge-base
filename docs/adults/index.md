@@ -52,3 +52,7 @@ Adults with cerebral palsy experience aging-related changes earlier:
 ## Detailed Pages
 
 - **[Late Diagnosis](./late-diagnosis.md)** - Adults diagnosed later in life or never properly assessed
+- **[Mental Health](./mental-health.md)** - Depression, anxiety, and psychological support
+- **[Finding Adult Services](./finding-services.md)** - How to find providers and build a care team
+- **[Transition to Adult Care](./transition.md)** - Moving from pediatric to adult healthcare
+- **[Caregiver Resources](./caregiver.md)** - Support for those providing care

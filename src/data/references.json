@@ -209,6 +209,135 @@
     "nice": null,
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/38702978/"
   },
+  "pubmed-38678195": {
+    "id": "masrour-2024",
+    "slug": "pubmed-38678195",
+    "title": "Intrathecal baclofen efficacy for cerebral palsy",
+    "year": 2024,
+    "type": "meta-analysis",
+    "typeLabel": "Meta-analysis",
+    "typeEmoji": "📈",
+    "tier": "top",
+    "journal": "BMC Neurology",
+    "authors": [
+      "Masrour M",
+      "Zare A",
+      "Presedo A",
+      "Nabian MH"
+    ],
+    "authorShort": "Masrour",
+    "tags": [
+      "spasticity",
+      "intrathecal-baclofen",
+      "treatment",
+      "motor-function"
+    ],
+    "pubmed": 38678195,
+    "pmcid": null,
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/38678195/"
+  },
+  "pubmed-37993325": {
+    "id": "sarmiento-2024",
+    "slug": "pubmed-37993325",
+    "title": "Adults with cerebral palsy and chronic pain experience",
+    "year": 2024,
+    "type": "cross-sectional-study",
+    "typeLabel": "cross-sectional-study",
+    "typeEmoji": "📄",
+    "tier": "unknown",
+    "journal": "Disability and Health Journal",
+    "authors": [
+      "Sarmiento CA",
+      "Gannotti ME",
+      "Gross PH",
+      "Thorpe DE",
+      "Hurvitz EA",
+      "Noritz GH",
+      "Horn SD",
+      "Msall ME",
+      "Chambers HG",
+      "Krach LE"
+    ],
+    "authorShort": "Sarmiento",
+    "tags": [
+      "pain",
+      "adults",
+      "registry",
+      "quality-of-life"
+    ],
+    "pubmed": 37993325,
+    "pmcid": null,
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/37993325/"
+  },
+  "pubmed-37552305": {
+    "id": "mitchell-2023",
+    "slug": "pubmed-37552305",
+    "title": "Gaps in transitional care for cerebral palsy",
+    "year": 2023,
+    "type": "systematic-review",
+    "typeLabel": "Systematic Review",
+    "typeEmoji": "📊",
+    "tier": "top",
+    "journal": "Child's Nervous System",
+    "authors": [
+      "Mitchell DL",
+      "Shlobin NA",
+      "Winterhalter E",
+      "Lam SK",
+      "Raskin JS"
+    ],
+    "authorShort": "Mitchell",
+    "tags": [
+      "transition",
+      "adults",
+      "healthcare",
+      "systematic-review"
+    ],
+    "pubmed": 37552305,
+    "pmcid": null,
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/37552305/"
+  },
+  "pubmed-36807150": {
+    "id": "ryan-2023",
+    "slug": "pubmed-36807150",
+    "title": "Prevalence of chronic conditions in adults with cerebral palsy",
+    "year": 2023,
+    "type": "systematic-review",
+    "typeLabel": "Systematic Review",
+    "typeEmoji": "📊",
+    "tier": "top",
+    "journal": "Developmental Medicine & Child Neurology",
+    "authors": [
+      "Ryan JM",
+      "Albairami F",
+      "Hamilton T",
+      "Cope N",
+      "Amirmudin NA",
+      "Manikandan M",
+      "Kilbride C",
+      "Stevenson VL",
+      "Livingstone E",
+      "Fortune J"
+    ],
+    "authorShort": "Ryan",
+    "tags": [
+      "adults",
+      "prevalence",
+      "chronic-conditions",
+      "secondary-conditions"
+    ],
+    "pubmed": 36807150,
+    "pmcid": null,
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/36807150/"
+  },
   "pubmed-34705276": {
     "id": "manikandan-2022",
     "slug": "pubmed-34705276",
@@ -344,6 +473,38 @@
     "doi": null,
     "nice": null,
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/31842091/"
+  },
+  "pubmed-31382276": {
+    "id": "whitney-2019",
+    "slug": "pubmed-31382276",
+    "title": "Prevalence of Mental Health Disorders in Adults with Cerebral Palsy",
+    "year": 2019,
+    "type": "cross-sectional-study",
+    "typeLabel": "cross-sectional-study",
+    "typeEmoji": "📄",
+    "tier": "unknown",
+    "journal": "Annals of Internal Medicine",
+    "authors": [
+      "Whitney DG",
+      "Warschausky SA",
+      "Ng S",
+      "Hurvitz EA",
+      "Kamdar NS",
+      "Peterson MD"
+    ],
+    "authorShort": "Whitney",
+    "tags": [
+      "mental-health",
+      "prevalence",
+      "adults",
+      "depression",
+      "anxiety"
+    ],
+    "pubmed": 31382276,
+    "pmcid": null,
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/31382276/"
   },
   "pubmed-28715518": {
     "id": "novak-2017",
@@ -731,6 +892,42 @@
     "nice": null,
     "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8492925/"
   },
+  "pmc-7901132": {
+    "id": "peck-2020",
+    "slug": "pmc-7901132",
+    "title": "Oral Muscle Relaxants for Chronic Pain in Cerebral Palsy",
+    "year": 2020,
+    "type": "review",
+    "typeLabel": "review",
+    "typeEmoji": "📄",
+    "tier": "unknown",
+    "journal": "Psychopharmacology Bulletin",
+    "authors": [
+      "Peck J",
+      "Urits I",
+      "Crane J",
+      "McNally A",
+      "Noor N",
+      "Patel M",
+      "Berger AA",
+      "Cornett EM",
+      "Kassem H",
+      "Kaye AD",
+      "Viswanath O"
+    ],
+    "authorShort": "Peck",
+    "tags": [
+      "pain",
+      "spasticity",
+      "medications",
+      "muscle-relaxants"
+    ],
+    "pubmed": null,
+    "pmcid": "PMC7901132",
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7901132/"
+  },
   "pmc-7756828": {
     "id": "pmc-7756828",
     "slug": "pmc-7756828",
@@ -905,6 +1102,38 @@
     "nice": null,
     "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6458004/"
   },
+  "pmc-6439715": {
+    "id": "smith-2019",
+    "slug": "pmc-6439715",
+    "title": "Risk of Depression and Anxiety in Adults With Cerebral Palsy",
+    "year": 2019,
+    "type": "cohort-study",
+    "typeLabel": "Cohort Study",
+    "typeEmoji": "👥",
+    "tier": "mid",
+    "journal": "JAMA Neurology",
+    "authors": [
+      "Smith KJ",
+      "Peterson MD",
+      "O'Connell NE",
+      "Victor C",
+      "Liverani S",
+      "Anokye N",
+      "Ryan JM"
+    ],
+    "authorShort": "Smith",
+    "tags": [
+      "mental-health",
+      "depression",
+      "anxiety",
+      "adults"
+    ],
+    "pubmed": null,
+    "pmcid": "PMC6439715",
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6439715/"
+  },
   "pmc-5439469": {
     "id": "pmc-5439469",
     "slug": "pmc-5439469",
@@ -1024,6 +1253,34 @@
     "nice": null,
     "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11015243/"
   },
+  "pmc-10733710": {
+    "id": "guru-2023",
+    "slug": "pmc-10733710",
+    "title": "Rehabilitation Interventions and Adaptive Technologies for Cerebral Palsy",
+    "year": 2023,
+    "type": "review",
+    "typeLabel": "review",
+    "typeEmoji": "📄",
+    "tier": "unknown",
+    "journal": "Cureus",
+    "authors": [
+      "Guru A",
+      "Yadav AS",
+      "Sontakke T"
+    ],
+    "authorShort": "Guru",
+    "tags": [
+      "rehabilitation",
+      "assistive-technology",
+      "orthotics",
+      "treatment"
+    ],
+    "pubmed": null,
+    "pmcid": "PMC10733710",
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10733710/"
+  },
   "pmc-10685081": {
     "id": "javvaji-2023",
     "slug": "pmc-10685081",
@@ -1083,6 +1340,59 @@
     "doi": null,
     "nice": null,
     "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10411432/"
+  },
+  "pmc-10116133": {
+    "id": "srinivasan-2023",
+    "slug": "pmc-10116133",
+    "title": "Benefit of enteral baclofen in cerebral palsy",
+    "year": 2023,
+    "type": "review",
+    "typeLabel": "review",
+    "typeEmoji": "📄",
+    "tier": "unknown",
+    "journal": "Journal of Pediatric Rehabilitation Medicine",
+    "authors": [
+      "Srinivasan R"
+    ],
+    "authorShort": "Srinivasan",
+    "tags": [
+      "spasticity",
+      "baclofen",
+      "treatment"
+    ],
+    "pubmed": null,
+    "pmcid": "PMC10116133",
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10116133/"
+  },
+  "pmc-10083783": {
+    "id": "liu-2023",
+    "slug": "pmc-10083783",
+    "title": "Factors associated with caregiver burden in cerebral palsy",
+    "year": 2023,
+    "type": "systematic-review",
+    "typeLabel": "Systematic Review",
+    "typeEmoji": "📊",
+    "tier": "top",
+    "journal": "BMJ Open",
+    "authors": [
+      "Liu F",
+      "Shen Q",
+      "Huang M",
+      "Zhou H"
+    ],
+    "authorShort": "Liu",
+    "tags": [
+      "caregiver",
+      "burden",
+      "systematic-review"
+    ],
+    "pubmed": null,
+    "pmcid": "PMC10083783",
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10083783/"
   },
   "nice-ng119": {
     "id": "nice-2019",

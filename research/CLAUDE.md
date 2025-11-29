@@ -12,7 +12,7 @@ This directory contains Zettelkasten-style research notes. Each note represents 
 
 See [CLAUDE.md](../CLAUDE.md) for the research note format specification.
 
-## Sources (46 total)
+## Sources (56 total)
 
 ### Classification Systems
 - [canchild-gmfcs](canchild-gmfcs.md) - GMFCS-E&R Official Resource (CanChild, 2007)
@@ -58,7 +58,29 @@ See [CLAUDE.md](../CLAUDE.md) for the research note format specification.
 - [capmh-2022-00462](capmh-2022-00462.md) - NDD Comorbidity Rates (2022)
 
 ### Pain
-- [pubmed-32061920](pubmed-32061920.md) - Pain in Adults: Systematic Review and Meta-analysis (2021)
+- [pubmed-32061920](pubmed-32061920.md) - Pain in Adults: Systematic Review and Meta-analysis (2020)
+- [pubmed-37993325](pubmed-37993325.md) - Adults with Chronic Pain: Registry Analysis (2024)
+
+### Mental Health
+- [pmc-6439715](pmc-6439715.md) - Risk of Depression and Anxiety (JAMA Neurology, 2019)
+- [pubmed-31382276](pubmed-31382276.md) - Mental Health Disorders Prevalence (2019)
+
+### Spasticity Treatment
+- [pubmed-38678195](pubmed-38678195.md) - Intrathecal Baclofen Efficacy: Meta-analysis (2024)
+- [pmc-7901132](pmc-7901132.md) - Oral Muscle Relaxants for Pain (2020)
+- [pmc-10116133](pmc-10116133.md) - Enteral Baclofen Benefits (2023)
+
+### Secondary Conditions
+- [pubmed-36807150](pubmed-36807150.md) - Chronic Conditions Prevalence: Systematic Review (2023)
+
+### Equipment & Rehabilitation
+- [pmc-10733710](pmc-10733710.md) - Rehabilitation Interventions and Adaptive Technologies (2023)
+
+### Healthcare Transition
+- [pubmed-37552305](pubmed-37552305.md) - Gaps in Transitional Care: Systematic Review (2023)
+
+### Caregiver Burden
+- [pmc-10083783](pmc-10083783.md) - Caregiver Burden Factors: Systematic Review (2023)
 
 ### Management & Gait
 - [pmc-9871496](pmc-9871496.md) - Gait Training Interventions: Network Meta-analysis (2023)

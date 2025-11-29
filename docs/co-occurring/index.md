@@ -55,3 +55,4 @@ This matters because different specialists diagnose and treat each condition.
 
 - **[Autism and Cerebral Palsy](./autism-cp.md)** - Prevalence, screening, assessment challenges
 - **[Classification Differences](./neurological-vs-neurodevelopmental.md)** - Why cerebral palsy and autism are categorized differently
+- **[Secondary Conditions](./secondary-conditions.md)** - Epilepsy, scoliosis, and other common conditions

@@ -55,4 +55,7 @@ Physiatrists (Physical Medicine and Rehabilitation physicians) are trained to:
 ## Detailed Pages
 
 - **[Physiatrists as Coordinators](./physiatrist-role.md)** - Why physiatrists are central to adult cerebral palsy care
+- **[Pain Management](./pain.md)** - Chronic pain affects 70% of adults with cerebral palsy
+- **[Spasticity Management](./spasticity.md)** - Medications, injections, and surgical options for tone management
+- **[Equipment & Assistive Devices](./equipment.md)** - Wheelchairs, orthotics, and daily living aids
 - **[Gait Patterns and Treatment](./gait-patterns.md)** - Understanding and treating walking differences
