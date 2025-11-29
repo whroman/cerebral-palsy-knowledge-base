@@ -3,6 +3,8 @@ sidebar_position: 2
 title: Gait Patterns and Treatment
 ---
 
+import Cite from '@site/src/components/Cite';
+
 # Gait Patterns and Treatment in Cerebral Palsy
 
 ## Common Gait Patterns in Cerebral Palsy
@@ -31,7 +33,7 @@ Accurate differentiation between cerebral palsy and idiopathic toe walking requi
 
 ### Gait Training Effectiveness
 
-A systematic review and meta-analysis found that **"gait training was effective in increasing gait speed, with a standardized effect size of 0.92."** [^4]
+A systematic review and meta-analysis found that **"gait training was effective in increasing gait speed, with a standardized effect size of 0.92."** <Cite slug="pubmed-27491082" />
 
 Key findings:
 - Training without body-weight support showed larger effect sizes (1.32–3.20)
@@ -42,17 +44,17 @@ Key findings:
 
 **"Daily intensive gait training may influence the elastic properties of ankle joint muscles and facilitate toe lift and heel strike in children with cerebral palsy, and may be beneficial in preventing contractures and maintaining gait ability"** [^2]
 
-A network meta-analysis of 20 RCTs (516 patients) found partial body weight-supported treadmill training (BWSTT) to be most effective for improving gait velocity, with a SUCRA ranking of 91.7%. [^5]
+A network meta-analysis of 20 RCTs (516 patients) found partial body weight-supported treadmill training (BWSTT) to be most effective for improving gait velocity, with a SUCRA ranking of 91.7%. <Cite slug="pmc-9871496" />
 
-> "BWSTT can reduce some of the patient's weight during gait training, reduce the load the patient has to overcome and ensure safety" [^5]
+> "BWSTT can reduce some of the patient's weight during gait training, reduce the load the patient has to overcome and ensure safety" <Cite slug="pmc-9871496" />
 
 ### Robot-Assisted Gait Training
 
-For gross motor function, robot-assisted gait training (RAGT) proved superior, particularly for walking-related measures (GMFM dimension E: 86.1% SUCRA ranking). [^5]
+For gross motor function, robot-assisted gait training (RAGT) proved superior, particularly for walking-related measures (GMFM dimension E: 86.1% SUCRA ranking). <Cite slug="pmc-9871496" />
 
 ### Resistance Training Limitations
 
-Despite muscle weakness correlating with reduced walking speed, **"resistance training was shown to have a negligible effect"** with an effect size of only 0.06. Even properly-dosed strength training failed to produce clinically meaningful gait improvements. [^4]
+Despite muscle weakness correlating with reduced walking speed, **"resistance training was shown to have a negligible effect"** with an effect size of only 0.06. Even properly-dosed strength training failed to produce clinically meaningful gait improvements. <Cite slug="pubmed-27491082" />
 
 This emphasizes that task-specific training is more effective than general strengthening for improving gait.
 
@@ -74,11 +76,11 @@ Benefits of AFOs:
 
 ### Botulinum Toxin
 
-Research shows **"Three Class I trials documented significant improvement in gait pattern in children with gastrocnemius spasticity"** with botulinum toxin A established as **"an effective treatment for equinovarus deformity."** [^7]
+Research shows **"Three Class I trials documented significant improvement in gait pattern in children with gastrocnemius spasticity"** with botulinum toxin A established as **"an effective treatment for equinovarus deformity."** <Cite slug="pubmed-19142573" />
 
-Safety profile: **"Adverse events in these trials were mild and self-limited. The most common complaints were pain in the injection sites and transient weakness."** [^7]
+Safety profile: **"Adverse events in these trials were mild and self-limited. The most common complaints were pain in the injection sites and transient weakness."** <Cite slug="pubmed-19142573" />
 
-The evidence is stronger for lower limb spasticity (13 trials, 617 children) than upper limb (6 trials, 229 children). [^7]
+The evidence is stronger for lower limb spasticity (13 trials, 617 children) than upper limb (6 trials, 229 children). <Cite slug="pubmed-19142573" />
 
 ## Specific Considerations for Adults
 
@@ -92,7 +94,7 @@ Despite cerebral palsy being a childhood-onset condition, research shows:
 
 ### Task Specificity Principle
 
-**"Task specificity and sensory feedback represent critical mechanisms for intervention success"** [^4] - this principle applies across all ages.
+**"Task specificity and sensory feedback represent critical mechanisms for intervention success"** <Cite slug="pubmed-27491082" /> - this principle applies across all ages.
 
 ## Integrated Treatment Planning
 
@@ -119,7 +121,4 @@ Adults with cerebral palsy who have developed compensatory gait patterns over de
 [^1]: [Toe Walking - ScienceDirect Topics](https://www.sciencedirect.com/topics/medicine-and-dentistry/toe-walking)
 [^2]: [Gait training reduces ankle stiffness in cerebral palsy - PubMed](https://pubmed.ncbi.nlm.nih.gov/25318785/)
 [^3]: [Differentiating Between Idiopathic Toe Walking and Cerebral Palsy: A Systematic Review - PubMed](https://pubmed.ncbi.nlm.nih.gov/31842091/)
-[^4]: [Effectiveness of Rehabilitation Interventions to Improve Gait Speed in Children With Cerebral Palsy - Physical Therapy](https://pubmed.ncbi.nlm.nih.gov/27491082/)
-[^5]: [Which gait training intervention can most effectively improve gait ability in patients with cerebral palsy? - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9871496/)
 [^6]: [Interventions for idiopathic toe walking - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC6458004/)
-[^7]: [Effectiveness of botulinum toxin A for spasticity in children with cerebral palsy - PubMed](https://pubmed.ncbi.nlm.nih.gov/19142573/)

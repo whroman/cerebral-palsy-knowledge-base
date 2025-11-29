@@ -50,3 +50,24 @@ A 2022 mixed-methods systematic review examined: **"Health service use among adu
 ### Epidemiology of Adult Outcomes
 
 A 2020 systematic review found: **"On average, adults with cerebral palsy experience fatigue, a majority experience pain and are ambulant, with 40% employed and 30% living independently."** <Cite slug="pubmed-32059945" />
+
+## Multidisciplinary Assessment Approach
+
+### Team Composition
+
+**"Evaluation of a child with cerebral palsy requires a multidisciplinary approach with a team of professionals comprising of a pediatrician or pediatric neurologist, occupational therapist, a physiotherapist, child psychologist, and a social worker."** <Cite slug="pubmed-15280612" />
+
+**"Collaboration among healthcare professionals, including neurologists, orthopedic surgeons, therapists, psychologists, and educators, is essential for comprehensive cerebral palsy assessments."** <Cite slug="pmc-10685081" />
+
+### Assessment Scales
+
+A comprehensive review identified key assessment tools: <Cite slug="pmc-10685081" />
+
+- **GMFCS**: Classifies individuals into five levels based on mobility and walking independence
+- **MACS**: Evaluates hand function and manual dexterity across five levels
+- **CFCS**: Assesses communication abilities across five levels
+- **Additional tools**: PEDI, WeeFIM, Vineland Adaptive Behavior Scales, Bayley Scales
+
+### Ongoing Assessment
+
+**"Cerebral palsy is a changing disorder."** <Cite slug="pubmed-15280612" /> Assessment is an ongoing process throughout development, as limitations may emerge later in childhood or adolescence.
