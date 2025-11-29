@@ -44,9 +44,6 @@ This knowledge base exists to help caretakers of adults with cerebral palsy rece
 ### Adults
 - [docs/adults/late-diagnosis.md](docs/adults/late-diagnosis.md) - Late diagnosis and assessment in adults
 
-### References
-- [docs/references.md](docs/references.md) - Master reference list
-
 ## Critical Rules
 
 ### No Abbreviations

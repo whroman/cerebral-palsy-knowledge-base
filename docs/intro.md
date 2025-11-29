@@ -42,13 +42,6 @@ Evidence-based information hub for cerebral palsy assessment, management, and co
 **Specific considerations for adult populations**
 
 - **[Late Diagnosis](./adults/late-diagnosis.md)** - Adults diagnosed later in life or never properly assessed
-- **Finding Adult Cerebral Palsy Services** *(coming soon)* - Locating specialized adult cerebral palsy programs
-
-### 6. Research & Guidelines
-**Current evidence and clinical standards**
-
-- **Systematic Reviews 2020-2024** *(coming soon)* - Latest research on adult cerebral palsy outcomes
-- **Clinical Guidelines** *(coming soon)* - NICE, AACPDM, and international standards
 
 ---
 
@@ -78,8 +71,7 @@ Evidence-based information hub for cerebral palsy assessment, management, and co
 1. **For Initial Understanding**: Start with Classification Systems
 2. **For Adult Assessment Needs**: Review Assessment Standards and Physiatrist Role
 3. **For Co-occurring Conditions**: Check Autism-Cerebral Palsy section
-4. **For Finding Services**: See Adults with Cerebral Palsy section
-5. **For Research**: Consult Research & Guidelines
+4. **For Late Diagnosis**: See Adults with Cerebral Palsy section
 
 ---
 

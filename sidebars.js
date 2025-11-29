@@ -40,12 +40,11 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: 'Adults with CP',
+      label: 'Adults with Cerebral Palsy',
       items: [
         'adults/late-diagnosis',
       ],
     },
-    'references',
   ],
 };
 
