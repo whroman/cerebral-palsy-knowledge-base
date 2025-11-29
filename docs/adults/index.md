@@ -3,6 +3,8 @@ sidebar_position: 0
 title: Adults with Cerebral Palsy
 ---
 
+import Cite from '@site/src/components/Cite';
+
 # Adults with Cerebral Palsy
 
 Cerebral palsy was historically considered a childhood condition. Many adults with cerebral palsy face gaps in care, outdated assessments, and providers unfamiliar with adult-specific needs.
@@ -35,7 +37,7 @@ Adults with cerebral palsy experience aging-related changes earlier:
 - Reduced mobility and function
 - Need for updated equipment
 
-**"Young adults with cerebral palsy experience problems with aging that non-disabled adults experience 'much later in life'"** [^1]
+**"Young adults with cerebral palsy experience problems with aging that non-disabled adults experience 'much later in life'"** <Cite slug="pmc-7756828" />
 
 ## What to Do
 
@@ -50,7 +52,3 @@ Adults with cerebral palsy experience aging-related changes earlier:
 ## Detailed Pages
 
 - **[Late Diagnosis](./late-diagnosis.md)** - Adults diagnosed later in life or never properly assessed
-
-## References
-
-[^1]: [Assessment of adult patients with cerebral palsy - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7756828/)

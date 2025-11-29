@@ -6,13 +6,13 @@
   "properties": {
     "id": {
       "type": "string",
-      "pattern": "^[a-z]+-[0-9]{4}[a-z]?$",
-      "description": "Citation key (e.g., brunton-2020, smith-2021a)"
+      "pattern": "^[a-z][a-z0-9-]+$",
+      "description": "Citation key (e.g., brunton-2020, macs-official, pmc-12345)"
     },
     "slug": {
       "type": "string",
-      "pattern": "^(pubmed|pmc)-[0-9]+$|^nice-[a-z]+[0-9]+$",
-      "description": "URL slug matching filename (e.g., pubmed-32061920, nice-ng119)"
+      "pattern": "^[a-z][a-z0-9-]+$",
+      "description": "URL slug matching filename (e.g., pubmed-32061920, macs-official)"
     },
     "title": {
       "type": "string",
@@ -55,9 +55,15 @@
         "scoping-review",
         "rct",
         "cohort-study",
-        "registry-data"
+        "registry-data",
+        "clinical-resource",
+        "review",
+        "protocol",
+        "cross-sectional-study",
+        "validation-study",
+        "epidemiological-study"
       ],
-      "description": "Type of source (top/mid tier only - lower tier prohibited)"
+      "description": "Type of source (Tier 1 sources only)"
     },
     "journal": {
       "type": "string",

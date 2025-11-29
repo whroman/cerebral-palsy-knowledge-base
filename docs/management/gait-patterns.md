@@ -11,7 +11,7 @@ import Cite from '@site/src/components/Cite';
 
 ### Toe Walking Pattern
 
-**"Toe walking is characterized by the lack of heel strike at the initial contact phase of the gait cycle, with an absence of normal heel-to-floor contact and the absence of full foot contact with the ground during the remainder of the gait cycle. The forefoot engages in the majority of floor contact throughout the gait cycle"** [^1]
+Toe walking is characterized by the lack of heel strike at the initial contact phase of the gait cycle, with an absence of normal heel-to-floor contact. The forefoot engages in the majority of floor contact throughout the gait cycle. <Cite slug="pubmed-31842091" />
 
 ### Heel Strike Deficits
 
@@ -116,6 +116,3 @@ Adults with cerebral palsy who have developed compensatory gait patterns over de
 - Maintaining independence
 - Enhancing quality of life
 
-## References
-
-[^1]: [Toe Walking - ScienceDirect Topics](https://www.sciencedirect.com/topics/medicine-and-dentistry/toe-walking)

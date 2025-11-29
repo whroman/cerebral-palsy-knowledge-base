@@ -3,6 +3,8 @@ sidebar_position: 1
 title: Overview
 ---
 
+import Cite from '@site/src/components/Cite';
+
 # Cerebral Palsy Knowledge Base
 
 A guide for caretakers of adults with cerebral palsy navigating assessment, services, and care.
@@ -11,7 +13,7 @@ A guide for caretakers of adults with cerebral palsy navigating assessment, serv
 
 ## What is Cerebral Palsy?
 
-Cerebral palsy is a group of neurological disorders caused by brain injury or abnormal development before, during, or shortly after birth. It primarily affects movement and posture but often co-occurs with other conditions affecting cognition, communication, and behavior. Cerebral palsy is non-progressive—the original brain injury doesn't worsen—but its effects on the body can change over time, especially with aging. [^1]
+Cerebral palsy is a group of neurological disorders caused by brain injury or abnormal development before, during, or shortly after birth. It primarily affects movement and posture but often co-occurs with other conditions affecting cognition, communication, and behavior. Cerebral palsy is non-progressive—the original brain injury doesn't worsen—but its effects on the body can change over time, especially with aging. <Cite slug="doi-10-1080-17518423-2024-2347991" />
 
 ---
 
@@ -48,10 +50,10 @@ Issues specific to adults with cerebral palsy, including late diagnosis and agin
 
 | Statistic | Source |
 |-----------|--------|
-| 17 million people globally have cerebral palsy | [^1] |
-| 70% of adults experience chronic pain | [^2] |
-| 6-9% also have autism (vs 1-2% general population) | [^3] |
-| 5-fold increased odds of autism | [^3] |
+| 17 million people globally have cerebral palsy | <Cite slug="doi-10-1080-17518423-2024-2347991" /> |
+| 70% of adults experience chronic pain | <Cite slug="pubmed-32061920" /> |
+| 6-9% also have autism (vs 1-2% general population) | <Cite slug="pmc-11015243" /> |
+| 5-fold increased odds of autism | <Cite slug="pmc-11015243" /> |
 
 ---
 
@@ -64,10 +66,3 @@ Issues specific to adults with cerebral palsy, including late diagnosis and agin
 | **Neuropsychologist** | Cognitive and autism assessment |
 | **PT/OT/SLP** | Therapy services |
 
----
-
-## References
-
-[^1]: [Cognitive Functioning and Assessment in Adults with Cerebral Palsy](https://www.tandfonline.com/doi/full/10.1080/17518423.2024.2347991) (2024)
-[^2]: [Pain in adults with cerebral palsy: A systematic review](https://pubmed.ncbi.nlm.nih.gov/32061920/) (2020)
-[^3]: [Association of cerebral palsy with autism spectrum disorder - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11015243/) (2024)

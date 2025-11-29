@@ -14,7 +14,7 @@ const matter = require('gray-matter');
 
 const RESEARCH_DIR = path.join(__dirname, '..', 'research');
 
-// Allowed source types (top and mid tier only)
+// Allowed source types (Tier 1 sources)
 const ALLOWED_TYPES = [
   'systematic-review',
   'meta-analysis',
@@ -22,7 +22,13 @@ const ALLOWED_TYPES = [
   'scoping-review',
   'rct',
   'cohort-study',
-  'registry-data'
+  'registry-data',
+  'clinical-resource',
+  'review',
+  'protocol',
+  'cross-sectional-study',
+  'validation-study',
+  'epidemiological-study'
 ];
 
 // Prohibited types (will cause failure)
@@ -44,7 +50,13 @@ const TYPE_TIERS = {
   'scoping-review': 'top',
   'rct': 'mid',
   'cohort-study': 'mid',
-  'registry-data': 'mid'
+  'registry-data': 'mid',
+  'clinical-resource': 'mid',
+  'review': 'mid',
+  'protocol': 'mid',
+  'cross-sectional-study': 'mid',
+  'validation-study': 'mid',
+  'epidemiological-study': 'mid'
 };
 
 let errors = [];

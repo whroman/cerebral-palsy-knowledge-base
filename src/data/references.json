@@ -1,4 +1,214 @@
 {
+  "who-icd11-cp": {
+    "id": "who-icd11-cp",
+    "slug": "who-icd11-cp",
+    "title": "ICD-11 Classification of Cerebral Palsy",
+    "year": 2022,
+    "type": "guideline",
+    "typeLabel": "Clinical Guideline",
+    "typeEmoji": "📋",
+    "tier": "top",
+    "journal": "World Health Organization ICD-11",
+    "authors": [
+      "World Health Organization"
+    ],
+    "authorShort": "WHO",
+    "tags": [
+      "classification",
+      "icd-11",
+      "official"
+    ],
+    "pubmed": null,
+    "pmcid": null,
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://icd.who.int/browse/2025-01/mms/en#76906748"
+  },
+  "utsw-adult-cp": {
+    "id": "utsw-adult-cp",
+    "slug": "utsw-adult-cp",
+    "title": "Personalized Care for Adults with Cerebral Palsy",
+    "year": 2023,
+    "type": "clinical-resource",
+    "typeLabel": "clinical-resource",
+    "typeEmoji": "📄",
+    "tier": "unknown",
+    "journal": "UT Southwestern Medical Center",
+    "authors": [
+      "UT Southwestern Medical Center"
+    ],
+    "authorShort": "UT Southwestern",
+    "tags": [
+      "adult",
+      "physiatry",
+      "comprehensive-care"
+    ],
+    "pubmed": null,
+    "pmcid": null,
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://utswmed.org/medblog/adult-cerebral-palsy-care/"
+  },
+  "umich-adult-cp": {
+    "id": "umich-adult-cp",
+    "slug": "umich-adult-cp",
+    "title": "Adult Cerebral Palsy Care",
+    "year": 2023,
+    "type": "clinical-resource",
+    "typeLabel": "clinical-resource",
+    "typeEmoji": "📄",
+    "tier": "unknown",
+    "journal": "University of Michigan Health",
+    "authors": [
+      "University of Michigan Health"
+    ],
+    "authorShort": "UMich Health",
+    "tags": [
+      "adult",
+      "physiatry",
+      "comprehensive-care"
+    ],
+    "pubmed": null,
+    "pmcid": null,
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://www.uofmhealth.org/conditions-treatments/rehabilitation/adult-cerebral-palsy-care"
+  },
+  "ucla-cp-program": {
+    "id": "ucla-cp-program",
+    "slug": "ucla-cp-program",
+    "title": "Cerebral Palsy Program",
+    "year": 2023,
+    "type": "clinical-resource",
+    "typeLabel": "clinical-resource",
+    "typeEmoji": "📄",
+    "tier": "unknown",
+    "journal": "UCLA Health",
+    "authors": [
+      "UCLA Health"
+    ],
+    "authorShort": "UCLA Health",
+    "tags": [
+      "comprehensive-care",
+      "multidisciplinary",
+      "program"
+    ],
+    "pubmed": null,
+    "pmcid": null,
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://www.uclahealth.org/medical-services/orthopedics-and-sports-medicine/cerebral-palsy"
+  },
+  "tandfonline-17518423-2021": {
+    "id": "tandfonline-17518423-2021",
+    "slug": "tandfonline-17518423-2021",
+    "title": "Co-occurrence of Autism and Cerebral Palsy",
+    "year": 2021,
+    "type": "systematic-review",
+    "typeLabel": "Systematic Review",
+    "typeEmoji": "📊",
+    "tier": "top",
+    "journal": "Developmental Neurorehabilitation",
+    "authors": [
+      "Whitney DG",
+      "Warschausky SA",
+      "Peterson MD"
+    ],
+    "authorShort": "Whitney",
+    "tags": [
+      "autism",
+      "co-occurring",
+      "outcomes",
+      "impairments"
+    ],
+    "pubmed": null,
+    "pmcid": null,
+    "doi": "10.1080/17518423.2021.2011456",
+    "nice": null,
+    "sourceUrl": "https://doi.org/10.1080/17518423.2021.2011456"
+  },
+  "sralab-fim": {
+    "id": "sralab-fim",
+    "slug": "sralab-fim",
+    "title": "Functional Independence Measure",
+    "year": 2023,
+    "type": "clinical-resource",
+    "typeLabel": "clinical-resource",
+    "typeEmoji": "📄",
+    "tier": "unknown",
+    "journal": "Shirley Ryan AbilityLab",
+    "authors": [
+      "Shirley Ryan AbilityLab"
+    ],
+    "authorShort": "SRALAB",
+    "tags": [
+      "fim",
+      "functional-assessment",
+      "rehabilitation"
+    ],
+    "pubmed": null,
+    "pmcid": null,
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://www.sralab.org/rehabilitation-measures/functional-independence-measure"
+  },
+  "pubmed-8976303": {
+    "id": "pubmed-8976303",
+    "slug": "pubmed-8976303",
+    "title": "The Reliability of the Functional Independence Measure - A Quantitative Review",
+    "year": 1996,
+    "type": "systematic-review",
+    "typeLabel": "Systematic Review",
+    "typeEmoji": "📊",
+    "tier": "top",
+    "journal": "Archives of Physical Medicine and Rehabilitation",
+    "authors": [
+      "Hamilton BB",
+      "Laughlin JA",
+      "Fiedler RC",
+      "Granger CV"
+    ],
+    "authorShort": "Hamilton",
+    "tags": [
+      "fim",
+      "reliability",
+      "functional-assessment"
+    ],
+    "pubmed": 8976303,
+    "pmcid": null,
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/8976303/"
+  },
+  "pubmed-38702978": {
+    "id": "pubmed-38702978",
+    "slug": "pubmed-38702978",
+    "title": "Cognitive Functioning and Assessment in Adults with Cerebral Palsy - A Scoping Review",
+    "year": 2024,
+    "type": "scoping-review",
+    "typeLabel": "Scoping Review",
+    "typeEmoji": "🔍",
+    "tier": "top",
+    "journal": "Developmental Neurorehabilitation",
+    "authors": [
+      "Stadskleiv K",
+      "Jahnsen R",
+      "Andersen GL",
+      "Hollung SJ"
+    ],
+    "authorShort": "Stadskleiv",
+    "tags": [
+      "cognitive",
+      "adult",
+      "assessment",
+      "scoping-review"
+    ],
+    "pubmed": 38702978,
+    "pmcid": null,
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/38702978/"
+  },
   "pubmed-34705276": {
     "id": "manikandan-2022",
     "slug": "pubmed-34705276",
@@ -181,6 +391,49 @@
     "nice": null,
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/28715518/"
   },
+  "pubmed-28439889": {
+    "id": "pubmed-28439889",
+    "slug": "pubmed-28439889",
+    "title": "Prevalence and characteristics of autism spectrum disorders in children with cerebral palsy",
+    "year": 2017,
+    "type": "cohort-study",
+    "typeLabel": "Cohort Study",
+    "typeEmoji": "👥",
+    "tier": "mid",
+    "journal": "Developmental Medicine & Child Neurology",
+    "authors": [
+      "Christensen D",
+      "Braun KVN",
+      "Baio J",
+      "Bilder D",
+      "Charles J",
+      "Constantino JN",
+      "Daniels J",
+      "Durkin MS",
+      "Fitzgerald RT",
+      "Kurzius-Spencer M",
+      "Lee LC",
+      "Pettygrove S",
+      "Robinson C",
+      "Schulz E",
+      "Wells C",
+      "Wingate MS",
+      "Zahorodny W",
+      "Yeargin-Allsopp M"
+    ],
+    "authorShort": "Christensen",
+    "tags": [
+      "autism",
+      "prevalence",
+      "co-occurring",
+      "epidemiology"
+    ],
+    "pubmed": 28439889,
+    "pmcid": null,
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/28439889/"
+  },
   "pubmed-27491082": {
     "id": "moreau-2016",
     "slug": "pubmed-27491082",
@@ -211,6 +464,34 @@
     "nice": null,
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/27491082/"
   },
+  "pubmed-27364515": {
+    "id": "pubmed-27364515",
+    "slug": "pubmed-27364515",
+    "title": "Neurodevelopmental Disorders - DSM-5, ICD-10, and ICD-11 Definitions",
+    "year": 2016,
+    "type": "review",
+    "typeLabel": "review",
+    "typeEmoji": "📄",
+    "tier": "unknown",
+    "journal": "Child and Adolescent Psychiatry and Mental Health",
+    "authors": [
+      "Thapar A",
+      "Cooper M",
+      "Rutter M"
+    ],
+    "authorShort": "Thapar",
+    "tags": [
+      "classification",
+      "dsm-5",
+      "icd-11",
+      "neurodevelopmental"
+    ],
+    "pubmed": 27364515,
+    "pmcid": null,
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/27364515/"
+  },
   "pubmed-25318785": {
     "id": "willerslev-olsen-2014",
     "slug": "pubmed-25318785",
@@ -240,6 +521,42 @@
     "nice": null,
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/25318785/"
   },
+  "pubmed-21707596": {
+    "id": "hidecker-2011",
+    "slug": "pubmed-21707596",
+    "title": "Communication Function Classification System (CFCS) Development and Validation",
+    "year": 2011,
+    "type": "systematic-review",
+    "typeLabel": "Systematic Review",
+    "typeEmoji": "📊",
+    "tier": "top",
+    "journal": "Developmental Medicine & Child Neurology",
+    "authors": [
+      "Hidecker MJ",
+      "Paneth N",
+      "Rosenbaum PL",
+      "Kent RD",
+      "Lillie J",
+      "Eulenberg JB",
+      "Chester K Jr",
+      "Johnson B",
+      "Michalsen L",
+      "Evatt M",
+      "Taylor K"
+    ],
+    "authorShort": "Hidecker",
+    "tags": [
+      "classification",
+      "cfcs",
+      "communication",
+      "validation"
+    ],
+    "pubmed": 21707596,
+    "pmcid": null,
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/21707596/"
+  },
   "pubmed-19142573": {
     "id": "lukban-2009",
     "slug": "pubmed-19142573",
@@ -267,6 +584,38 @@
     "nice": null,
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/19142573/"
   },
+  "pubmed-16780622": {
+    "id": "eliasson-2006",
+    "slug": "pubmed-16780622",
+    "title": "Manual Ability Classification System (MACS) Development and Validation",
+    "year": 2006,
+    "type": "systematic-review",
+    "typeLabel": "Systematic Review",
+    "typeEmoji": "📊",
+    "tier": "top",
+    "journal": "Developmental Medicine & Child Neurology",
+    "authors": [
+      "Eliasson AC",
+      "Krumlinde-Sundholm L",
+      "Rosblad B",
+      "Beckung E",
+      "Arner M",
+      "Ohrvall AM",
+      "Rosenbaum P"
+    ],
+    "authorShort": "Eliasson",
+    "tags": [
+      "classification",
+      "macs",
+      "hand-function",
+      "validation"
+    ],
+    "pubmed": 16780622,
+    "pmcid": null,
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/16780622/"
+  },
   "pubmed-15280612": {
     "id": "aneja-2004",
     "slug": "pubmed-15280612",
@@ -291,6 +640,35 @@
     "doi": null,
     "nice": null,
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/15280612/"
+  },
+  "pmc-9881114": {
+    "id": "pmc-9881114",
+    "slug": "pmc-9881114",
+    "title": "Innovations of ICD-11 in Autism Spectrum Disorder",
+    "year": 2023,
+    "type": "review",
+    "typeLabel": "review",
+    "typeEmoji": "📄",
+    "tier": "unknown",
+    "journal": "Frontiers in Psychiatry",
+    "authors": [
+      "Fusar-Poli L",
+      "Brondino N",
+      "Politi P",
+      "Aguglia E"
+    ],
+    "authorShort": "Fusar-Poli",
+    "tags": [
+      "icd-11",
+      "autism",
+      "classification",
+      "diagnosis"
+    ],
+    "pubmed": null,
+    "pmcid": "PMC9881114",
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9881114/"
   },
   "pmc-9871496": {
     "id": "qian-2023",
@@ -324,6 +702,120 @@
     "nice": null,
     "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9871496/"
   },
+  "pmc-8492925": {
+    "id": "pmc-8492925",
+    "slug": "pmc-8492925",
+    "title": "Systematic Monitoring of Cognition for Adults With Cerebral Palsy - CPCog-Adult Protocol",
+    "year": 2021,
+    "type": "protocol",
+    "typeLabel": "protocol",
+    "typeEmoji": "📄",
+    "tier": "unknown",
+    "journal": "Frontiers in Neurology",
+    "authors": [
+      "Stadskleiv K",
+      "Jahnsen R",
+      "Andersen GL",
+      "Hollung SJ"
+    ],
+    "authorShort": "Stadskleiv",
+    "tags": [
+      "cognitive",
+      "monitoring",
+      "adult",
+      "protocol"
+    ],
+    "pubmed": null,
+    "pmcid": "PMC8492925",
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8492925/"
+  },
+  "pmc-7756828": {
+    "id": "pmc-7756828",
+    "slug": "pmc-7756828",
+    "title": "Assessment of Adult Patients with Cerebral Palsy",
+    "year": 2020,
+    "type": "cross-sectional-study",
+    "typeLabel": "cross-sectional-study",
+    "typeEmoji": "📄",
+    "tier": "unknown",
+    "journal": "Turkish Journal of Physical Medicine and Rehabilitation",
+    "authors": [
+      "Keles MN",
+      "Ordu-Gokkaya NK",
+      "Kok H",
+      "Ozalp O",
+      "Ozisler Z"
+    ],
+    "authorShort": "Keles",
+    "tags": [
+      "adult",
+      "assessment",
+      "mental-state"
+    ],
+    "pubmed": null,
+    "pmcid": "PMC7756828",
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7756828/"
+  },
+  "pmc-7595991": {
+    "id": "pmc-7595991",
+    "slug": "pmc-7595991",
+    "title": "Autism spectrum disorder and attention deficit hyperactivity disorder screening in children with cerebral palsy",
+    "year": 2020,
+    "type": "cross-sectional-study",
+    "typeLabel": "cross-sectional-study",
+    "typeEmoji": "📄",
+    "tier": "unknown",
+    "journal": "Developmental Medicine & Child Neurology",
+    "authors": [
+      "Bjorgaas HM",
+      "Hysing M",
+      "Elgen I"
+    ],
+    "authorShort": "Bjorgaas",
+    "tags": [
+      "autism",
+      "adhd",
+      "screening",
+      "co-occurring"
+    ],
+    "pubmed": null,
+    "pmcid": "PMC7595991",
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7595991/"
+  },
+  "pmc-7297454": {
+    "id": "pmc-7297454",
+    "slug": "pmc-7297454",
+    "title": "Cerebral Palsy - Current Opinions on Definition, Epidemiology, Classification",
+    "year": 2020,
+    "type": "review",
+    "typeLabel": "review",
+    "typeEmoji": "📄",
+    "tier": "unknown",
+    "journal": "Journal of Clinical Medicine",
+    "authors": [
+      "Sadowska M",
+      "Sarecka-Hujar B",
+      "Kopyta I"
+    ],
+    "authorShort": "Sadowska",
+    "tags": [
+      "definition",
+      "classification",
+      "epidemiology",
+      "motor-disorders"
+    ],
+    "pubmed": null,
+    "pmcid": "PMC7297454",
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7297454/"
+  },
   "pmc-6832653": {
     "id": "tevelde-2019",
     "slug": "pmc-6832653",
@@ -353,6 +845,34 @@
     "doi": null,
     "nice": null,
     "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6832653/"
+  },
+  "pmc-6482427": {
+    "id": "pmc-6482427",
+    "slug": "pmc-6482427",
+    "title": "Interview Functional Independence Measure Score - Self-Reporting as Alternative",
+    "year": 2019,
+    "type": "validation-study",
+    "typeLabel": "validation-study",
+    "typeEmoji": "📄",
+    "tier": "unknown",
+    "journal": "Journal of Rehabilitation Medicine",
+    "authors": [
+      "Akpinar P",
+      "Tezel CG",
+      "Elbeyli S",
+      "Kavuncu V"
+    ],
+    "authorShort": "Akpinar",
+    "tags": [
+      "fim",
+      "self-report",
+      "validation"
+    ],
+    "pubmed": null,
+    "pmcid": "PMC6482427",
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6482427/"
   },
   "pmc-6458004": {
     "id": "caserta-2019",
@@ -385,6 +905,125 @@
     "nice": null,
     "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6458004/"
   },
+  "pmc-5439469": {
+    "id": "pmc-5439469",
+    "slug": "pmc-5439469",
+    "title": "Intelligence, Functioning, and Related Factors in Children with Cerebral Palsy",
+    "year": 2017,
+    "type": "cross-sectional-study",
+    "typeLabel": "cross-sectional-study",
+    "typeEmoji": "📄",
+    "tier": "unknown",
+    "journal": "Neuropediatrics",
+    "authors": [
+      "Ozkan M",
+      "Karakoc A",
+      "Karaoglu P",
+      "Atas A",
+      "Kirazli T"
+    ],
+    "authorShort": "Ozkan",
+    "tags": [
+      "cognitive",
+      "intelligence",
+      "functioning"
+    ],
+    "pubmed": null,
+    "pmcid": "PMC5439469",
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5439469/"
+  },
+  "pmc-4351771": {
+    "id": "pmc-4351771",
+    "slug": "pmc-4351771",
+    "title": "Prevalence of cerebral palsy, co-occurring autism spectrum disorders",
+    "year": 2014,
+    "type": "epidemiological-study",
+    "typeLabel": "epidemiological-study",
+    "typeEmoji": "📄",
+    "tier": "unknown",
+    "journal": "Developmental Medicine & Child Neurology",
+    "authors": [
+      "Christensen D",
+      "Van Naarden Braun K",
+      "Doernberg NS",
+      "Maenner MJ",
+      "Arneson CL",
+      "Durkin MS",
+      "Benedict RE",
+      "Kirby RS",
+      "Wingate MS",
+      "Fitzgerald R",
+      "Yeargin-Allsopp M"
+    ],
+    "authorShort": "Christensen",
+    "tags": [
+      "prevalence",
+      "co-occurring",
+      "autism",
+      "epidemiology"
+    ],
+    "pubmed": null,
+    "pmcid": "PMC4351771",
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4351771/"
+  },
+  "pmc-12470702": {
+    "id": "pmc-12470702",
+    "slug": "pmc-12470702",
+    "title": "The Role of Cognitive Functioning in the ICF Framework - A Systematic Review",
+    "year": 2024,
+    "type": "systematic-review",
+    "typeLabel": "Systematic Review",
+    "typeEmoji": "📊",
+    "tier": "top",
+    "journal": "Frontiers in Neurology",
+    "authors": [
+      "Stadskleiv K"
+    ],
+    "authorShort": "Stadskleiv",
+    "tags": [
+      "cognitive",
+      "icf",
+      "systematic-review"
+    ],
+    "pubmed": null,
+    "pmcid": "PMC12470702",
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12470702/"
+  },
+  "pmc-11015243": {
+    "id": "aishworiya-2024",
+    "slug": "pmc-11015243",
+    "title": "Association of Cerebral Palsy with Autism Spectrum Disorder",
+    "year": 2024,
+    "type": "meta-analysis",
+    "typeLabel": "Meta-analysis",
+    "typeEmoji": "📈",
+    "tier": "top",
+    "journal": "JAMA Network Open",
+    "authors": [
+      "Aishworiya R",
+      "Kim M",
+      "van der Plas E",
+      "Thurm A"
+    ],
+    "authorShort": "Aishworiya",
+    "tags": [
+      "autism",
+      "co-occurrence",
+      "prevalence",
+      "meta-analysis"
+    ],
+    "pubmed": null,
+    "pmcid": "PMC11015243",
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11015243/"
+  },
   "pmc-10685081": {
     "id": "javvaji-2023",
     "slug": "pmc-10685081",
@@ -413,6 +1052,38 @@
     "nice": null,
     "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10685081/"
   },
+  "pmc-10411432": {
+    "id": "pmc-10411432",
+    "slug": "pmc-10411432",
+    "title": "Neurodevelopmental disorders in ICD-11 and DSM-5",
+    "year": 2023,
+    "type": "review",
+    "typeLabel": "review",
+    "typeEmoji": "📄",
+    "tier": "unknown",
+    "journal": "World Psychiatry",
+    "authors": [
+      "Stein DJ",
+      "Szatmari P",
+      "Gaebel W",
+      "Berk M",
+      "Vieta E",
+      "Maj M",
+      "de Vries PJ"
+    ],
+    "authorShort": "Stein",
+    "tags": [
+      "icd-11",
+      "dsm-5",
+      "neurodevelopmental",
+      "classification"
+    ],
+    "pubmed": null,
+    "pmcid": "PMC10411432",
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10411432/"
+  },
   "nice-ng119": {
     "id": "nice-2019",
     "slug": "nice-ng119",
@@ -438,5 +1109,271 @@
     "doi": null,
     "nice": "NG119",
     "sourceUrl": "https://www.nice.org.uk/guidance/ng119"
+  },
+  "ncbi-nbk538147": {
+    "id": "ncbi-nbk538147",
+    "slug": "ncbi-nbk538147",
+    "title": "Cerebral Palsy - StatPearls",
+    "year": 2024,
+    "type": "clinical-resource",
+    "typeLabel": "clinical-resource",
+    "typeEmoji": "📄",
+    "tier": "unknown",
+    "journal": "StatPearls - NCBI Bookshelf",
+    "authors": [
+      "Patel DR",
+      "Neelakantan M",
+      "Pandher K",
+      "Merrick J"
+    ],
+    "authorShort": "StatPearls",
+    "tags": [
+      "overview",
+      "prevalence",
+      "cognitive"
+    ],
+    "pubmed": null,
+    "pmcid": null,
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://www.ncbi.nlm.nih.gov/books/NBK538147/"
+  },
+  "nature-s41390-024-03575": {
+    "id": "nature-s41390-024-03575",
+    "slug": "nature-s41390-024-03575",
+    "title": "Autism and cerebral palsy - converging phenotypes",
+    "year": 2024,
+    "type": "review",
+    "typeLabel": "review",
+    "typeEmoji": "📄",
+    "tier": "unknown",
+    "journal": "Pediatric Research (Nature)",
+    "authors": [
+      "McIntyre S",
+      "Goldsmith S",
+      "Webb A",
+      "Ehlinger V",
+      "Hollung SJ",
+      "McConnell K",
+      "Arnaud C",
+      "Smithers-Sheedy H",
+      "Oskoui M",
+      "Shevell M",
+      "Surveillance of Cerebral Palsy in Europe"
+    ],
+    "authorShort": "McIntyre",
+    "tags": [
+      "autism",
+      "assessment",
+      "screening",
+      "phenotypes"
+    ],
+    "pubmed": null,
+    "pmcid": null,
+    "doi": "10.1038/s41390-024-03575-9",
+    "nice": null,
+    "sourceUrl": "https://doi.org/10.1038/s41390-024-03575-9"
+  },
+  "macs-official": {
+    "id": "macs-official",
+    "slug": "macs-official",
+    "title": "Manual Ability Classification System (MACS) Official Resource",
+    "year": 2006,
+    "type": "guideline",
+    "typeLabel": "Clinical Guideline",
+    "typeEmoji": "📋",
+    "tier": "top",
+    "journal": "MACS Official Website",
+    "authors": [
+      "Eliasson AC",
+      "Krumlinde-Sundholm L"
+    ],
+    "authorShort": "MACS",
+    "tags": [
+      "classification",
+      "macs",
+      "hand-function",
+      "manual-ability"
+    ],
+    "pubmed": null,
+    "pmcid": null,
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://www.macs.nu/"
+  },
+  "doi-10-1080-17518423-2024-2347991": {
+    "id": "berge-2024",
+    "slug": "doi-10-1080-17518423-2024-2347991",
+    "title": "Cognitive Functioning and Assessment in Adults with Cerebral Palsy",
+    "year": 2024,
+    "type": "scoping-review",
+    "typeLabel": "Scoping Review",
+    "typeEmoji": "🔍",
+    "tier": "top",
+    "journal": "Developmental Neurorehabilitation",
+    "authors": [
+      "Berge E",
+      "Jahnsen R",
+      "Roe C",
+      "Andersen GL",
+      "Ramstad K"
+    ],
+    "authorShort": "Berge",
+    "tags": [
+      "cognition",
+      "assessment",
+      "adults",
+      "intellectual-disability"
+    ],
+    "pubmed": null,
+    "pmcid": null,
+    "doi": "10.1080/17518423.2024.2347991",
+    "nice": null,
+    "sourceUrl": "https://doi.org/10.1080/17518423.2024.2347991"
+  },
+  "cprn-functional-decline": {
+    "id": "cprn-functional-decline",
+    "slug": "cprn-functional-decline",
+    "title": "Cerebral Palsy and Functional Decline",
+    "year": 2023,
+    "type": "clinical-resource",
+    "typeLabel": "clinical-resource",
+    "typeEmoji": "📄",
+    "tier": "unknown",
+    "journal": "Cerebral Palsy Research Network",
+    "authors": [
+      "Cerebral Palsy Research Network"
+    ],
+    "authorShort": "CPRN",
+    "tags": [
+      "adult",
+      "functional-decline",
+      "treatment"
+    ],
+    "pubmed": null,
+    "pmcid": null,
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://cprn.org/cerebral-palsy-functional-decline/"
+  },
+  "cleveland-adult-cp": {
+    "id": "cleveland-adult-cp",
+    "slug": "cleveland-adult-cp",
+    "title": "Adult Cerebral Palsy Care Podcast",
+    "year": 2023,
+    "type": "clinical-resource",
+    "typeLabel": "clinical-resource",
+    "typeEmoji": "📄",
+    "tier": "unknown",
+    "journal": "Cleveland Clinic",
+    "authors": [
+      "Cleveland Clinic",
+      "Bethoux F"
+    ],
+    "authorShort": "Cleveland Clinic",
+    "tags": [
+      "adult",
+      "physiatry",
+      "care-coordination"
+    ],
+    "pubmed": null,
+    "pmcid": null,
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://my.clevelandclinic.org/podcasts/neuro-pathways/adult-cerebral-palsy-care"
+  },
+  "cfcs-official": {
+    "id": "cfcs-official",
+    "slug": "cfcs-official",
+    "title": "Communication Function Classification System (CFCS) Official Resource",
+    "year": 2011,
+    "type": "guideline",
+    "typeLabel": "Clinical Guideline",
+    "typeEmoji": "📋",
+    "tier": "top",
+    "journal": "CFCS Official Website",
+    "authors": [
+      "Hidecker MJC",
+      "Paneth N",
+      "Rosenbaum PL",
+      "Kent RD",
+      "Lillie J",
+      "Eulenberg JB",
+      "Chester K Jr",
+      "Johnson B",
+      "Michalsen L",
+      "Evatt M",
+      "Taylor K"
+    ],
+    "authorShort": "CFCS",
+    "tags": [
+      "classification",
+      "cfcs",
+      "communication",
+      "function"
+    ],
+    "pubmed": null,
+    "pmcid": null,
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://cfcs.us/"
+  },
+  "capmh-2022-00462": {
+    "id": "capmh-2022-00462",
+    "slug": "capmh-2022-00462",
+    "title": "Current state of neurodevelopmental disorders in childhood",
+    "year": 2022,
+    "type": "systematic-review",
+    "typeLabel": "Systematic Review",
+    "typeEmoji": "📊",
+    "tier": "top",
+    "journal": "Child and Adolescent Psychiatry and Mental Health (BioMed Central)",
+    "authors": [
+      "Francke D",
+      "Rayes A",
+      "Barkmann C",
+      "Schulte-Markwort M",
+      "Bullinger M"
+    ],
+    "authorShort": "Francke",
+    "tags": [
+      "neurodevelopmental",
+      "prevalence",
+      "comorbidity"
+    ],
+    "pubmed": null,
+    "pmcid": null,
+    "doi": "10.1186/s13034-022-00462-1",
+    "nice": null,
+    "sourceUrl": "https://doi.org/10.1186/s13034-022-00462-1"
+  },
+  "canchild-gmfcs": {
+    "id": "canchild-gmfcs",
+    "slug": "canchild-gmfcs",
+    "title": "Gross Motor Function Classification System - Expanded and Revised (GMFCS-E&R)",
+    "year": 2007,
+    "type": "guideline",
+    "typeLabel": "Clinical Guideline",
+    "typeEmoji": "📋",
+    "tier": "top",
+    "journal": "CanChild Centre for Childhood Disability Research",
+    "authors": [
+      "Palisano R",
+      "Rosenbaum P",
+      "Bartlett D",
+      "Livingston M"
+    ],
+    "authorShort": "CanChild",
+    "tags": [
+      "classification",
+      "gmfcs",
+      "motor-function",
+      "mobility"
+    ],
+    "pubmed": null,
+    "pmcid": null,
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://canchild.ca/resources/42-gmfcs-e-r/"
   }
 }
