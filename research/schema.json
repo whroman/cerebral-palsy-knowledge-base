@@ -11,8 +11,8 @@
     },
     "slug": {
       "type": "string",
-      "pattern": "^(pubmed|pmc)-[0-9]+$",
-      "description": "URL slug matching filename (e.g., pubmed-32061920)"
+      "pattern": "^(pubmed|pmc)-[0-9]+$|^nice-[a-z]+[0-9]+$",
+      "description": "URL slug matching filename (e.g., pubmed-32061920, nice-ng119)"
     },
     "title": {
       "type": "string",
