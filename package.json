@@ -2,6 +2,7 @@
   "name": "cerebral-palsy-knowledge-base",
   "version": "0.1.0",
   "private": true,
+  "license": "SEE LICENSE IN LICENSE",
   "scripts": {
     "docusaurus": "docusaurus",
     "generate:references": "node scripts/generate-references.js",
@@ -20,7 +21,9 @@
     "check:orphans": "node scripts/check-orphans.js",
     "check:source-types": "node scripts/check-source-types.js",
     "check:features": "node scripts/check-features.js",
-    "check:all": "npm run check:frontmatter && npm run check:abbreviations && npm run check:source-types && npm run check:citations && npm run check:orphans && npm run check:features && npm run check:links"
+    "check:uncited": "node scripts/check-uncited-claims.js",
+    "check:sitemap": "node scripts/check-sitemap.js",
+    "check:all": "npm run check:frontmatter && npm run check:abbreviations && npm run check:source-types && npm run check:citations && npm run check:orphans && npm run check:features && npm run check:uncited && npm run check:sitemap && npm run check:links"
   },
   "dependencies": {
     "@docusaurus/core": "3.9.2",
