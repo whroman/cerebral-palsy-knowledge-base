@@ -1,5 +1,5 @@
 ---
-sidebar_position: 6
+sidebar_position: 2
 title: Caregiver Resources
 ---
 
@@ -187,7 +187,8 @@ Options to explore:
 
 ## Related Pages
 
+- **[Life Expectancy](./life-expectancy.md)** - Understanding survival and long-term planning
 - **[Mental Health](./mental-health.md)** - Mental health support for the whole family
-- **[Finding Adult Services](./finding-services.md)** - Building a care team to share the load
+- **[Finding Adult Services](../getting-started/finding-services.md)** - Building a care team to share the load
 - **[Equipment & Devices](../management/equipment.md)** - Equipment that reduces caregiver strain
-- **[Transition to Adult Care](./transition.md)** - Planning for the future
+- **[Transition to Adult Care](../getting-started/transition.md)** - Planning for the future

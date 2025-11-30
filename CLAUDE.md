@@ -14,53 +14,31 @@ Never recommend pre-commit hooks.
 ## Purpose
 This knowledge base exists to help caretakers of adults with cerebral palsy receive proper special needs assessment or care. Every decision must prioritize accuracy and usefulness for their healthcare needs.
 
+## Three Challenges
+
+This project addresses three distinct concerns that must not be conflated:
+
+| Challenge | Serves | Solution |
+|-----------|--------|----------|
+| **Domain knowledge hierarchy** | Domain Experts | [docs/sitemap.md](docs/sitemap.md) - Information Hierarchy section |
+| **User navigation** | Readers | [docs/sitemap.md](docs/sitemap.md) - Entry Points and navigation structure |
+| **Agent context** | Agents | This file (CLAUDE.md) → references source-of-truth files |
+
+The Sitemap feature is the source of truth for both domain hierarchy and user navigation.
+
 ## Knowledge Base Index
 
 ### Features
 - [features-registry/CLAUDE.md](features-registry/CLAUDE.md) - Feature registry
 
-### Research (Source of Truth)
+### Research (Source of Truth for Evidence)
 - [research/CLAUDE.md](research/CLAUDE.md) - Research notes index
 - Content in `/docs/` must be derived from research notes
 
-### Entry Point
-- [docs/intro.md](docs/intro.md) - Overview with hierarchical drill-down
-- [docs/symptom-guide.md](docs/symptom-guide.md) - Find pages by symptom
-- [docs/glossary.md](docs/glossary.md) - Medical term definitions
-
-### Classification
-- [docs/classification/index.md](docs/classification/index.md) - Overview: GMFCS, MACS, CFCS
-- [docs/classification/gmfcs.md](docs/classification/gmfcs.md) - Gross Motor Function
-- [docs/classification/macs.md](docs/classification/macs.md) - Manual Ability
-- [docs/classification/cfcs.md](docs/classification/cfcs.md) - Communication Function
-
-### Assessment
-- [docs/assessment/index.md](docs/assessment/index.md) - Overview: why and how to assess
-- [docs/assessment/overview.md](docs/assessment/overview.md) - NICE guidelines
-- [docs/assessment/cognitive.md](docs/assessment/cognitive.md) - Cognitive evaluation
-- [docs/assessment/functional-independence.md](docs/assessment/functional-independence.md) - FIM
-
-### Co-occurring Conditions
-- [docs/co-occurring/index.md](docs/co-occurring/index.md) - Overview: conditions that co-occur
-- [docs/co-occurring/autism-cp.md](docs/co-occurring/autism-cp.md) - Autism (6-9%, 5x general population)
-- [docs/co-occurring/neurological-vs-neurodevelopmental.md](docs/co-occurring/neurological-vs-neurodevelopmental.md) - Classification differences
-- [docs/co-occurring/secondary-conditions.md](docs/co-occurring/secondary-conditions.md) - Epilepsy, scoliosis, and other conditions
-
-### Management
-- [docs/management/index.md](docs/management/index.md) - Overview: coordination and treatment
-- [docs/management/physiatrist-role.md](docs/management/physiatrist-role.md) - Physiatrist as coordinator
-- [docs/management/pain.md](docs/management/pain.md) - Pain management (70% prevalence)
-- [docs/management/spasticity.md](docs/management/spasticity.md) - Spasticity treatment options
-- [docs/management/equipment.md](docs/management/equipment.md) - Wheelchairs, orthotics, AAC
-- [docs/management/gait-patterns.md](docs/management/gait-patterns.md) - Gait patterns
-
-### Adults
-- [docs/adults/index.md](docs/adults/index.md) - Overview: adult-specific issues
-- [docs/adults/late-diagnosis.md](docs/adults/late-diagnosis.md) - Late diagnosis
-- [docs/adults/mental-health.md](docs/adults/mental-health.md) - Depression and anxiety (2x rates)
-- [docs/adults/finding-services.md](docs/adults/finding-services.md) - Building a care team
-- [docs/adults/transition.md](docs/adults/transition.md) - Pediatric to adult care
-- [docs/adults/caregiver.md](docs/adults/caregiver.md) - Caregiver support and burnout
+### Content (Source of Truth for Structure)
+- [docs/sitemap.md](docs/sitemap.md) - **Canonical structure of all wiki content**
+- All docs are listed in the sitemap; `check:sitemap` enforces sync
+- When adding/removing pages, update sitemap.md first
 
 ## Critical Rules
 
@@ -107,10 +85,18 @@ tags: [topic1, topic2]
 ```
 
 ### Workflow
+
+**Adding new content:**
 1. Research first: Create research note from Tier 1 source
 2. Extract findings: Direct quotes and data in the research note
-3. Then write content: `/docs/` content references research notes
-4. Never write content without a research note backing it
+3. Update sitemap: Add new page to `docs/sitemap.md` first
+4. Create page: Write content in `/docs/` referencing research notes
+5. Verify: Run `check:sitemap` to confirm sync
+
+**Never:**
+- Write content without a research note backing it
+- Create a doc page without adding it to the sitemap
+- Remove a page without removing it from the sitemap
 
 ## Current Issues
 
@@ -124,11 +110,22 @@ Run before committing changes:
 npm run check:all          # Run all checks
 npm run check:frontmatter  # Validate research note YAML schema
 npm run check:abbreviations # Find prohibited "CP" abbreviations
+npm run check:citations    # Verify all Cite slugs have matching research notes
+npm run check:uncited      # Find claims without citations (percentages, statistics)
+npm run check:sitemap      # Verify sitemap matches actual docs structure
 npm run check:features     # Validate feature registry
 npm run check:links        # Verify all links are valid
 ```
 
 The frontmatter check validates research notes against `research/schema.json`.
+
+### Citation Requirements
+
+Every factual claim with statistics, percentages, or specific numbers must have a `<Cite slug="..."/>` on the same line. The `check:uncited` script detects:
+- Percentages (e.g., "70%", "58.6%")
+- Fractions ("1 in 3")
+- Specific counts ("666 deaths")
+- Comparative statistics ("45-62 times higher")
 
 ### Handling Link Check Failures
 

@@ -123,8 +123,8 @@ Risk factors:
 
 ## Cardiovascular Conditions
 
-Adults with cerebral palsy have elevated risk for: <Cite slug="pubmed-36807150" />
-- Hypertension (26%)
+Adults with cerebral palsy have elevated risk for:
+- Hypertension (26%) <Cite slug="pubmed-36807150" />
 - Heart disease
 - Stroke
 
@@ -171,7 +171,7 @@ Given elevated risks, adults with cerebral palsy should receive regular screenin
 
 | Condition | Screening |
 |-----------|-----------|
-| Osteoporosis | DEXA scan by age 30-40 |
+| Osteoporosis | DEXA scan earlier than general population |
 | Scoliosis | Spinal examination annually |
 | Hypertension | Blood pressure at every visit |
 | Diabetes | Glucose/A1C every 1-3 years |
@@ -181,9 +181,9 @@ Given elevated risks, adults with cerebral palsy should receive regular screenin
 
 ## Key Points
 
-- Almost half of adults with cerebral palsy have scoliosis
-- Epilepsy affects 28%—nearly 1 in 3
-- Mental health conditions affect over 20%
+- Almost half of adults with cerebral palsy have scoliosis <Cite slug="pubmed-36807150" />
+- Epilepsy affects 28%—nearly 1 in 3 <Cite slug="pubmed-36807150" />
+- Mental health conditions affect over 20% <Cite slug="pubmed-31382276" />
 - Multiple conditions often co-occur
 - Proactive screening can catch problems early
 - Many secondary conditions are preventable or treatable
@@ -193,7 +193,11 @@ Given elevated risks, adults with cerebral palsy should receive regular screenin
 
 ## Related Pages
 
-- **[Mental Health](../adults/mental-health.md)** - Depression and anxiety as secondary conditions
-- **[Pain Management](../management/pain.md)** - Pain from musculoskeletal conditions
-- **[Assessment Overview](../assessment/overview.md)** - NICE guidelines for comprehensive assessment
+- **[Epilepsy Management](../../management/epilepsy.md)** - Detailed seizure management and risk factors
+- **[Orthopedics & Hip](../../management/orthopedics.md)** - Hip problems and surgical outcomes
+- **[Nutrition & Feeding](../../management/nutrition.md)** - Dysphagia management and feeding interventions
+- **[Life Expectancy](../../living/life-expectancy.md)** - How secondary conditions affect survival
+- **[Mental Health](../../living/mental-health.md)** - Depression and anxiety as secondary conditions
+- **[Pain Management](../../management/pain.md)** - Pain from musculoskeletal conditions
+- **[Assessment Overview](../../assessment/index.md)** - NICE guidelines for comprehensive assessment
 - **[Autism and Cerebral Palsy](./autism-cp.md)** - Common neurodevelopmental co-occurrence

@@ -18,7 +18,7 @@ Devices and methods that supplement or replace speech. Includes communication bo
 A brace extending from below the knee to the foot that supports ankle positioning and improves gait. See [Equipment & Devices](./management/equipment.md).
 
 **Aspiration**
-When food, liquid, or saliva enters the airway instead of the esophagus. Common concern with dysphagia. See [Secondary Conditions](./co-occurring/secondary-conditions.md).
+When food, liquid, or saliva enters the airway instead of the esophagus. Common concern with dysphagia. See [Secondary Conditions](./understanding/co-occurring/secondary-conditions.md).
 
 **Ataxic cerebral palsy**
 Type characterized by problems with balance and coordination rather than stiffness.
@@ -41,7 +41,7 @@ Injectable medication that reduces spasticity in targeted muscles. Effects last 
 ## C
 
 **CFCS (Communication Function Classification System)**
-Five-level system classifying communication ability. See [CFCS](./classification/cfcs.md).
+Five-level system classifying communication ability. See [CFCS](./understanding/cfcs.md).
 
 **Contracture**
 Permanent shortening of muscles or tendons that limits joint movement. Often results from prolonged spasticity.
@@ -57,11 +57,14 @@ Cerebral palsy primarily affecting the legs more than the arms.
 Involuntary, uncontrolled movements. See athetoid/dyskinetic cerebral palsy.
 
 **Dysphagia**
-Difficulty swallowing. See [Secondary Conditions](./co-occurring/secondary-conditions.md).
+Difficulty swallowing. Affects up to 85% of people with cerebral palsy. See [Nutrition & Feeding](./management/nutrition.md).
 
 ---
 
 ## E
+
+**Epilepsy**
+Neurological condition causing recurrent seizures. Affects approximately 50% of people with cerebral palsy. See [Epilepsy Management](./management/epilepsy.md), [Secondary Conditions](./understanding/co-occurring/secondary-conditions.md).
 
 **Equinus**
 Walking on toes due to tight calf muscles. See [Gait Patterns](./management/gait-patterns.md).
@@ -70,6 +73,9 @@ Walking on toes due to tight calf muscles. See [Gait Patterns](./management/gait
 
 ## F
 
+**FEES (Fiberoptic Endoscopic Evaluation of Swallowing)**
+Camera-based swallowing assessment where a scope is passed through the nose. See [Nutrition & Feeding](./management/nutrition.md).
+
 **FIM (Functional Independence Measure)**
 Standardized assessment tool measuring independence in daily activities. See [Functional Independence](./assessment/functional-independence.md).
 
@@ -77,8 +83,13 @@ Standardized assessment tool measuring independence in daily activities. See [Fu
 
 ## G
 
+**Gastrostomy tube (G-tube)**
+Feeding tube placed directly into the stomach through the abdominal wall for long-term nutritional support. See [Nutrition & Feeding](./management/nutrition.md).
+
+
+
 **GMFCS (Gross Motor Function Classification System)**
-Five-level system classifying mobility. Level I walks without limitations; Level V transported in wheelchair. See [GMFCS](./classification/gmfcs.md).
+Five-level system classifying mobility. Level I walks without limitations; Level V transported in wheelchair. See [GMFCS](./understanding/gmfcs.md).
 
 ---
 
@@ -102,7 +113,7 @@ Surgically implanted pump delivering baclofen directly to spinal fluid. See [Spa
 ## M
 
 **MACS (Manual Ability Classification System)**
-Five-level system classifying hand function. See [MACS](./classification/macs.md).
+Five-level system classifying hand function. See [MACS](./understanding/macs.md).
 
 ---
 
@@ -146,7 +157,7 @@ Cerebral palsy affecting all four limbs and usually the trunk.
 ## S
 
 **Scoliosis**
-Abnormal lateral curvature of the spine. Affects 46% of adults with cerebral palsy. See [Secondary Conditions](./co-occurring/secondary-conditions.md).
+Abnormal lateral curvature of the spine. Affects 46% of adults with cerebral palsy. See [Secondary Conditions](./understanding/co-occurring/secondary-conditions.md).
 
 **Spasticity**
 Increased muscle tone causing stiffness and resistance to movement. A core feature of spastic cerebral palsy. See [Spasticity Management](./management/spasticity.md).
@@ -158,11 +169,21 @@ Most common type, characterized by stiff, tight muscles.
 
 ## T
 
+**THA (Total Hip Arthroplasty)**
+Hip replacement surgery. Achieves 87% pain relief and 79% functional improvement in adults with cerebral palsy. See [Orthopedics & Hip](./management/orthopedics.md).
+
 **Tizanidine**
 Oral muscle relaxant used for spasticity. See [Spasticity Management](./management/spasticity.md).
 
 **Transition**
-Process of moving from pediatric to adult healthcare. See [Transition to Adult Care](./adults/transition.md).
+Process of moving from pediatric to adult healthcare. See [Transition to Adult Care](./getting-started/transition.md).
+
+---
+
+## V
+
+**VFSS (Videofluoroscopic Swallowing Study)**
+X-ray video assessment of swallowing, also called modified barium swallow. Gold standard for dysphagia evaluation. See [Nutrition & Feeding](./management/nutrition.md).
 
 ---
 
@@ -173,8 +194,10 @@ Process of moving from pediatric to adult healthcare. See [Transition to Adult C
 | AAC | Augmentative and Alternative Communication |
 | AFO | Ankle-Foot Orthosis |
 | CFCS | Communication Function Classification System |
+| FEES | Fiberoptic Endoscopic Evaluation of Swallowing |
 | FIM | Functional Independence Measure |
 | GMFCS | Gross Motor Function Classification System |
+| G-tube | Gastrostomy tube |
 | ITB | Intrathecal Baclofen |
 | MACS | Manual Ability Classification System |
 | NICE | National Institute for Health and Care Excellence |
@@ -182,3 +205,5 @@ Process of moving from pediatric to adult healthcare. See [Transition to Adult C
 | PM&R | Physical Medicine and Rehabilitation |
 | PT | Physical Therapist |
 | SLP | Speech-Language Pathologist |
+| THA | Total Hip Arthroplasty |
+| VFSS | Videofluoroscopic Swallowing Study |

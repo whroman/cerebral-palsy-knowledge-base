@@ -26,3 +26,4 @@ Validates:
 ## Feature Index
 
 - [citation-sidebar.md](citation-sidebar.md) - Slide-out panel for source details
+- [sitemap.md](sitemap.md) - Visual map of wiki content for navigation

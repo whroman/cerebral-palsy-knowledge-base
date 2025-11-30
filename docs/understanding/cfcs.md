@@ -55,3 +55,12 @@ The CFCS is analogous and complementary to the Gross Motor Function Classificati
 Reference for the initial CFCS Development: Hidecker, M.J.C., Paneth, N., Rosenbaum, P.L., Kent, R.D., Lillie, J., Eulenberg, J.B., Chester, K., Johnson, B., Michalsen, L., Evatt, M., & Taylor, K. <Cite slug="cfcs-official" />
 
 CFCS is a tool developed with support from the National Institute of Health (NIH), the Cerebral Palsy International Research Foundation, and The Hearst Foundation. <Cite slug="cfcs-official" />
+
+---
+
+## Related Pages
+
+- **[Communication Strategies](../management/communication.md)** - AAC interventions and practical guidance
+- **[GMFCS](./gmfcs.md)** - Gross Motor Function Classification
+- **[MACS](./macs.md)** - Manual Ability Classification
+- **[Equipment & Devices](../management/equipment.md)** - Communication devices and AAC equipment

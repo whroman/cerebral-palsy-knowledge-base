@@ -158,7 +158,8 @@ Equipment needs change with age:
 
 ## Related Pages
 
+- **[Communication Strategies](./communication.md)** - Detailed AAC guidance and evidence
 - **[Gait Patterns](./gait-patterns.md)** - AFOs and equipment for walking
 - **[Spasticity Management](./spasticity.md)** - Orthotics help manage spasticity
 - **[Pain Management](./pain.md)** - Proper equipment reduces pain
-- **[Finding Adult Services](../adults/finding-services.md)** - Finding specialists for equipment
+- **[Finding Adult Services](../getting-started/finding-services.md)** - Finding specialists for equipment

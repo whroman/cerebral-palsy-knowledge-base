@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5
+sidebar_position: 2
 title: Transition to Adult Care
 ---
 
@@ -35,12 +35,11 @@ Without proper transition:
 
 ## When Transition Happens
 
-| Age | Typical Milestone |
-|-----|-------------------|
-| 14-16 | Begin discussing transition |
-| 16-18 | Identify adult providers |
-| 18-21 | Active transition period |
-| 21-25 | Final transfer of care |
+Typical transition milestones (ages vary by program):
+- **Early teens (14-16)** - Begin discussing transition
+- **Mid-teens (16-18)** - Identify adult providers
+- **Young adulthood (18-21)** - Active transition period
+- **Early twenties (21-25)** - Final transfer of care
 
 In reality, many adults with cerebral palsy never complete a proper transition—they simply "age out" of pediatric services.
 
@@ -137,11 +136,11 @@ If this is you:
 
 ## Key Points
 
-- Transition is often poorly managed—plan proactively
-- Start transition discussions by age 14-16
+- Transition is often poorly managed—plan proactively <Cite slug="pubmed-37552305" />
+- Start transition discussions in early teens
 - Create a comprehensive portable medical summary
 - Meet adult providers before fully leaving pediatric care
-- Family involvement and self-advocacy improve outcomes
+- Family involvement and self-advocacy improve outcomes <Cite slug="pubmed-37552305" />
 - If you never transitioned properly, it's not too late to establish adult care
 
 ---
@@ -151,4 +150,4 @@ If this is you:
 - **[Finding Adult Services](./finding-services.md)** - How to find and evaluate adult providers
 - **[Late Diagnosis](./late-diagnosis.md)** - Adults who missed proper transition
 - **[Physiatrist Role](../management/physiatrist-role.md)** - Physiatrists as adult care coordinators
-- **[Caregiver Resources](./caregiver.md)** - Support for families during transition
+- **[Caregiver Resources](../living/caregiver.md)** - Support for families during transition

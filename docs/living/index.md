@@ -1,11 +1,11 @@
 ---
 sidebar_position: 0
-title: Adults with Cerebral Palsy
+title: Living with Cerebral Palsy
 ---
 
 import Cite from '@site/src/components/Cite';
 
-# Adults with Cerebral Palsy
+# Living with Cerebral Palsy
 
 Cerebral palsy was historically considered a childhood condition. Many adults with cerebral palsy face gaps in care, outdated assessments, and providers unfamiliar with adult-specific needs.
 
@@ -51,8 +51,12 @@ Adults with cerebral palsy experience aging-related changes earlier:
 
 ## Detailed Pages
 
-- **[Late Diagnosis](./late-diagnosis.md)** - Adults diagnosed later in life or never properly assessed
 - **[Mental Health](./mental-health.md)** - Depression, anxiety, and psychological support
-- **[Finding Adult Services](./finding-services.md)** - How to find providers and build a care team
-- **[Transition to Adult Care](./transition.md)** - Moving from pediatric to adult healthcare
+- **[Life Expectancy](./life-expectancy.md)** - Survival rates, causes of mortality, and prevention
 - **[Caregiver Resources](./caregiver.md)** - Support for those providing care
+
+## Related Getting Started Pages
+
+- **[Late Diagnosis](../getting-started/late-diagnosis.md)** - Adults diagnosed later in life or never properly assessed
+- **[Finding Adult Services](../getting-started/finding-services.md)** - How to find providers and build a care team
+- **[Transition to Adult Care](../getting-started/transition.md)** - Moving from pediatric to adult healthcare

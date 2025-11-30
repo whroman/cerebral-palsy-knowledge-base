@@ -12,7 +12,7 @@ This directory contains Zettelkasten-style research notes. Each note represents 
 
 See [CLAUDE.md](../CLAUDE.md) for the research note format specification.
 
-## Sources (56 total)
+## Sources (67 total)
 
 ### Classification Systems
 - [canchild-gmfcs](canchild-gmfcs.md) - GMFCS-E&R Official Resource (CanChild, 2007)
@@ -72,6 +72,29 @@ See [CLAUDE.md](../CLAUDE.md) for the research note format specification.
 
 ### Secondary Conditions
 - [pubmed-36807150](pubmed-36807150.md) - Chronic Conditions Prevalence: Systematic Review (2023)
+
+### Epilepsy
+- [pubmed-37769423](pubmed-37769423.md) - Risk Factors and Outcome of Epilepsy in Adults (2023)
+- [pubmed-39596993](pubmed-39596993.md) - Epilepsy Prevalence, Risk Factors, Subtype Associations (2024)
+
+### Exercise & Physical Activity
+- [pubmed-39180329](pubmed-39180329.md) - Physical Activity Interventions in Adults: Systematic Review (2025)
+
+### Orthopedics & Hip
+- [pmc-7016022](pmc-7016022.md) - Total Hip Arthroplasty Outcomes: Systematic Review (2020)
+
+### Nutrition & Feeding
+- [pubmed-39985076](pubmed-39985076.md) - Swallowing Disorders: Systematic Review (2025)
+
+### Communication
+- [pubmed-34378726](pubmed-34378726.md) - AAC Interventions Effectiveness: Systematic Review (2021)
+
+### Survival & Life Expectancy
+- [pmc-6549269](pmc-6549269.md) - Survival and Mortality to Sixth Decade (2019)
+- [pmc-10292172](pmc-10292172.md) - Mortality Risk Factors: Systematic Review (2023)
+- [pubmed-36161450](pubmed-36161450.md) - Survival in Victoria Australia Four Decades (2023)
+- [pubmed-37408168](pubmed-37408168.md) - Comorbidities and Mortality in Adults Japan (2024)
+- [pubmed-40550230](pubmed-40550230.md) - Lancet Seminar: Cerebral Palsy (2025)
 
 ### Equipment & Rehabilitation
 - [pmc-10733710](pmc-10733710.md) - Rehabilitation Interventions and Adaptive Technologies (2023)

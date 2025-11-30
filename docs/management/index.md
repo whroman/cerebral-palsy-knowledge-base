@@ -40,6 +40,7 @@ Physiatrists (Physical Medicine and Rehabilitation physicians) are trained to:
 | **Spasticity** | Tone management, botulinum toxin, medications | Physiatrist, neurologist |
 | **Mobility** | Gait, equipment, transfers | Physiatrist, PT |
 | **Pain** | Chronic pain (70% affected) | Physiatrist, pain specialist |
+| **Nutrition/Feeding** | Dysphagia (85% affected), aspiration prevention | SLP, dietitian, GI |
 | **Communication** | Speech, AAC | SLP |
 | **Daily living** | Independence, adaptations | OT |
 
@@ -57,5 +58,10 @@ Physiatrists (Physical Medicine and Rehabilitation physicians) are trained to:
 - **[Physiatrists as Coordinators](./physiatrist-role.md)** - Why physiatrists are central to adult cerebral palsy care
 - **[Pain Management](./pain.md)** - Chronic pain affects 70% of adults with cerebral palsy
 - **[Spasticity Management](./spasticity.md)** - Medications, injections, and surgical options for tone management
+- **[Nutrition & Feeding](./nutrition.md)** - Dysphagia, aspiration prevention, and feeding modifications
+- **[Communication Strategies](./communication.md)** - AAC options and evidence-based interventions
 - **[Equipment & Assistive Devices](./equipment.md)** - Wheelchairs, orthotics, and daily living aids
 - **[Gait Patterns and Treatment](./gait-patterns.md)** - Understanding and treating walking differences
+- **[Physical Therapy & Exercise](./physical-therapy.md)** - Evidence-based exercise interventions for adults
+- **[Epilepsy & Seizure Management](./epilepsy.md)** - Seizure prevalence, risk factors, and treatment
+- **[Orthopedics & Hip Management](./orthopedics.md)** - Hip problems and surgical outcomes

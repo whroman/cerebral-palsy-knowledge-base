@@ -72,17 +72,17 @@ For severe, generalized spasticity not controlled by other methods:
 
 A meta-analysis found **"average spasticity scores decreased from 3.2 to 1.9, representing a 40.25% reduction"** with ITB therapy. <Cite slug="pubmed-38678195" />
 
-#### Benefits
-- 40% spasticity reduction
-- Modest motor function improvement (9.62%)
+#### Benefits <Cite slug="pubmed-38678195" />
+- 40% spasticity reduction <Cite slug="pubmed-38678195" />
+- Modest motor function improvement (9.62%) <Cite slug="pubmed-38678195" />
 - Continuous delivery directly to spinal cord
 - Avoids oral medication side effects
 
-#### Risks
+#### Risks <Cite slug="pubmed-38678195" />
 
 Complications in 203 of 501 implantations: <Cite slug="pubmed-38678195" />
-- Infections: 16.26%
-- Meningitis: 3.94%
+- Infections: 16.26% <Cite slug="pubmed-38678195" />
+- Meningitis: 3.94% <Cite slug="pubmed-38678195" />
 - Catheter problems: 75 cases
 
 Requires:

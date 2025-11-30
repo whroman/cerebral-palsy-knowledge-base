@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 3
 title: Late Diagnosis and Assessment
 ---
 
@@ -41,8 +41,7 @@ The benefits of early identification are significant: **"Prompt referral to diag
 
 ## Prognosis
 
-In high-income countries, research indicates: <Cite slug="pubmed-28715518" />
-- 2 in 3 individuals with cerebral palsy will achieve walking ability
-- 3 in 4 will develop speech
-- 1 in 2 will have normal intelligence
-
+In high-income countries, research indicates:
+- 2 in 3 individuals with cerebral palsy will achieve walking ability <Cite slug="pubmed-28715518" />
+- 3 in 4 will develop speech <Cite slug="pubmed-28715518" />
+- 1 in 2 will have normal intelligence <Cite slug="pubmed-28715518" />

@@ -88,7 +88,7 @@ Recommended approach:
 
 ## Key Points
 
-- Pain affects 70% of adults with cerebral palsy
+- Pain affects 70% of adults with cerebral palsy <Cite slug="pubmed-32061920" />
 - Back and lower extremity joints are most commonly affected
 - Pain severity is similar across all GMFCS levels
 - Nonpharmacologic approaches are preferred first-line treatment
@@ -100,5 +100,6 @@ Recommended approach:
 ## Related Pages
 
 - **[Spasticity Management](./spasticity.md)** - Reducing spasticity often reduces pain
-- **[Mental Health](../adults/mental-health.md)** - Pain strongly correlates with depression
+- **[Orthopedics & Hip](./orthopedics.md)** - Hip surgery for pain relief (87% success)
+- **[Mental Health](../living/mental-health.md)** - Pain strongly correlates with depression
 - **[Equipment & Devices](./equipment.md)** - Proper positioning reduces pain

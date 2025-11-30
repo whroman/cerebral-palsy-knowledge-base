@@ -50,19 +50,19 @@ export default function Home() {
           <div className="container">
             <div className="row">
               <Feature
-                title="Classification Systems"
+                title="Understanding Cerebral Palsy"
                 description="Learn about GMFCS, MACS, CFCS and other standardized classification systems used to assess functional abilities in cerebral palsy."
-                link="/docs/classification/gmfcs"
+                link="/docs/understanding/gmfcs"
               />
               <Feature
-                title="Adult Assessment"
-                description="Comprehensive information on assessment standards for adults with CP, including cognitive, functional, and quality of life measures."
-                link="/docs/assessment/overview"
+                title="Assessment & Evaluation"
+                description="Comprehensive information on assessment standards for adults with cerebral palsy, including cognitive, functional, and quality of life measures."
+                link="/docs/assessment"
               />
               <Feature
-                title="Late Diagnosis"
-                description="Resources and information for adults who were diagnosed later in life or never received comprehensive assessment in childhood."
-                link="/docs/adults/late-diagnosis"
+                title="Getting Started"
+                description="Resources for finding adult services, transitioning from pediatric care, and getting assessment for those diagnosed later in life."
+                link="/docs/getting-started/finding-services"
               />
             </div>
             <div className="row margin-top--lg">

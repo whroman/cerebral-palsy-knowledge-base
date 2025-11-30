@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 1
 title: Mental Health
 ---
 
@@ -19,10 +19,10 @@ A large cross-sectional study found: <Cite slug="pubmed-31382276" />
 
 | Disorder | Adults with Cerebral Palsy | General Population |
 |----------|---------------------------|-------------------|
-| Mood disorders | 19.5% | 8.1% |
-| Anxiety disorders | 19.5% | 11.1% |
-| Schizophrenic disorders | 2.8% | 0.7% |
-| Personality/behavior disorders | 1.2% | 0.3% |
+| Mood disorders | 19.5% <Cite slug="pubmed-31382276" /> | 8.1% |
+| Anxiety disorders | 19.5% <Cite slug="pubmed-31382276" /> | 11.1% |
+| Schizophrenic disorders | 2.8% <Cite slug="pubmed-31382276" /> | 0.7% |
+| Personality/behavior disorders | 1.2% <Cite slug="pubmed-31382276" /> | 0.3% |
 
 ## Risk Factors
 
@@ -121,5 +121,5 @@ Antidepressants and anti-anxiety medications can be effective but require:
 
 - **[Pain Management](../management/pain.md)** - Pain is a major contributor to depression
 - **[Caregiver Resources](./caregiver.md)** - Caregiver mental health affects the whole family
-- **[Finding Adult Services](./finding-services.md)** - How to find mental health providers
-- **[Secondary Conditions](../co-occurring/secondary-conditions.md)** - Depression as a secondary condition
+- **[Finding Adult Services](../getting-started/finding-services.md)** - How to find mental health providers
+- **[Secondary Conditions](../understanding/co-occurring/secondary-conditions.md)** - Depression as a secondary condition

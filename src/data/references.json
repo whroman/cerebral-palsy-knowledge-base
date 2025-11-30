@@ -180,6 +180,123 @@
     "nice": null,
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/8976303/"
   },
+  "pubmed-40550230": {
+    "id": "novak-2025",
+    "slug": "pubmed-40550230",
+    "title": "Cerebral palsy - Lancet Seminar 2025",
+    "year": 2025,
+    "type": "systematic-review",
+    "typeLabel": "Systematic Review",
+    "typeEmoji": "📊",
+    "tier": "top",
+    "journal": "The Lancet",
+    "authors": [
+      "Novak I",
+      "Jackman M",
+      "Finch-Edmondson M",
+      "Fahey M"
+    ],
+    "authorShort": "Novak",
+    "tags": [
+      "overview",
+      "diagnosis",
+      "management",
+      "prognosis",
+      "lifelong"
+    ],
+    "pubmed": 40550230,
+    "pmcid": null,
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/40550230/"
+  },
+  "pubmed-39985076": {
+    "id": "calderone-2025",
+    "slug": "pubmed-39985076",
+    "title": "Swallowing disorders in cerebral palsy",
+    "year": 2025,
+    "type": "systematic-review",
+    "typeLabel": "Systematic Review",
+    "typeEmoji": "📊",
+    "tier": "top",
+    "journal": "Italian Journal of Pediatrics",
+    "authors": [
+      "Calderone A",
+      "Militi D",
+      "Cardile D",
+      "Corallo F",
+      "Calabrò RS",
+      "Militi A"
+    ],
+    "authorShort": "Calderone",
+    "tags": [
+      "dysphagia",
+      "nutrition",
+      "swallowing",
+      "systematic-review"
+    ],
+    "pubmed": 39985076,
+    "pmcid": null,
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/39985076/"
+  },
+  "pubmed-39596993": {
+    "id": "alyoubi-2024",
+    "slug": "pubmed-39596993",
+    "title": "Epilepsy prevalence and subtype associations in cerebral palsy",
+    "year": 2024,
+    "type": "epidemiological-study",
+    "typeLabel": "epidemiological-study",
+    "typeEmoji": "📄",
+    "tier": "unknown",
+    "journal": "Medicina (Kaunas)",
+    "authors": [
+      "Alyoubi Reem Abdullah",
+      "Abu-Zaid Ahmed"
+    ],
+    "authorShort": "Alyoubi",
+    "tags": [
+      "epilepsy",
+      "prevalence",
+      "risk-factors",
+      "subtypes"
+    ],
+    "pubmed": 39596993,
+    "pmcid": "PMC11596662",
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/39596993/"
+  },
+  "pubmed-39180329": {
+    "id": "andreopoulou-2025",
+    "slug": "pubmed-39180329",
+    "title": "Physical activity interventions in adults with cerebral palsy",
+    "year": 2025,
+    "type": "systematic-review",
+    "typeLabel": "Systematic Review",
+    "typeEmoji": "📊",
+    "tier": "top",
+    "journal": "Disability and Rehabilitation",
+    "authors": [
+      "Andreopoulou Georgia",
+      "Meharry John B",
+      "Jagadamma Kavi C",
+      "van der Linden Marietta L"
+    ],
+    "authorShort": "Andreopoulou",
+    "tags": [
+      "physical-activity",
+      "exercise",
+      "rehabilitation",
+      "adults"
+    ],
+    "pubmed": 39180329,
+    "pmcid": null,
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/39180329/"
+  },
   "pubmed-38702978": {
     "id": "pubmed-38702978",
     "slug": "pubmed-38702978",
@@ -273,6 +390,36 @@
     "nice": null,
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/37993325/"
   },
+  "pubmed-37769423": {
+    "id": "fernandez-perez-2023",
+    "slug": "pubmed-37769423",
+    "title": "Epilepsy risk factors and outcomes in adults with cerebral palsy",
+    "year": 2023,
+    "type": "cohort-study",
+    "typeLabel": "Cohort Study",
+    "typeEmoji": "👥",
+    "tier": "mid",
+    "journal": "Epilepsy & Behavior",
+    "authors": [
+      "Fernández Pérez Isabel",
+      "Biedermann Villagra Tamara",
+      "Jiménez-Balado Joan",
+      "Jiménez Redondo Jordi",
+      "Bertran Recasens Bernat"
+    ],
+    "authorShort": "Fernández Pérez",
+    "tags": [
+      "epilepsy",
+      "seizures",
+      "adults",
+      "medication-management"
+    ],
+    "pubmed": 37769423,
+    "pmcid": null,
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/37769423/"
+  },
   "pubmed-37552305": {
     "id": "mitchell-2023",
     "slug": "pubmed-37552305",
@@ -302,6 +449,35 @@
     "doi": null,
     "nice": null,
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/37552305/"
+  },
+  "pubmed-37408168": {
+    "id": "fujimoto-2024",
+    "slug": "pubmed-37408168",
+    "title": "Comorbidities and mortality in adults with cerebral palsy Japan",
+    "year": 2024,
+    "type": "cohort-study",
+    "typeLabel": "Cohort Study",
+    "typeEmoji": "👥",
+    "tier": "mid",
+    "journal": "Developmental Medicine & Child Neurology",
+    "authors": [
+      "Fujimoto Y",
+      "Nakatani E",
+      "Tabara Y"
+    ],
+    "authorShort": "Fujimoto",
+    "tags": [
+      "mortality",
+      "adults",
+      "comorbidities",
+      "aspiration",
+      "Japan"
+    ],
+    "pubmed": 37408168,
+    "pmcid": null,
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/37408168/"
   },
   "pubmed-36807150": {
     "id": "ryan-2023",
@@ -338,6 +514,38 @@
     "nice": null,
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/36807150/"
   },
+  "pubmed-36161450": {
+    "id": "hinwood-2023",
+    "slug": "pubmed-36161450",
+    "title": "Survival in Victoria Australia four decades",
+    "year": 2023,
+    "type": "cohort-study",
+    "typeLabel": "Cohort Study",
+    "typeEmoji": "👥",
+    "tier": "mid",
+    "journal": "Developmental Medicine & Child Neurology",
+    "authors": [
+      "Hinwood GL",
+      "Loftus H",
+      "Shepherd DA",
+      "Guzys A",
+      "Reddihough DS",
+      "Reid SM"
+    ],
+    "authorShort": "Hinwood",
+    "tags": [
+      "survival",
+      "mortality",
+      "Australia",
+      "longitudinal",
+      "registry"
+    ],
+    "pubmed": 36161450,
+    "pmcid": null,
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/36161450/"
+  },
   "pubmed-34705276": {
     "id": "manikandan-2022",
     "slug": "pubmed-34705276",
@@ -368,6 +576,36 @@
     "doi": null,
     "nice": null,
     "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/34705276/"
+  },
+  "pubmed-34378726": {
+    "id": "avagyan-2021",
+    "slug": "pubmed-34378726",
+    "title": "AAC interventions in cerebral palsy effectiveness",
+    "year": 2021,
+    "type": "systematic-review",
+    "typeLabel": "Systematic Review",
+    "typeEmoji": "📊",
+    "tier": "top",
+    "journal": "Codas",
+    "authors": [
+      "Avagyan A",
+      "Mkrtchyan H",
+      "Shafa FA",
+      "Mathew JA",
+      "Petrosyan T"
+    ],
+    "authorShort": "Avagyan",
+    "tags": [
+      "AAC",
+      "communication",
+      "intervention",
+      "systematic-review"
+    ],
+    "pubmed": 34378726,
+    "pmcid": null,
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/34378726/"
   },
   "pubmed-32061920": {
     "id": "vanderslot-2020",
@@ -1013,6 +1251,34 @@
     "nice": null,
     "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7297454/"
   },
+  "pmc-7016022": {
+    "id": "adams-2020",
+    "slug": "pmc-7016022",
+    "title": "Total hip arthroplasty outcomes in cerebral palsy",
+    "year": 2020,
+    "type": "systematic-review",
+    "typeLabel": "Systematic Review",
+    "typeEmoji": "📊",
+    "tier": "top",
+    "journal": "Journal of Orthopaedics",
+    "authors": [
+      "Adams Curtis T",
+      "Lakra Akshay"
+    ],
+    "authorShort": "Adams",
+    "tags": [
+      "hip",
+      "arthroplasty",
+      "surgery",
+      "orthopedics",
+      "adults"
+    ],
+    "pubmed": 31958731,
+    "pmcid": "PMC7016022",
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/31958731/"
+  },
   "pmc-6832653": {
     "id": "tevelde-2019",
     "slug": "pmc-6832653",
@@ -1042,6 +1308,36 @@
     "doi": null,
     "nice": null,
     "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6832653/"
+  },
+  "pmc-6549269": {
+    "id": "blair-2019",
+    "slug": "pmc-6549269",
+    "title": "Survival and mortality in cerebral palsy to sixth decade",
+    "year": 2019,
+    "type": "cohort-study",
+    "typeLabel": "Cohort Study",
+    "typeEmoji": "👥",
+    "tier": "mid",
+    "journal": "BMC Neurology",
+    "authors": [
+      "Blair E",
+      "Langdon K",
+      "McIntyre S",
+      "Lawrence D",
+      "Watson L"
+    ],
+    "authorShort": "Blair",
+    "tags": [
+      "survival",
+      "mortality",
+      "life-expectancy",
+      "adults"
+    ],
+    "pubmed": null,
+    "pmcid": "PMC6549269",
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6549269/"
   },
   "pmc-6482427": {
     "id": "pmc-6482427",
@@ -1340,6 +1636,42 @@
     "doi": null,
     "nice": null,
     "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10411432/"
+  },
+  "pmc-10292172": {
+    "id": "aldharman-2023",
+    "slug": "pmc-10292172",
+    "title": "Risk factors for mortality in cerebral palsy",
+    "year": 2023,
+    "type": "systematic-review",
+    "typeLabel": "Systematic Review",
+    "typeEmoji": "📊",
+    "tier": "top",
+    "journal": "Cureus",
+    "authors": [
+      "Aldharman SS",
+      "Alhamad FS",
+      "Alharbi RM",
+      "Almutairi YS",
+      "Alhomsi MWM",
+      "Alzahrani SA",
+      "Alayyaf AS",
+      "Alabdullatif NH",
+      "Bin Saeedu SS",
+      "Alnaaim SA"
+    ],
+    "authorShort": "Aldharman",
+    "tags": [
+      "mortality",
+      "survival",
+      "risk-factors",
+      "systematic-review",
+      "respiratory"
+    ],
+    "pubmed": null,
+    "pmcid": "PMC10292172",
+    "doi": null,
+    "nice": null,
+    "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10292172/"
   },
   "pmc-10116133": {
     "id": "srinivasan-2023",

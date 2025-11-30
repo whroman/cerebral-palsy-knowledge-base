@@ -3,6 +3,8 @@ sidebar_position: 0
 title: Classification Systems
 ---
 
+import Cite from '@site/src/components/Cite';
+
 # Classification Systems
 
 Cerebral palsy is classified using standardized systems that describe functional abilities, not just diagnosis. These classifications help match people with appropriate services, set expectations, and communicate needs across providers.
@@ -37,7 +39,7 @@ This combination gives a more complete picture than any single classification.
 ## Adults and Classification
 
 These systems were developed for children but remain relevant for adults:
-- Classifications are generally stable after age 6-12
+- Classifications are generally stable after age 6-12 <Cite slug="canchild-gmfcs" />
 - Adult services often reference childhood classification levels
 - Some adults were never formally classified and may benefit from assessment
 

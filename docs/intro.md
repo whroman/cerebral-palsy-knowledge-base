@@ -19,30 +19,30 @@ Cerebral palsy is a group of neurological disorders caused by brain injury or ab
 
 ## Core Domains
 
-### [Classification](./classification/)
-How cerebral palsy is categorized by motor function, manual ability, and communication. Classification levels help match people with appropriate services and set realistic expectations.
+### [Understanding Cerebral Palsy](./understanding/)
+How cerebral palsy is categorized by motor function, manual ability, and communication. Classification levels help match people with appropriate services and set realistic expectations. Also covers co-occurring conditions like autism (6-9%, 5x general population) and secondary conditions.
 
-→ GMFCS (mobility) · MACS (hand function) · CFCS (communication)
+→ GMFCS (mobility) · MACS (hand function) · CFCS (communication) · Co-occurring conditions
 
 ### [Assessment](./assessment/)
 How adults with cerebral palsy should be evaluated. Many adults were never comprehensively assessed or were assessed only in childhood. Proper assessment identifies needs and qualifies for services.
 
 → NICE guidelines · Cognitive evaluation · Functional independence measures
 
-### [Co-occurring Conditions](./co-occurring/)
-Conditions that frequently appear alongside cerebral palsy. Autism occurs in 6-9% of people with cerebral palsy (5x the general population). Nearly half have scoliosis and over a quarter have epilepsy. Understanding co-occurrence prevents misdiagnosis and ensures complete care.
-
-→ Autism co-occurrence · Secondary conditions · Classification differences
-
 ### [Management](./management/)
-Treatment approaches and specialist roles. Physiatrists serve as comprehensive care coordinators for adults with cerebral palsy. Pain affects 70% of adults and requires active management. Spasticity treatment ranges from oral medications to surgical options.
+Treatment approaches and specialist roles. Physiatrists serve as comprehensive care coordinators for adults with cerebral palsy. Pain affects 70% of adults and requires active management. <Cite slug="pubmed-32061920" /> Dysphagia affects up to 85% and is a leading cause of preventable mortality. <Cite slug="pubmed-39985076" />
 
-→ Physiatrist role · Pain management · Spasticity · Equipment · Gait patterns
+→ Physiatrist role · Pain management · Spasticity · Nutrition & Feeding · Communication · Equipment · Gait patterns
 
-### [Adults](./adults/)
-Issues specific to adults with cerebral palsy, including late diagnosis, mental health, and aging. Depression and anxiety occur at twice the rate of the general population. Many adults were diagnosed in childhood but never received adult-appropriate assessment or services.
+### [Getting Started](./getting-started/finding-services.md)
+Finding and accessing care for adults with cerebral palsy. Covers locating providers, transitioning from pediatric to adult care, and assessment for those diagnosed late in life.
 
-→ Late diagnosis · Mental health · Finding services · Transition · Caregiver support
+→ Finding services · Transition to adult care · Late diagnosis
+
+### [Living with Cerebral Palsy](./living/)
+Long-term considerations for adults with cerebral palsy. Depression and anxiety occur at twice the rate of the general population. <Cite slug="pubmed-31382276" /> Over 80% live beyond age 58, with mild cases having near-normal life expectancy. <Cite slug="pmc-6549269" />
+
+→ Mental health · Life expectancy · Caregiver support
 
 ---
 
@@ -56,6 +56,8 @@ Issues specific to adults with cerebral palsy, including late diagnosis, mental 
 | 28% have epilepsy | <Cite slug="pubmed-36807150" /> |
 | 21% have depression or anxiety (2x general population) | <Cite slug="pubmed-31382276" /> |
 | 6-9% also have autism (5x general population) | <Cite slug="pmc-11015243" /> |
+| Up to 85% have dysphagia (swallowing difficulties) | <Cite slug="pubmed-39985076" /> |
+| 80%+ live beyond age 58 | <Cite slug="pmc-6549269" /> |
 
 ---
 
@@ -68,5 +70,7 @@ Issues specific to adults with cerebral palsy, including late diagnosis, mental 
 | **Neuropsychologist** | Cognitive and autism assessment |
 | **Orthotist** | Custom braces and orthotics |
 | **PT/OT/SLP** | Therapy services |
+| **Dietitian** | Nutrition, feeding modifications |
+| **Gastroenterologist** | Feeding tubes, reflux |
 | **Care coordinator** | Navigate services, transitions |
 
