@@ -2,7 +2,7 @@
 id: umich-adult-cp
 slug: umich-adult-cp
 title: Adult Cerebral Palsy Care
-url: https://www.uofmhealth.org/conditions-treatments/rehabilitation/adult-cerebral-palsy-care
+url: https://www.uofmhealth.org/our-care/specialties-services/adult-cerebral-palsy-clinic
 year: 2023
 type: clinical-resource
 journal: University of Michigan Health
@@ -13,7 +13,7 @@ tags: [adult, physiatry, comprehensive-care]
 
 # Adult Cerebral Palsy Care
 
-[University of Michigan Health](https://www.uofmhealth.org/conditions-treatments/rehabilitation/adult-cerebral-palsy-care)
+[University of Michigan Health](https://www.uofmhealth.org/our-care/specialties-services/adult-cerebral-palsy-clinic)
 
 ## Key Findings
 
