@@ -188,3 +188,14 @@ body[data-scroll-locked] .theme-doc-toc-desktop {
 .menu {
   padding-bottom: 4rem;
 }
+
+/* ==========================================================================
+   Citation Line Breaks
+   Show line breaks after citations in paragraphs, hide in tables
+   ========================================================================== */
+
+/* Hide citation line breaks in tables */
+td [data-cite] + br,
+th [data-cite] + br {
+  display: none;
+}

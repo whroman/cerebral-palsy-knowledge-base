@@ -20,29 +20,29 @@ Cerebral palsy is a group of neurological disorders caused by brain injury or ab
 ## Core Domains
 
 ### [Understanding Cerebral Palsy](./understanding/)
-How cerebral palsy is categorized by motor function, manual ability, and communication. Classification levels help match people with appropriate services and set realistic expectations. Also covers co-occurring conditions like autism (6-9%, 5x general population) and secondary conditions.
+How cerebral palsy is categorized by motor function, manual ability, and communication. Classification levels help match people with appropriate services and set realistic expectations. Also covers co-occurring conditions like autism (6-9%, 5x general population) and secondary conditions. <Cite slug="pmc-11015243" />
 
-→ GMFCS (mobility) · MACS (hand function) · CFCS (communication) · Co-occurring conditions
+[GMFCS (mobility)](./understanding/gmfcs.md) · [MACS (hand function)](./understanding/macs.md) · [CFCS (communication)](./understanding/cfcs.md) · [Co-occurring conditions](./understanding/co-occurring/)
 
 ### [Assessment](./assessment/)
 How adults with cerebral palsy should be evaluated. Many adults were never comprehensively assessed or were assessed only in childhood. Proper assessment identifies needs and qualifies for services.
 
-→ NICE guidelines · Cognitive evaluation · Functional independence measures
+[Cognitive evaluation](./assessment/cognitive.md) · [Functional independence](./assessment/functional-independence.md)
 
 ### [Management](./management/)
 Treatment approaches and specialist roles. Physiatrists serve as comprehensive care coordinators for adults with cerebral palsy. Pain affects 70% of adults and requires active management. <Cite slug="pubmed-32061920" /> Dysphagia affects up to 85% and is a leading cause of preventable mortality. <Cite slug="pubmed-39985076" />
 
-→ Physiatrist role · Pain management · Spasticity · Nutrition & Feeding · Communication · Equipment · Gait patterns
+[Physiatrist role](./management/physiatrist-role.md) · [Pain](./management/pain.md) · [Spasticity](./management/spasticity.md) · [Nutrition](./management/nutrition.md) · [Communication](./management/communication.md) · [Equipment](./management/equipment.md) · [Gait](./management/gait-patterns.md)
 
 ### [Getting Started](./getting-started/finding-services.md)
 Finding and accessing care for adults with cerebral palsy. Covers locating providers, transitioning from pediatric to adult care, and assessment for those diagnosed late in life.
 
-→ Finding services · Transition to adult care · Late diagnosis
+[Finding services](./getting-started/finding-services.md) · [Transition to adult care](./getting-started/transition.md) · [Late diagnosis](./getting-started/late-diagnosis.md)
 
 ### [Living with Cerebral Palsy](./living/)
 Long-term considerations for adults with cerebral palsy. Depression and anxiety occur at twice the rate of the general population. <Cite slug="pubmed-31382276" /> Over 80% live beyond age 58, with mild cases having near-normal life expectancy. <Cite slug="pmc-6549269" />
 
-→ Mental health · Life expectancy · Caregiver support
+[Mental health](./living/mental-health.md) · [Life expectancy](./living/life-expectancy.md) · [Caregiver support](./living/caregiver.md)
 
 ---
 

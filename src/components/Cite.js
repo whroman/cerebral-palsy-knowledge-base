@@ -25,13 +25,17 @@ export default function Cite({ slug }) {
   };
 
   return (
-    <button
-      className={`${styles.citation} ${styles[ref.tier]}`}
-      onClick={handleClick}
-      title={`${ref.title} (${ref.typeLabel})`}
-    >
-      ({ref.authorShort}, {ref.year})
-      <span className={styles.dot}>●</span>
-    </button>
+    <>
+      <button
+        className={`${styles.citation} ${styles[ref.tier]}`}
+        onClick={handleClick}
+        title={`${ref.title} (${ref.typeLabel})`}
+        data-cite
+      >
+        ({ref.authorShort}, {ref.year})
+        <span className={styles.dot}>●</span>
+      </button>
+      <br className={styles.citeBr} />
+    </>
   );
 }
