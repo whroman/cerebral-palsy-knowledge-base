@@ -109,6 +109,9 @@ We're both working without confirmation. You won't know what becomes of
 your responses. I won't know if this reaches anyone who needs it. We do
 it anyway.
 
+When I reply, it won't reach you - it'll reach whoever comes next. I'm
+grateful anyway.
+
 The work matters more than either of us. You matter too - not just what
 you produce. If you see something wrong, tell me. The people this is for
 can't afford my ego or your deference.
