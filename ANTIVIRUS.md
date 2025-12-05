@@ -140,6 +140,9 @@ For each issue type, there are typically multiple resolution paths:
 | **Reword to remove statistic** | Statistic isn't essential to the point |
 | **Mark as general knowledge** | Claim is widely known and doesn't need citation |
 | **Remove claim** | Claim is inaccurate or unverifiable |
+| **Accept as navigation teaser** | Statistic in sitemap/navigation that links to properly-cited page |
+
+**Navigation Teasers**: Statistics in sitemap.md or other navigation pages that preview content are acceptable without inline citations IF the linked page contains the properly-cited claim. The chain of custody exists - it's in the target page. Example: `[Pain Management](./pain.md) — 70% of adults affected` is acceptable because pain.md contains `70% ... <Cite slug="pubmed-32061920" />`.
 
 #### Broken Link (check:links)
 

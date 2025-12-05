@@ -77,7 +77,7 @@ Common reasons for hip replacement in cerebral palsy: <Cite slug="pmc-7016022" /
 ## Hip Surveillance (Pediatric to Adult Transition)
 
 Hip surveillance programs monitor children for hip displacement. Standard recommendations include:
-- Early initiation (typically by age 2 or at diagnosis)
+- Early initiation (at diagnosis or during early childhood)
 - Regular clinical and radiographic monitoring
 - More frequent surveillance for GMFCS III-V
 - Continuing until skeletal maturity

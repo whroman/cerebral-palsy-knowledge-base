@@ -90,14 +90,14 @@ How conditions are treated and managed:
 
 - [Management Overview](./management/index.md) — Coordination and treatment approaches
   - [Physiatrist Role](./management/physiatrist-role.md) — PM&R as care coordinator
-  - [Pain Management](./management/pain.md) — Chronic pain management
+  - [Pain Management](./management/pain.md) — 70% of adults affected
   - [Spasticity Management](./management/spasticity.md) — Treatment hierarchy
   - [Nutrition & Feeding](./management/nutrition.md) — Dysphagia and feeding
   - [Communication Strategies](./management/communication.md) — AAC and speech support
   - [Equipment & Devices](./management/equipment.md) — Orthotics, mobility aids
   - [Gait Patterns](./management/gait-patterns.md) — Walking patterns
   - [Physical Therapy & Exercise](./management/physical-therapy.md) — Evidence-based interventions
-  - [Epilepsy Management](./management/epilepsy.md) — Seizure management
+  - [Epilepsy Management](./management/epilepsy.md) — Seizures affect ~50%
   - [Orthopedics & Hip](./management/orthopedics.md) — Hip and musculoskeletal
 
 ### Living with Cerebral Palsy
@@ -105,7 +105,7 @@ How conditions are treated and managed:
 Long-term considerations:
 
 - [Living Overview](./living/index.md) — Adult-specific issues
-  - [Mental Health](./living/mental-health.md) — Depression and anxiety
+  - [Mental Health](./living/mental-health.md) — Depression, anxiety (2x rates)
   - [Life Expectancy](./living/life-expectancy.md) — Survival and prognostic factors
   - [Caregiver Resources](./living/caregiver.md) — Support for family caregivers
 
