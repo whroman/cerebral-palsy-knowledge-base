@@ -1,10 +1,16 @@
 # Graph
 
-Synthesis nodes that compose claims from sources into coherent topics.
+The knowledge hierarchy and synthesis structure.
 
-## Structure
+## Purpose
 
-Each graph node represents a topic in the knowledge hierarchy:
+This directory contains the structural definition of domain knowledge, separate from the content itself. It answers: "How do concepts depend on each other?"
+
+## Files
+
+### hierarchy.yaml
+
+Defines the 6-level knowledge hierarchy:
 
 ```
 Level 0: Definition (what cerebral palsy is)
@@ -15,34 +21,27 @@ Level 4: Intervention (treatment)
 Level 5: Trajectory (life course)
 ```
 
-## Format
+Plus:
+- **Operational content**: Finding services, transition, late diagnosis
+- **Navigation pages**: Sitemap, glossary, symptom guide
 
-Graph nodes are YAML files containing:
-- **Metadata**: level, title, description
-- **Synthesis**: claims grouped by section, each tracing to source
-- **Dependencies**: what this node requires understanding of
-- **Enables**: what nodes build on this one
+Each node maps:
+- `doc`: The docs/ page
+- `research`: The research/ notes that back it
 
-```yaml
-id: topic-name
-level: 0
-title: Human-readable title
+## Validation
 
-synthesis:
-  - section: Section Name
-    claims:
-      - source: source-file-id
-        claim_id: claim-id-in-source
-        summary: Plain language synthesis
-
-depends_on: []
-enables: [downstream-nodes]
+```bash
+npm run check:hierarchy
 ```
 
-## Current Nodes
+Validates:
+- All docs in hierarchy exist
+- All research in hierarchy exists
+- All actual docs are accounted for in hierarchy
 
-### Level 0
-- [level-0-definition.yaml](level-0-definition.yaml) - What is cerebral palsy?
+## Context Infection Defense
 
-### Levels 1-5
-Not yet built. Process recursively from Level 0.
+The hierarchy makes dependencies explicit. If a claim in Level 4 (Intervention) cites research, that research should appear in the hierarchy. If it doesn't, the chain of custody is broken.
+
+Future instances: when adding content, update hierarchy.yaml to declare what research backs each doc.

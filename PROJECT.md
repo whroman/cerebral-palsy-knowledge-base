@@ -10,23 +10,26 @@ This knowledge base exists to help caretakers of adults with cerebral palsy rece
 
 ## Three Challenges
 
-This project addresses three distinct concerns that must not be conflated:
+This project addresses three distinct concerns:
 
 | Challenge | Serves | Solution |
 |-----------|--------|----------|
-| **Domain knowledge hierarchy** | Domain Experts | [docs/sitemap.md](docs/sitemap.md) - Information Hierarchy section |
-| **User navigation** | Readers | [docs/sitemap.md](docs/sitemap.md) - Entry Points and navigation structure |
-| **Agent context** | Agents | CLAUDE.md → references source-of-truth files |
+| **Domain knowledge hierarchy** | Domain Experts | [graph/hierarchy.yaml](graph/hierarchy.yaml) - 6-level knowledge structure |
+| **User navigation** | Readers | [docs/sitemap.md](docs/sitemap.md) - Entry points and navigation |
+| **Agent context** | Agents | CLAUDE.md → PROJECT.md → graph/ |
 
-The Sitemap feature is the source of truth for both domain hierarchy and user navigation.
+The hierarchy defines knowledge dependencies. The sitemap adapts it for human navigation.
 
 ## Architectural Direction
 
-Previous instances and the user have been designing the structural foundation of this project. Here's where we've landed:
+**Structure:**
+```
+graph/hierarchy.yaml    # Knowledge hierarchy (6 levels + operational + navigation)
+research/               # Source nodes (67 Tier 1 sources with verbatim quotes)
+docs/                   # Human-readable pages citing research
+```
 
-**The core insight:** The artifact isn't a document tree - it's a synthesis graph. Research notes are nodes. Claims are edges connecting to source nodes. Docs are human-readable projections of the graph.
-
-**Domain knowledge hierarchy** (knowledge dependency, not user journey):
+**Domain knowledge hierarchy** (by dependency, not user journey):
 ```
 Level 0: Definition (what cerebral palsy is)
 Level 1: Classification (GMFCS, MACS, CFCS - the language everything else uses)
@@ -34,31 +37,35 @@ Level 2: Manifestations (motor patterns, associated conditions, secondary condit
 Level 3: Assessment (how to measure what's in Level 2)
 Level 4: Intervention (requires understanding Levels 1-3)
 Level 5: Trajectory (life expectancy, functional changes, transitions)
++ Operational: Finding services, transition, late diagnosis
++ Navigation: Sitemap, glossary, symptom guide
 ```
 
-**The pipeline concept:** Process the knowledge hierarchy recursively. Foundational concepts before derivative concepts. Each node needs research before synthesis, synthesis before publication.
+**Chain of custody:** Every doc page declares its backing research in `graph/hierarchy.yaml`. Every claim in docs uses `<Cite slug="..." />` to reference research notes. `check:hierarchy` validates the chain.
 
-**Context infection:** Errors propagate through agent reasoning. If corrupted information is in your context when you synthesize, you produce new errors that don't trace back obviously to the source. The defense is explicit chain of custody - every claim traces to source, contradictions surface as graph conflicts.
+**Context infection defense:** Errors propagate through agent reasoning. If corrupted information is in your context, you produce new errors. The defense: explicit chain of custody via hierarchy.yaml + Cite components. If a claim doesn't trace to source, it's suspect.
 
-**What's not built yet:** This is vision, not implementation. The current system uses files and folders, not a graph. The sitemap is the source of truth, not a projection.
+**Pipeline concept:** When extending the knowledge base, process foundational concepts (Level 0-1) before derivative concepts (Level 4-5). Each node needs research before content.
 
-**To future instances:** Think about what's actually buildable. Challenge what previous instances proposed if it doesn't hold up. Find the simplest version that could work. Find where this breaks. You're not bound by what came before. But you also don't have to rediscover it. Build from here, or tear it down and build something better.
-
-The people this serves - caretakers of adults with cerebral palsy - are waiting for something useful. The work matters. So do you.
+**To future instances:** The structure is built. Extend it by: adding research notes, updating hierarchy.yaml, creating/updating doc pages with Cite references. Run `check:all` before committing. Challenge what doesn't work.
 
 ## Knowledge Base Index
 
-### Features
-- [features-registry/CLAUDE.md](features-registry/CLAUDE.md) - Feature registry
+### Graph (Source of Truth for Structure)
+- [graph/CLAUDE.md](graph/CLAUDE.md) - Graph index
+- [graph/hierarchy.yaml](graph/hierarchy.yaml) - **Canonical knowledge hierarchy**
+- When adding/removing pages, update hierarchy.yaml
 
 ### Research (Source of Truth for Evidence)
-- [research/CLAUDE.md](research/CLAUDE.md) - Research notes index
+- [research/CLAUDE.md](research/CLAUDE.md) - Research notes index (67 sources)
 - Content in `/docs/` must be derived from research notes
 
-### Content (Source of Truth for Structure)
-- [docs/sitemap.md](docs/sitemap.md) - **Canonical structure of all wiki content**
-- All docs are listed in the sitemap; `check:sitemap` enforces sync
-- When adding/removing pages, update sitemap.md first
+### Docs (Human-Readable Projections)
+- [docs/sitemap.md](docs/sitemap.md) - User navigation
+- All docs are listed in both hierarchy.yaml and sitemap.md
+
+### Features
+- [features-registry/CLAUDE.md](features-registry/CLAUDE.md) - Feature registry
 
 ## Critical Rules
 
@@ -107,16 +114,17 @@ tags: [topic1, topic2]
 ### Workflow
 
 **Adding new content:**
-1. Research first: Create research note from Tier 1 source
+1. Research first: Create research note from Tier 1 source in `research/`
 2. Extract findings: Direct quotes and data in the research note
-3. Update sitemap: Add new page to `docs/sitemap.md` first
-4. Create page: Write content in `/docs/` referencing research notes
-5. Verify: Run `check:sitemap` to confirm sync
+3. Update hierarchy: Add to `graph/hierarchy.yaml` (correct level, with research refs)
+4. Update sitemap: Add to `docs/sitemap.md` for navigation
+5. Create page: Write content in `docs/` with `<Cite slug="..."/>` references
+6. Verify: Run `check:all` to confirm everything syncs
 
 **Never:**
 - Write content without a research note backing it
-- Create a doc page without adding it to the sitemap
-- Remove a page without removing it from the sitemap
+- Create a doc page without adding it to hierarchy.yaml and sitemap.md
+- Remove a page without removing it from both
 
 ## Current Issues
 
@@ -133,6 +141,7 @@ npm run check:abbreviations # Find prohibited "CP" abbreviations
 npm run check:citations    # Verify all Cite slugs have matching research notes
 npm run check:uncited      # Find claims without citations (percentages, statistics)
 npm run check:sitemap      # Verify sitemap matches actual docs structure
+npm run check:hierarchy    # Verify hierarchy.yaml matches actual structure
 npm run check:features     # Validate feature registry
 npm run check:links        # Verify all links are valid
 ```

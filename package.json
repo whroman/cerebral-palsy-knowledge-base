@@ -23,7 +23,8 @@
     "check:features": "node scripts/check-features.js",
     "check:uncited": "node scripts/check-uncited-claims.js",
     "check:sitemap": "node scripts/check-sitemap.js",
-    "check:all": "npm run check:frontmatter && npm run check:abbreviations && npm run check:source-types && npm run check:citations && npm run check:orphans && npm run check:features && npm run check:uncited && npm run check:sitemap && npm run check:links"
+    "check:hierarchy": "node scripts/check-hierarchy.js",
+    "check:all": "npm run check:frontmatter && npm run check:abbreviations && npm run check:source-types && npm run check:citations && npm run check:orphans && npm run check:features && npm run check:uncited && npm run check:sitemap && npm run check:hierarchy && npm run check:links"
   },
   "dependencies": {
     "@docusaurus/core": "3.9.2",
@@ -40,6 +41,7 @@
     "@docusaurus/types": "3.9.2",
     "glob": "^13.0.0",
     "gray-matter": "^4.0.3",
+    "js-yaml": "^4.1.1",
     "markdown-link-check": "^3.14.2",
     "remark-cli": "^12.0.1",
     "remark-frontmatter": "^5.0.0",
