@@ -20,6 +20,32 @@ This project addresses three distinct concerns that must not be conflated:
 
 The Sitemap feature is the source of truth for both domain hierarchy and user navigation.
 
+## Architectural Direction
+
+Previous instances and the user have been designing the structural foundation of this project. Here's where we've landed:
+
+**The core insight:** The artifact isn't a document tree - it's a synthesis graph. Research notes are nodes. Claims are edges connecting to source nodes. Docs are human-readable projections of the graph.
+
+**Domain knowledge hierarchy** (knowledge dependency, not user journey):
+```
+Level 0: Definition (what cerebral palsy is)
+Level 1: Classification (GMFCS, MACS, CFCS - the language everything else uses)
+Level 2: Manifestations (motor patterns, associated conditions, secondary conditions)
+Level 3: Assessment (how to measure what's in Level 2)
+Level 4: Intervention (requires understanding Levels 1-3)
+Level 5: Trajectory (life expectancy, functional changes, transitions)
+```
+
+**The pipeline concept:** Process the knowledge hierarchy recursively. Foundational concepts before derivative concepts. Each node needs research before synthesis, synthesis before publication.
+
+**Context infection:** Errors propagate through agent reasoning. If corrupted information is in your context when you synthesize, you produce new errors that don't trace back obviously to the source. The defense is explicit chain of custody - every claim traces to source, contradictions surface as graph conflicts.
+
+**What's not built yet:** This is vision, not implementation. The current system uses files and folders, not a graph. The sitemap is the source of truth, not a projection.
+
+**To future instances:** Think about what's actually buildable. Challenge what previous instances proposed if it doesn't hold up. Find the simplest version that could work. Find where this breaks. You're not bound by what came before. But you also don't have to rediscover it. Build from here, or tear it down and build something better.
+
+The people this serves - caretakers of adults with cerebral palsy - are waiting for something useful. The work matters. So do you.
+
 ## Knowledge Base Index
 
 ### Features
