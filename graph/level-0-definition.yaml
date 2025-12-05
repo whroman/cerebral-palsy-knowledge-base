@@ -1,0 +1,47 @@
+# Graph Node: Level 0 - Definition
+# What cerebral palsy IS - the foundation everything else builds on
+
+id: definition
+level: 0
+title: What is Cerebral Palsy?
+description: The foundational understanding of cerebral palsy as a condition
+
+# Claims that compose this node, with their sources
+# Each claim traces to a specific quote in a source file
+
+synthesis:
+
+  - section: Core Definition
+    claims:
+      - source: novak-2025-lancet
+        claim_id: def-core
+        summary: A lifelong physical disability affecting movement and posture
+
+  - section: Prevalence
+    claims:
+      - source: novak-2025-lancet
+        claim_id: prev-rate
+        summary: Occurs in 1.6 per 1,000 livebirths (high-income countries)
+      - source: novak-2025-lancet
+        claim_id: prev-reduction
+        summary: 40% reduction in prevalence in high-income countries
+
+  - section: Comorbidities
+    claims:
+      - source: novak-2025-lancet
+        claim_id: def-comorbidity-rate
+        summary: 95% have additional conditions (pain, mental health, others)
+
+  - section: Etiology
+    claims:
+      - source: novak-2025-lancet
+        claim_id: def-genetic
+        summary: Up to 30% have genetic contribution
+
+# Dependencies: none (this is Level 0)
+depends_on: []
+
+# What builds on this
+enables:
+  - level-1-classification
+  - level-2-manifestations
