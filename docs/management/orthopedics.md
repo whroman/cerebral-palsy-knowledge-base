@@ -23,9 +23,9 @@ Hip displacement correlates strongly with motor function level. Risk ranges from
 
 | GMFCS Level | Hip Displacement Risk |
 |-------------|----------------------|
-| I (walks without aids) | ~1% |
+| I (walks without aids) | ~1% <Cite slug="pmc-7016022" /> |
 | II-III (walks with aids) | Moderate |
-| IV-V (wheelchair users) | Up to 75% |
+| IV-V (wheelchair users) | Up to 75% <Cite slug="pmc-7016022" /> |
 
 ## Total Hip Arthroplasty (Hip Replacement)
 
@@ -76,8 +76,8 @@ Common reasons for hip replacement in cerebral palsy: <Cite slug="pmc-7016022" /
 
 ## Hip Surveillance (Pediatric to Adult Transition)
 
-Hip surveillance programs monitor children for hip displacement. The AACPDM recommends:
-- Beginning by age 2 or at diagnosis
+Hip surveillance programs monitor children for hip displacement. Standard recommendations include:
+- Early initiation (typically by age 2 or at diagnosis)
 - Regular clinical and radiographic monitoring
 - More frequent surveillance for GMFCS III-V
 - Continuing until skeletal maturity
@@ -88,7 +88,7 @@ Hip surveillance programs monitor children for hip displacement. The AACPDM reco
 
 ### Scoliosis
 
-**46% of adults with cerebral palsy have scoliosis** (see [Secondary Conditions](../understanding/co-occurring/secondary-conditions.md)).
+**46% of adults with cerebral palsy have scoliosis** <Cite slug="pubmed-36807150" /> (see [Secondary Conditions](../understanding/co-occurring/secondary-conditions.md)).
 
 Management considerations:
 - Seating and positioning assessment

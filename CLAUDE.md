@@ -150,7 +150,9 @@ Never recommend pre-commit hooks.
 
 ## Project
 
-When doing project work, read PROJECT.md for full context.
+When doing project work, read:
+- PROJECT.md - Project context, structure, workflow
+- ANTIVIRUS.md - System for detecting and responding to issues
 
 This is a knowledge base for caretakers of adults with cerebral palsy.
 The work matters - accuracy and usefulness for their healthcare needs.

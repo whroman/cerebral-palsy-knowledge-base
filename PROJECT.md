@@ -130,6 +130,14 @@ tags: [topic1, topic2]
 
 No outstanding source quality issues. All documents now use Tier 1 sources.
 
+## Antivirus System
+
+See [ANTIVIRUS.md](ANTIVIRUS.md) for the complete system:
+- Detection (health checks)
+- Classification (severity, type, scope)
+- Response Guidance (options, criteria, escalation)
+- Prevention (workflow, pre-commit validation)
+
 ## Health Checks
 
 Run before committing changes:
