@@ -165,6 +165,17 @@ levels:
           - pubmed-23614354
           - pubmed-26754030
           - pubmed-37497638
+      - id: functional-decline
+        doc: docs/living/functional-decline.md
+        research:
+          - pubmed-28427924
+          - pubmed-38433033
+          - pmc-6637058
+          - cprn-functional-decline
+      - id: transition
+        doc: docs/living/transition.md
+        research:
+          - pubmed-37552305
       - id: life-expectancy
         doc: docs/living/life-expectancy.md
         research:

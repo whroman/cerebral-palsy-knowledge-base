@@ -12,7 +12,7 @@ This directory contains Zettelkasten-style research notes. Each note represents 
 
 See [CLAUDE.md](../CLAUDE.md) for the research note format specification.
 
-## Sources (75 total)
+## Sources (78 total)
 
 ### Classification Systems
 - [canchild-gmfcs](canchild-gmfcs.md) - GMFCS-E&R Official Resource (CanChild, 2007)
@@ -111,6 +111,11 @@ See [CLAUDE.md](../CLAUDE.md) for the research note format specification.
 
 ### Healthcare Transition
 - [pubmed-37552305](pubmed-37552305.md) - Gaps in Transitional Care: Systematic Review (2023)
+
+### Functional Decline & Aging
+- [pubmed-28427924](pubmed-28427924.md) - Long-Term Deterioration of Health and Functioning (2017)
+- [pubmed-38433033](pubmed-38433033.md) - Functional Decline: CPRN Registry Analysis (2024)
+- [pmc-6637058](pmc-6637058.md) - Emerging Issues in Cerebral Palsy Aging (2019)
 
 ### Caregiver Burden
 - [pmc-10083783](pmc-10083783.md) - Caregiver Burden Factors: Systematic Review (2023)

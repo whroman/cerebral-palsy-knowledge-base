@@ -73,8 +73,10 @@ Approaches to care and treatment.
 
 Long-term considerations for adults and families.
 
-- [Living Overview](./living/index.md) — Issues specific to adults with CP
+- [Living Overview](./living/index.md) — Issues specific to adults with cerebral palsy
 - [Mental Health](./living/mental-health.md) — Depression, anxiety, and emotional well-being
 - [Psychology and Identity](./living/psychology.md) — Self-concept, identity development, and lived experience
+- [Functional Decline](./living/functional-decline.md) — Physical changes common in adulthood
+- [Healthcare Transition](./living/transition.md) — Moving from pediatric to adult care
 - [Life Expectancy](./living/life-expectancy.md) — What affects longevity
 - [Caregiver Resources](./living/caregiver.md) — Support for family caregivers
