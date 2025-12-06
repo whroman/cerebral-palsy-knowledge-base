@@ -162,4 +162,3 @@ Equipment needs change with age:
 - **[Gait Patterns](./gait-patterns.md)** - AFOs and equipment for walking
 - **[Spasticity Management](./spasticity.md)** - Orthotics help manage spasticity
 - **[Pain Management](./pain.md)** - Proper equipment reduces pain
-- **[Finding Adult Services](../getting-started/finding-services.md)** - Finding specialists for equipment

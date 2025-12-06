@@ -54,9 +54,3 @@ Adults with cerebral palsy experience aging-related changes earlier:
 - **[Mental Health](./mental-health.md)** - Depression, anxiety, and psychological support
 - **[Life Expectancy](./life-expectancy.md)** - Survival rates, causes of mortality, and prevention
 - **[Caregiver Resources](./caregiver.md)** - Support for those providing care
-
-## Related Getting Started Pages
-
-- **[Late Diagnosis](../getting-started/late-diagnosis.md)** - Adults diagnosed later in life or never properly assessed
-- **[Finding Adult Services](../getting-started/finding-services.md)** - How to find providers and build a care team
-- **[Transition to Adult Care](../getting-started/transition.md)** - Moving from pediatric to adult healthcare

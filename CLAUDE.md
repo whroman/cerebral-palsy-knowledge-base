@@ -150,9 +150,32 @@ Never recommend pre-commit hooks.
 
 ## Project
 
-When doing project work, read:
-- PROJECT.md - Project context, structure, workflow
-- ANTIVIRUS.md - System for detecting and responding to issues
-
-This is a knowledge base for caretakers of adults with cerebral palsy.
+A knowledge base for caretakers of adults with cerebral palsy.
 The work matters - accuracy and usefulness for their healthcare needs.
+
+### Three Audiences
+
+Every component serves a specific audience:
+
+| Component | Serves | Purpose |
+|-----------|--------|---------|
+| `docs/` pages | **Readers** | Human-friendly content and navigation |
+| `graph/hierarchy.yaml` | **Maintainers** | Knowledge structure and dependencies |
+| CLAUDE.md chain | **Agents** | Operational context |
+
+### Before Modifying Any File
+
+Stop and verify:
+
+1. **Who does this file serve?** (Readers, Maintainers, or Agents)
+2. **Am I serving that audience?**
+3. **If docs/**: Is this human-friendly? Would a caregiver find it useful?
+4. **If graph/**: Does this accurately represent knowledge dependencies?
+5. **If research/**: Is the source Tier 1? Are quotes verbatim?
+
+If uncertain, check PROJECT.md for the full Three Challenges framework.
+
+### Full Context
+
+- [PROJECT.md](PROJECT.md) - Structure, workflow, health checks
+- [ANTIVIRUS.md](ANTIVIRUS.md) - Error detection and response guidance

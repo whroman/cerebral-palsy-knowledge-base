@@ -60,9 +60,9 @@ export default function Home() {
                 link="/docs/assessment"
               />
               <Feature
-                title="Getting Started"
-                description="Resources for finding adult services, transitioning from pediatric care, and getting assessment for those diagnosed later in life."
-                link="/docs/getting-started/finding-services"
+                title="Treatment & Management"
+                description="Evidence-based approaches to managing cerebral palsy in adults, including pain, spasticity, nutrition, and coordinated specialist care."
+                link="/docs/management"
               />
             </div>
             <div className="row margin-top--lg">

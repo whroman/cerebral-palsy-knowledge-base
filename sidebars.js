@@ -7,17 +7,6 @@ const sidebars = {
     'symptom-guide',
     {
       type: 'category',
-      label: 'Getting Started',
-      collapsible: true,
-      collapsed: false,
-      items: [
-        'getting-started/finding-services',
-        'getting-started/transition',
-        'getting-started/late-diagnosis',
-      ],
-    },
-    {
-      type: 'category',
       label: 'Understanding Cerebral Palsy',
       link: { type: 'doc', id: 'understanding/index' },
       items: [

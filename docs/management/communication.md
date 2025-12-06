@@ -135,4 +135,4 @@ The [Communication Function Classification System (CFCS)](../understanding/cfcs.
 
 - **[CFCS Classification](../understanding/cfcs.md)** - Communication function levels
 - **[Cognitive Assessment](../assessment/cognitive.md)** - Understanding cognitive abilities
-- **[Finding Services](../getting-started/finding-services.md)** - Locating AAC specialists
+- **[Equipment & Devices](./equipment.md)** - AAC devices and technology

@@ -30,7 +30,7 @@ Use this guide to find relevant information based on symptoms or concerns you're
 | **Difficulty walking** | Spasticity, weakness, fatigue | [Gait Patterns](./management/gait-patterns.md), [Equipment](./management/equipment.md) |
 | **Balance problems** | Motor control, fatigue | [Equipment](./management/equipment.md), [Physiatrist Role](./management/physiatrist-role.md) |
 | **Fatigue with activity** | Aging, inefficient movement | [Living Overview](./living/index.md), [Equipment](./management/equipment.md) |
-| **Reduced mobility over time** | Functional decline | [Living Overview](./living/index.md), [Finding Services](./getting-started/finding-services.md) |
+| **Reduced mobility over time** | Functional decline | [Living Overview](./living/index.md) |
 | **Want to improve strength** | Exercise options | [Physical Therapy & Exercise](./management/physical-therapy.md) |
 
 ---
@@ -75,9 +75,9 @@ Use this guide to find relevant information based on symptoms or concerns you're
 
 | Concern | Situation | See |
 |---------|-----------|-----|
-| **No adult provider** | Pediatric services ended | [Finding Adult Services](./getting-started/finding-services.md), [Transition](./getting-started/transition.md) |
-| **Never properly assessed** | Childhood-only evaluation | [Assessment Overview](./assessment/index.md), [Late Diagnosis](./getting-started/late-diagnosis.md) |
-| **Fragmented care** | Multiple specialists, no coordination | [Physiatrist Role](./management/physiatrist-role.md), [Finding Services](./getting-started/finding-services.md) |
+| **No adult provider** | Pediatric services ended | [Physiatrist Role](./management/physiatrist-role.md) |
+| **Never properly assessed** | Childhood-only evaluation | [Assessment Overview](./assessment/index.md) |
+| **Fragmented care** | Multiple specialists, no coordination | [Physiatrist Role](./management/physiatrist-role.md) |
 | **Equipment needs** | Outdated or inadequate equipment | [Equipment & Devices](./management/equipment.md) |
 | **Caregiver needs help** | Burnout, lack of support | [Caregiver Resources](./living/caregiver.md) |
 
@@ -109,5 +109,5 @@ Contact a healthcare provider urgently for:
 
 1. **Identify your concern** using the tables above
 2. **Read the linked pages** for detailed information
-3. **Find appropriate specialists** using [Finding Adult Services](./getting-started/finding-services.md)
+3. **Find appropriate specialists** — See [Who to See](./intro.md#who-to-see) for specialist roles
 4. **Prepare for appointments** with specific questions from the relevant pages

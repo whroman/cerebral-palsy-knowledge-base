@@ -34,11 +34,6 @@ Treatment approaches and specialist roles. Physiatrists serve as comprehensive c
 
 [Physiatrist role](./management/physiatrist-role.md) · [Pain](./management/pain.md) · [Spasticity](./management/spasticity.md) · [Nutrition](./management/nutrition.md) · [Communication](./management/communication.md) · [Equipment](./management/equipment.md) · [Gait](./management/gait-patterns.md)
 
-### [Getting Started](./getting-started/finding-services.md)
-Finding and accessing care for adults with cerebral palsy. Covers locating providers, transitioning from pediatric to adult care, and assessment for those diagnosed late in life.
-
-[Finding services](./getting-started/finding-services.md) · [Transition to adult care](./getting-started/transition.md) · [Late diagnosis](./getting-started/late-diagnosis.md)
-
 ### [Living with Cerebral Palsy](./living/)
 Long-term considerations for adults with cerebral palsy. Depression and anxiety occur at twice the rate of the general population. <Cite slug="pubmed-31382276" /> Over 80% live beyond age 58, with mild cases having near-normal life expectancy. <Cite slug="pmc-6549269" />
 

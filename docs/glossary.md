@@ -176,7 +176,7 @@ Hip replacement surgery. Achieves 87% pain relief and 79% functional improvement
 Oral muscle relaxant used for spasticity. See [Spasticity Management](./management/spasticity.md).
 
 **Transition**
-Process of moving from pediatric to adult healthcare. See [Transition to Adult Care](./getting-started/transition.md).
+Process of moving from pediatric to adult healthcare.
 
 ---
 

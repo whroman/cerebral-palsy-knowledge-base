@@ -8,23 +8,23 @@ process.
 
 This knowledge base exists to help caretakers of adults with cerebral palsy receive proper special needs assessment or care. Every decision must prioritize accuracy and usefulness for their healthcare needs.
 
-## Three Challenges
+## Three Audiences
 
-This project addresses three distinct concerns:
+Every component serves a specific audience:
 
-| Challenge | Serves | Solution |
-|-----------|--------|----------|
-| **Domain knowledge hierarchy** | Domain Experts | [graph/hierarchy.yaml](graph/hierarchy.yaml) - 6-level knowledge structure |
-| **User navigation** | Readers | [docs/sitemap.md](docs/sitemap.md) - Entry points and navigation |
-| **Agent context** | Agents | CLAUDE.md → PROJECT.md → graph/ |
+| Component | Serves | Purpose |
+|-----------|--------|---------|
+| `docs/` pages | **Readers** | Human-friendly content and navigation |
+| `graph/hierarchy.yaml` | **Maintainers** | Knowledge structure and dependencies |
+| CLAUDE.md chain | **Agents** | Operational context |
 
-The hierarchy defines knowledge dependencies. The sitemap adapts it for human navigation.
+The hierarchy defines knowledge dependencies. The docs adapt it for human readers.
 
 ## Architectural Direction
 
 **Structure:**
 ```
-graph/hierarchy.yaml    # Knowledge hierarchy (6 levels + operational + navigation)
+graph/hierarchy.yaml    # Knowledge hierarchy (6 levels + navigation)
 research/               # Source nodes (67 Tier 1 sources with verbatim quotes)
 docs/                   # Human-readable pages citing research
 ```
@@ -37,7 +37,6 @@ Level 2: Manifestations (motor patterns, associated conditions, secondary condit
 Level 3: Assessment (how to measure what's in Level 2)
 Level 4: Intervention (requires understanding Levels 1-3)
 Level 5: Trajectory (life expectancy, functional changes, transitions)
-+ Operational: Finding services, transition, late diagnosis
 + Navigation: Sitemap, glossary, symptom guide
 ```
 

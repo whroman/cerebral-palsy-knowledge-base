@@ -121,5 +121,4 @@ Antidepressants and anti-anxiety medications can be effective but require:
 
 - **[Pain Management](../management/pain.md)** - Pain is a major contributor to depression
 - **[Caregiver Resources](./caregiver.md)** - Caregiver mental health affects the whole family
-- **[Finding Adult Services](../getting-started/finding-services.md)** - How to find mental health providers
 - **[Secondary Conditions](../understanding/co-occurring/secondary-conditions.md)** - Depression as a secondary condition

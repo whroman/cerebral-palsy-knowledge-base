@@ -147,4 +147,3 @@ When discussing prognosis:
 
 - **[Nutrition & Feeding](../management/nutrition.md)** - Preventing aspiration and malnutrition
 - **[Secondary Conditions](../understanding/co-occurring/secondary-conditions.md)** - Managing health complications
-- **[Transition to Adult Care](../getting-started/transition.md)** - Ensuring continuity of care

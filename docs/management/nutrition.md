@@ -123,4 +123,3 @@ The feeding team typically includes:
 
 - **[Secondary Conditions](../understanding/co-occurring/secondary-conditions.md)** - Other common health complications
 - **[Life Expectancy](../living/life-expectancy.md)** - Respiratory causes and prevention
-- **[Finding Services](../getting-started/finding-services.md)** - Locating specialists

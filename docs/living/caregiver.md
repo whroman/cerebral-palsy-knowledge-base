@@ -189,6 +189,5 @@ Options to explore:
 
 - **[Life Expectancy](./life-expectancy.md)** - Understanding survival and long-term planning
 - **[Mental Health](./mental-health.md)** - Mental health support for the whole family
-- **[Finding Adult Services](../getting-started/finding-services.md)** - Building a care team to share the load
 - **[Equipment & Devices](../management/equipment.md)** - Equipment that reduces caregiver strain
-- **[Transition to Adult Care](../getting-started/transition.md)** - Planning for the future
+- **[Physiatrist Role](../management/physiatrist-role.md)** - Care coordination
