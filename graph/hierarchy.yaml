@@ -154,6 +154,17 @@ levels:
         research:
           - pmc-6439715
           - pubmed-31382276
+      - id: psychology
+        doc: docs/living/psychology.md
+        research:
+          - pubmed-28406650
+          - pubmed-25176001
+          - pubmed-20804447
+          - pubmed-16417673
+          - pmc-5073482
+          - pubmed-23614354
+          - pubmed-26754030
+          - pubmed-37497638
       - id: life-expectancy
         doc: docs/living/life-expectancy.md
         research:
@@ -165,25 +176,6 @@ levels:
         doc: docs/living/caregiver.md
         research:
           - pmc-10083783
-
-# Operational content (not domain knowledge)
-operational:
-  - id: finding-services
-    doc: docs/getting-started/finding-services.md
-    research:
-      - utsw-adult-cp
-      - umich-adult-cp
-      - cleveland-adult-cp
-      - ucla-cp-program
-  - id: transition
-    doc: docs/getting-started/transition.md
-    research:
-      - pubmed-37552305
-  - id: late-diagnosis
-    doc: docs/getting-started/late-diagnosis.md
-    research:
-      - pubmed-28715518
-      - pmc-6832653
 
 # Navigation-only pages (no domain claims)
 navigation:

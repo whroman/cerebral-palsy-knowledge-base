@@ -28,7 +28,8 @@ const ALLOWED_TYPES = [
   'protocol',
   'cross-sectional-study',
   'validation-study',
-  'epidemiological-study'
+  'epidemiological-study',
+  'qualitative-study'
 ];
 
 // Prohibited types (will cause failure)
@@ -56,7 +57,8 @@ const TYPE_TIERS = {
   'protocol': 'mid',
   'cross-sectional-study': 'mid',
   'validation-study': 'mid',
-  'epidemiological-study': 'mid'
+  'epidemiological-study': 'mid',
+  'qualitative-study': 'mid'
 };
 
 let errors = [];

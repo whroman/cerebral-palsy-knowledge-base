@@ -61,7 +61,8 @@
         "protocol",
         "cross-sectional-study",
         "validation-study",
-        "epidemiological-study"
+        "epidemiological-study",
+        "qualitative-study"
       ],
       "description": "Type of source (Tier 1 sources only)"
     },

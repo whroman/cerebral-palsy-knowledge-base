@@ -12,7 +12,7 @@ This directory contains Zettelkasten-style research notes. Each note represents 
 
 See [CLAUDE.md](../CLAUDE.md) for the research note format specification.
 
-## Sources (67 total)
+## Sources (75 total)
 
 ### Classification Systems
 - [canchild-gmfcs](canchild-gmfcs.md) - GMFCS-E&R Official Resource (CanChild, 2007)
@@ -64,6 +64,16 @@ See [CLAUDE.md](../CLAUDE.md) for the research note format specification.
 ### Mental Health
 - [pmc-6439715](pmc-6439715.md) - Risk of Depression and Anxiety (JAMA Neurology, 2019)
 - [pubmed-31382276](pubmed-31382276.md) - Mental Health Disorders Prevalence (2019)
+
+### Psychology & Identity
+- [pubmed-28406650](pubmed-28406650.md) - Disability Identity Development: Systematic Review (2017)
+- [pubmed-25176001](pubmed-25176001.md) - Identity Negotiation and Stigma (2015)
+- [pubmed-20804447](pubmed-20804447.md) - Self-Concept of Adults with Cerebral Palsy (2011)
+- [pubmed-16417673](pubmed-16417673.md) - Self-Concept in Children: Systematic Review (2006)
+- [pmc-5073482](pmc-5073482.md) - Ageing with Cerebral Palsy: Health Experiences Qualitative Study (2016)
+- [pubmed-23614354](pubmed-23614354.md) - Bodily Experience and Self-Awareness (2013)
+- [pubmed-26754030](pubmed-26754030.md) - Child and Youth Experiences: Qualitative Systematic Review (2016)
+- [pubmed-37497638](pubmed-37497638.md) - Social Participation in Adults: Systematic Review (2024)
 
 ### Spasticity Treatment
 - [pubmed-38678195](pubmed-38678195.md) - Intrathecal Baclofen Efficacy: Meta-analysis (2024)
